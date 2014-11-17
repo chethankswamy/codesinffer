@@ -1,0 +1,1774 @@
+FILE: /Applications/MAMP/htdocs/codesniffer/uploads/xerosample.php
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 1572 ERROR(S) AND 188 WARNING(S) AFFECTING 980 LINE(S)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    1 | ERROR   | End of line character is invalid; expected "\n" but found "\r\n"
+    2 | ERROR   | Missing file doc comment
+    3 | ERROR   | Logical operator "or" is prohibited; use "||" instead
+    3 | ERROR   | PHP keywords must be lowercase; expected "or" but found "OR"
+    6 | ERROR   | There must be exactly one blank line before the tags in class comments
+    7 | ERROR   | @package tag comment indented incorrectly; expected 1 spaces but found 4
+   10 | ERROR   | Missing @category tag in class comment
+   10 | ERROR   | Missing @author tag in class comment
+   10 | ERROR   | Missing @license tag in class comment
+   10 | ERROR   | Missing @link tag in class comment
+   13 | ERROR   | Whitespace found at end of line
+   14 | ERROR   | Equals sign not aligned with surrounding assignments; expected 4 spaces but found 1 space
+   15 | ERROR   | Variable "auto_render" is not in valid camel caps format
+   15 | ERROR   | Expected 1 blank line before member var; 0 found
+   15 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "false" but found "FALSE"
+   16 | ERROR   | Private member variable "xero_model" must be prefixed with an underscore
+   16 | ERROR   | Private member variable "xero_model" must contain a leading underscore
+   16 | ERROR   | Expected 1 blank line before member var; 0 found
+   17 | ERROR   | Private member variable "token_encryption_key" must be prefixed with an underscore
+   17 | ERROR   | Private member variable "token_encryption_key" must contain a leading underscore
+   17 | ERROR   | Expected 1 blank line before member var; 0 found
+   18 | ERROR   | Private member variable "discount_item_name" must be prefixed with an underscore
+   18 | ERROR   | Private member variable "discount_item_name" must contain a leading underscore
+   18 | ERROR   | Expected 1 blank line before member var; 0 found
+   19 | ERROR   | Private member variable "xero_suppliers_group" must be prefixed with an underscore
+   19 | ERROR   | Private member variable "xero_suppliers_group" must contain a leading underscore
+   19 | ERROR   | Expected 1 blank line before member var; 0 found
+   20 | ERROR   | Private member variable "xero_customer_group" must be prefixed with an underscore
+   20 | ERROR   | Private member variable "xero_customer_group" must contain a leading underscore
+   20 | ERROR   | Expected 1 blank line before member var; 0 found
+   21 | ERROR   | Whitespace found at end of line
+   22 | ERROR   | Missing function doc comment
+   22 | ERROR   | Expected 2 blank lines before function; 1 found
+   28 | ERROR   | Variable "discount_item_name" is not in valid camel caps format
+   29 | ERROR   | Variable "xero_customer_group" is not in valid camel caps format
+   30 | ERROR   | Variable "xero_suppliers_group" is not in valid camel caps format
+   33 | ERROR   | Expected //end __construct()
+   33 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+   33 | ERROR   | Expected 2 blank lines after function; 1 found
+   34 | ERROR   | Whitespace found at end of line
+   37 | ERROR   | Expected 1 space between asterisk and tag; 2 found
+   37 | ERROR   | There must be exactly one blank line before the tags in function comment
+   38 | ERROR   | Missing @return tag in function comment
+   44 | ERROR   | Concat operator must not be surrounded by spaces
+   44 | ERROR   | Concat operator must not be surrounded by spaces
+   44 | ERROR   | Concat operator must not be surrounded by spaces
+   44 | WARNING | Line exceeds 85 characters; contains 109 characters
+   47 | WARNING | Line exceeds 85 characters; contains 112 characters
+   47 | ERROR   | No space before comment text; expected "// refresh tokens only after the 24 minutes of its creation" but found "//refresh tokens only after the 24 minutes of its creation"
+   47 | ERROR   | Inline comments must start with a capital letter
+   47 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+   47 | ERROR   | Comments may not appear after statements.
+   48 | ERROR   | Variable "token_encryption_key" is not in valid camel caps format
+   49 | ERROR   | Expected //end _setup()
+   49 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+   49 | ERROR   | Expected 2 blank lines after function; 1 found
+   50 | ERROR   | Whitespace found at end of line
+   53 | ERROR   | Missing @return tag in function comment
+   56 | ERROR   | Variable "xero_model" is not in valid camel caps format
+   58 | ERROR   | Expected //end initialize()
+   58 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+   58 | ERROR   | Expected 2 blank lines after function; 1 found
+   59 | ERROR   | Whitespace found at end of line
+   62 | ERROR   | Expected 1 space between asterisk and tag; 2 found
+   62 | ERROR   | There must be exactly one blank line before the tags in function comment
+   63 | ERROR   | Missing @return tag in function comment
+   64 | ERROR   | Private method name "Xero_Controller::_pre_dispatch" is not in camel caps format
+   64 | ERROR   | Private method name "Xero_Controller::_pre_dispatch" is not in camel caps format
+   66 | ERROR   | Operator != prohibited; use !== instead
+   68 | ERROR   | Multi-line array contains a single value; use single-line array instead
+   70 | ERROR   | Closing parenthesis not aligned correctly; expected 30 space(s) but found 13
+   71 | ERROR   | Operator ! prohibited; use === FALSE instead
+   72 | ERROR   | String "HTTP/1.0 401 Not Authorized" does not require double quotes; use single quotes instead
+   73 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+   74 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+   75 | ERROR   | Array key not aligned correctly; expected 38 spaces but found 24
+   76 | ERROR   | Array key not aligned correctly; expected 38 spaces but found 24
+   77 | ERROR   | Closing parenthesis not aligned correctly; expected 38 space(s) but found 21
+   77 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+   80 | ERROR   | No blank line found after control structure
+   84 | ERROR   | Expected //end _pre_dispatch()
+   84 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+   84 | ERROR   | Expected 2 blank lines after function; 1 found
+   85 | ERROR   | Whitespace found at end of line
+   88 | ERROR   | There must be exactly one blank line before the tags in function comment
+   91 | ERROR   | Private method name "Xero_Controller::_get_signature_params" is not in camel caps format
+   91 | ERROR   | Private method name "Xero_Controller::_get_signature_params" is not in camel caps format
+   94 | ERROR   | Array key not aligned correctly; expected 23 spaces but found 12
+   95 | ERROR   | Array key not aligned correctly; expected 23 spaces but found 12
+   96 | ERROR   | Array key not aligned correctly; expected 23 spaces but found 12
+   97 | ERROR   | Array key not aligned correctly; expected 23 spaces but found 12
+   98 | ERROR   | Closing parenthesis not aligned correctly; expected 23 space(s) but found 9
+   99 | ERROR   | Whitespace found at end of line
+  100 | ERROR   | Inline doc block comments are not allowed; use "/* Comment */" or "// Comment" instead
+  101 | WARNING | Comment refers to a TODO task "Once the app gets approved, give the correct files for certificates"
+  101 | ERROR   | First line of comment not aligned correctly; expected 12 spaces but found 9
+  101 | ERROR   | Block comments must start with a capital letter
+  102 | ERROR   | Last line of comment aligned incorrectly; expected 8 spaces but found 9
+  102 | ERROR   | Empty line required after block comment
+  103 | ERROR   | Operator == prohibited; use === instead
+  103 | ERROR   | Operator == prohibited; use === instead
+  104 | ERROR   | Concat operator must not be surrounded by spaces
+  105 | ERROR   | Concat operator must not be surrounded by spaces
+  107 | ERROR   | Whitespace found at end of line
+  108 | ERROR   | Operator == prohibited; use === instead
+  109 | ERROR   | Concat operator must not be surrounded by spaces
+  111 | ERROR   | Concat operator must not be surrounded by spaces
+  111 | WARNING | Line exceeds 85 characters; contains 87 characters
+  113 | ERROR   | Whitespace found at end of line
+  115 | ERROR   | Expected //end _get_signature_params()
+  115 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  115 | ERROR   | Expected 2 blank lines after function; 1 found
+  116 | ERROR   | Whitespace found at end of line
+  119 | ERROR   | There must be exactly one blank line before the tags in function comment
+  122 | ERROR   | Private method name "Xero_Controller::_get_xero_oauth_object" is not in camel caps format
+  122 | ERROR   | Private method name "Xero_Controller::_get_xero_oauth_object" is not in camel caps format
+  125 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  125 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  126 | ERROR   | Array key not aligned correctly; expected 49 spaces but found 12
+  127 | ERROR   | Array key not aligned correctly; expected 49 spaces but found 12
+  128 | ERROR   | Array key not aligned correctly; expected 49 spaces but found 12
+  129 | ERROR   | Closing parenthesis not aligned correctly; expected 49 space(s) but found 9
+  129 | ERROR   | Only one argument is allowed per line in a multi-line function call
+  129 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  129 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  130 | ERROR   | Whitespace found at end of line
+  131 | WARNING | Line exceeds 85 characters; contains 126 characters
+  131 | ERROR   | No space before comment text; expected "// check if the created object has all the required parameters correct" but found "//check if the created object has all the required
+      |         | parameters correct"
+  131 | ERROR   | Inline comments must start with a capital letter
+  131 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+  131 | ERROR   | Comments may not appear after statements.
+  133 | ERROR   | Inline shorthand IF statement requires brackets around comparison
+  133 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+  133 | ERROR   | Inline IF statements are not allowed
+  133 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "false" but found "FALSE"
+  134 | ERROR   | Expected //end _get_xero_oauth_object()
+  134 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  134 | ERROR   | Expected 2 blank lines after function; 1 found
+  135 | ERROR   | Whitespace found at end of line
+  138 | ERROR   | Last parameter comment requires a blank newline after it
+  138 | ERROR   | Missing comment for param "$xeroOauth" at position 1
+  138 | ERROR   | There must be exactly one blank line before the tags in function comment
+  141 | ERROR   | Private method name "Xero_Controller::_set_tokens_to_object" is not in camel caps format
+  141 | ERROR   | Private method name "Xero_Controller::_set_tokens_to_object" is not in camel caps format
+  143 | WARNING | Inline control structures are discouraged
+  143 | ERROR   | Operator ! prohibited; use === FALSE instead
+  145 | ERROR   | Array key not aligned correctly; expected 20 spaces but found 16
+  146 | ERROR   | Array key not aligned correctly; expected 20 spaces but found 16
+  147 | ERROR   | Closing parenthesis not aligned correctly; expected 20 space(s) but found 13
+  148 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  148 | WARNING | Line exceeds 85 characters; contains 94 characters
+  149 | WARNING | Inline control structures are discouraged
+  149 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+  151 | ERROR   | Array key not aligned correctly; expected 20 spaces but found 16
+  152 | ERROR   | Array key not aligned correctly; expected 20 spaces but found 16
+  153 | ERROR   | Closing parenthesis not aligned correctly; expected 20 space(s) but found 13
+  154 | WARNING | Inline control structures are discouraged
+  156 | ERROR   | Array key not aligned correctly; expected 20 spaces but found 16
+  157 | ERROR   | Array key not aligned correctly; expected 20 spaces but found 16
+  158 | ERROR   | Closing parenthesis not aligned correctly; expected 20 space(s) but found 13
+  159 | ERROR   | Variable "token_encryption_key" is not in valid camel caps format
+  159 | WARNING | Line exceeds 85 characters; contains 137 characters
+  160 | ERROR   | Variable "token_encryption_key" is not in valid camel caps format
+  160 | WARNING | Line exceeds 85 characters; contains 144 characters
+  161 | ERROR   | Variable "XeroOAuth" is not in valid camel caps format
+  161 | WARNING | Line exceeds 85 characters; contains 86 characters
+  163 | ERROR   | Expected //end _set_tokens_to_object()
+  163 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  163 | ERROR   | Expected 2 blank lines after function; 1 found
+  164 | ERROR   | Whitespace found at end of line
+  167 | ERROR   | There must be exactly one blank line before the tags in function comment
+  168 | ERROR   | Missing @return tag in function comment
+  169 | ERROR   | Private method name "Xero_Controller::include_required_libraries" must be prefixed with an underscore
+  169 | ERROR   | Private method name "Xero_Controller::include_required_libraries" must be prefixed with an underscore
+  171 | ERROR   | File is being conditionally included; use "include_once" instead
+  172 | ERROR   | Expected //end include_required_libraries()
+  172 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  172 | ERROR   | Expected 2 blank lines after function; 1 found
+  173 | ERROR   | Whitespace found at end of line
+  176 | WARNING | Line exceeds 85 characters; contains 145 characters
+  176 | ERROR   | There must be exactly one blank line before the tags in function comment
+  184 | ERROR   | Whitespace found at end of line
+  185 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "false" but found "FALSE"
+  186 | WARNING | Line exceeds 85 characters; contains 94 characters
+  189 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+  190 | WARNING | Line exceeds 85 characters; contains 99 characters
+  191 | WARNING | Line exceeds 85 characters; contains 106 characters
+  192 | WARNING | Line exceeds 85 characters; contains 106 characters
+  193 | ERROR   | Variable "oauth_verifier" is not in valid camel caps format
+  193 | WARNING | Line exceeds 85 characters; contains 88 characters
+  194 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  194 | ERROR   | Only one argument is allowed per line in a multi-line function call
+  194 | ERROR   | Only one argument is allowed per line in a multi-line function call
+  194 | WARNING | Line exceeds 85 characters; contains 129 characters
+  195 | ERROR   | Array key not aligned correctly; expected 124 spaces but found 20
+  196 | ERROR   | Array key not aligned correctly; expected 124 spaces but found 20
+  197 | ERROR   | Closing parenthesis not aligned correctly; expected 124 space(s) but found 17
+  197 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  198 | ERROR   | Operator == prohibited; use === instead
+  199 | WARNING | Line exceeds 85 characters; contains 111 characters
+  200 | ERROR   | Variable "oauth_verifier" is not in valid camel caps format
+  201 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  201 | WARNING | Line exceeds 85 characters; contains 127 characters
+  202 | ERROR   | Inline shorthand IF statement requires brackets around comparison
+  202 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+  202 | ERROR   | Inline IF statements are not allowed
+  202 | WARNING | Line exceeds 85 characters; contains 101 characters
+  203 | WARNING | Line exceeds 85 characters; contains 89 characters
+  203 | ERROR   | No space before comment text; expected "// xero authentication success" but found "//xero authentication success"
+  203 | ERROR   | Inline comments must start with a capital letter
+  203 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+  203 | ERROR   | Comments may not appear after statements.
+  207 | ERROR   | Expected "} else {\n"; found "} else { //start oauth dance :)\n"
+  207 | ERROR   | Blank line found at start of control structure
+  207 | ERROR   | No space before comment text; expected "// start oauth dance :)" but found "//start oauth dance :)"
+  207 | ERROR   | Inline comments must start with a capital letter
+  207 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+  207 | ERROR   | Comments may not appear after statements.
+  209 | ERROR   | Array key not aligned correctly; expected 29 spaces but found 20
+  210 | ERROR   | Closing parenthesis not aligned correctly; expected 29 space(s) but found 17
+  211 | WARNING | Line exceeds 85 characters; contains 101 characters
+  212 | ERROR   | Operator == prohibited; use === instead
+  214 | WARNING | Line exceeds 85 characters; contains 107 characters
+  215 | ERROR   | String "Authorize" does not require double quotes; use single quotes instead
+  215 | ERROR   | Concat operator must not be surrounded by spaces
+  215 | ERROR   | Concat operator must not be surrounded by spaces
+  215 | WARNING | Line exceeds 85 characters; contains 153 characters
+  220 | ERROR   | End comment for long condition not found; expected "//end if"
+  221 | ERROR   | End comment for long condition not found; expected "//end if"
+  222 | ERROR   | Expected //end authenticate()
+  222 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  222 | ERROR   | Expected 2 blank lines after function; 1 found
+  223 | ERROR   | Whitespace found at end of line
+  224 | ERROR   | Doc comment for "$xeroOAuth" missing
+  226 | ERROR   | There must be exactly one blank line before the tags in function comment
+  227 | ERROR   | Missing @return tag in function comment
+  228 | ERROR   | Private method name "Xero_Controller::_oauth_error_handler" is not in camel caps format
+  228 | ERROR   | Private method name "Xero_Controller::_oauth_error_handler" is not in camel caps format
+  230 | ERROR   | Concat operator must not be surrounded by spaces
+  230 | ERROR   | Concat operator must not be surrounded by spaces
+  231 | WARNING | Comment refers to a TODO task "Remove it while going live"
+  231 | ERROR   | No space before comment text; expected "// / @todo Remove it while going live" but found "/// @todo Remove it while going live"
+  231 | ERROR   | Inline comments must start with a capital letter
+  231 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+  231 | ERROR   | Comments may not appear after statements.
+  233 | ERROR   | Expected //end _oauth_error_handler()
+  233 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  233 | ERROR   | Expected 2 blank lines after function; 1 found
+  234 | ERROR   | Whitespace found at end of line
+  238 | ERROR   | There must be exactly one blank line before the tags in function comment
+  239 | ERROR   | Parameters must appear immediately after the comment
+  239 | ERROR   | Doc comment for var array does not match actual variable name $response at position 1
+  240 | ERROR   | Last parameter comment requires a blank newline after it
+  240 | ERROR   | The variable names for parameters array (1) and string (2) do not align
+  240 | ERROR   | The comments for parameters array (1) and string (2) do not align
+  240 | ERROR   | Doc comment for var string does not match actual variable name $mode at position 2
+  242 | ERROR   | Missing @return tag in function comment
+  243 | ERROR   | Private method name "Xero_Controller::_auth_success" is not in camel caps format
+  243 | ERROR   | Private method name "Xero_Controller::_auth_success" is not in camel caps format
+  245 | WARNING | Inline control structures are discouraged
+  245 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+  247 | ERROR   | Whitespace found at end of line
+  250 | WARNING | Line exceeds 85 characters; contains 109 characters
+  250 | ERROR   | Inline comments must start with a capital letter
+  250 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+  250 | ERROR   | Comments may not appear after statements.
+  251 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+  251 | ERROR   | Inline IF statements are not allowed
+  251 | WARNING | Line exceeds 85 characters; contains 101 characters
+  252 | ERROR   | Whitespace found at end of line
+  253 | ERROR   | Variable "token_encryption_key" is not in valid camel caps format
+  253 | WARNING | Line exceeds 85 characters; contains 101 characters
+  254 | ERROR   | Variable "token_encryption_key" is not in valid camel caps format
+  254 | WARNING | Line exceeds 85 characters; contains 107 characters
+  255 | WARNING | Inline control structures are discouraged
+  255 | ERROR   | Operator == prohibited; use === instead
+  257 | WARNING | Inline control structures are discouraged
+  257 | ERROR   | Operator == prohibited; use === instead
+  259 | ERROR   | Equals sign not aligned with surrounding assignments; expected 3 spaces but found 1 space
+  259 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  260 | ERROR   | Array key not aligned correctly; expected 40 spaces but found 12
+  261 | ERROR   | Array key not aligned correctly; expected 40 spaces but found 12
+  262 | ERROR   | Array key not aligned correctly; expected 40 spaces but found 12
+  263 | ERROR   | Array key not aligned correctly; expected 40 spaces but found 12
+  264 | ERROR   | Array key not aligned correctly; expected 40 spaces but found 12
+  265 | ERROR   | Array key not aligned correctly; expected 40 spaces but found 12
+  266 | ERROR   | Closing parenthesis not aligned correctly; expected 40 space(s) but found 9
+  266 | ERROR   | Only one argument is allowed per line in a multi-line function call
+  266 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  267 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+  268 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  269 | ERROR   | Array key not aligned correctly; expected 45 spaces but found 16
+  270 | ERROR   | Closing parenthesis not aligned correctly; expected 45 space(s) but found 13
+  270 | ERROR   | Only one argument is allowed per line in a multi-line function call
+  270 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  271 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  271 | WARNING | Line exceeds 85 characters; contains 92 characters
+  272 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  272 | WARNING | Line exceeds 85 characters; contains 104 characters
+  273 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  273 | WARNING | Line exceeds 85 characters; contains 101 characters
+  281 | ERROR   | Expected //end _auth_success()
+  281 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  281 | ERROR   | Expected 2 blank lines after function; 1 found
+  282 | ERROR   | Whitespace found at end of line
+  283 | ERROR   | You must use "/**" style comments for a function comment
+  283 | ERROR   | Private method name "Xero_Controller::close_and_show_menu" must be prefixed with an underscore
+  283 | ERROR   | Private method name "Xero_Controller::close_and_show_menu" must be prefixed with an underscore
+  286 | ERROR   | Expected //end close_and_show_menu()
+  286 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  286 | ERROR   | Expected 2 blank lines after function; 1 found
+  287 | ERROR   | Whitespace found at end of line
+  290 | ERROR   | There must be exactly one blank line before the tags in function comment
+  291 | ERROR   | Parameters must appear immediately after the comment
+  291 | ERROR   | Doc comment for var array('access_token','access_token_secret','expires_in') does not match actual variable name $data at position 1
+  291 | ERROR   | Missing comment for param "array('access_token','access_token_secret','expires_in')" at position 1
+  292 | ERROR   | The variable names for parameters array('access_token','access_token_secret','expires_in') (1) and string (2) do not align
+  292 | ERROR   | The comments for parameters array('access_token','access_token_secret','expires_in') (1) and string (2) do not align
+  292 | ERROR   | Doc comment for var string does not match actual variable name $op at position 2
+  293 | ERROR   | Missing @return tag in function comment
+  294 | ERROR   | Private method name "Xero_Controller::_store_tokens" is not in camel caps format
+  294 | ERROR   | Private method name "Xero_Controller::_store_tokens" is not in camel caps format
+  295 | ERROR   | Expected 0 blank lines after opening function brace; 1 found
+  296 | ERROR   | Whitespace found at end of line
+  298 | ERROR   | Array key not aligned correctly; expected 22 spaces but found 12
+  299 | ERROR   | Array key not aligned correctly; expected 22 spaces but found 12
+  300 | ERROR   | Array key not aligned correctly; expected 22 spaces but found 12
+  301 | ERROR   | Array key not aligned correctly; expected 22 spaces but found 12
+  302 | ERROR   | Array key not aligned correctly; expected 22 spaces but found 12
+  303 | ERROR   | Array key not aligned correctly; expected 22 spaces but found 12
+  303 | ERROR   | Concat operator must not be surrounded by spaces
+  303 | ERROR   | Concat operator must not be surrounded by spaces
+  303 | WARNING | Line exceeds 85 characters; contains 90 characters
+  304 | ERROR   | Array key not aligned correctly; expected 22 spaces but found 12
+  305 | ERROR   | Array key not aligned correctly; expected 22 spaces but found 12
+  306 | ERROR   | Array key not aligned correctly; expected 22 spaces but found 12
+  307 | ERROR   | Array key not aligned correctly; expected 22 spaces but found 12
+  308 | ERROR   | Closing parenthesis not aligned correctly; expected 22 space(s) but found 9
+  309 | ERROR   | Whitespace found at end of line
+  310 | WARNING | Inline control structures are discouraged
+  310 | ERROR   | Operator == prohibited; use === instead
+  312 | WARNING | Inline control structures are discouraged
+  312 | ERROR   | Operator == prohibited; use === instead
+  314 | ERROR   | Whitespace found at end of line
+  315 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  316 | WARNING | Inline control structures are discouraged
+  316 | ERROR   | Operator == prohibited; use === instead
+  317 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "true" but found "TRUE"
+  318 | WARNING | Inline control structures are discouraged
+  318 | ERROR   | Operator == prohibited; use === instead
+  320 | ERROR   | Expected //end _store_tokens()
+  320 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  320 | ERROR   | Expected 2 blank lines after function; 1 found
+  321 | ERROR   | Whitespace found at end of line
+  325 | ERROR   | Missing @return tag in function comment
+  328 | ERROR   | Variable "merchant_id" is not in valid camel caps format
+  329 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  329 | ERROR   | Variable "merchant_id" is not in valid camel caps format
+  330 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  330 | ERROR   | Variable "merchant_id" is not in valid camel caps format
+  331 | ERROR   | Variable "quickbooks_model" is not in valid camel caps format
+  331 | ERROR   | Variable "merchant_id" is not in valid camel caps format
+  331 | WARNING | Line exceeds 85 characters; contains 129 characters
+  334 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  335 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+  336 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+  337 | ERROR   | Closing parenthesis not aligned correctly; expected 26 space(s) but found 9
+  337 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  338 | ERROR   | Expected //end disconnect()
+  338 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  338 | ERROR   | Expected 2 blank lines after function; 1 found
+  339 | ERROR   | Whitespace found at end of line
+  343 | ERROR   | Missing @return tag in function comment
+  344 | ERROR   | Public method name "Xero_Controller::refresh_tokens" is not in camel caps format
+  344 | ERROR   | Public method name "Xero_Controller::refresh_tokens" is not in camel caps format
+  347 | WARNING | Line exceeds 85 characters; contains 90 characters
+  347 | ERROR   | No space before comment text; expected "// clear any set sessions just to be sure to cover both the dbs" but found "//clear any set sessions just to be sure to cover both the dbs"
+  347 | ERROR   | Inline comments must start with a capital letter
+  347 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+  347 | ERROR   | Comments may not appear after statements.
+  351 | ERROR   | The value of a comparison must not be assigned to a variable
+  351 | ERROR   | Operator == prohibited; use === instead
+  351 | ERROR   | Inline shorthand IF statement requires brackets around comparison
+  351 | ERROR   | Inline IF statements are not allowed
+  353 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  356 | WARNING | The use of function print_r() is discouraged
+  357 | ERROR   | Variable "access_token" is not in valid camel caps format
+  357 | ERROR   | Variable "token_encryption_key" is not in valid camel caps format
+  357 | WARNING | Line exceeds 85 characters; contains 105 characters
+  359 | ERROR   | Variable "session_handle" is not in valid camel caps format
+  359 | ERROR   | Variable "oauth_verifier" is not in valid camel caps format
+  359 | WARNING | Line exceeds 85 characters; contains 118 characters
+  361 | WARNING | The use of function print_r() is discouraged
+  363 | ERROR   | No blank line found after control structure
+  365 | ERROR   | Expected //end refresh_tokens()
+  365 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  365 | ERROR   | Expected 2 blank lines after function; 1 found
+  366 | ERROR   | Whitespace found at end of line
+  369 | ERROR   | Last parameter comment requires a blank newline after it
+  369 | ERROR   | Doc comment for var || does not match actual variable name $xeroOauth at position 1
+  369 | ERROR   | There must be exactly one blank line before the tags in function comment
+  372 | ERROR   | Private method name "Xero_Controller::_check_object_errors" is not in camel caps format
+  372 | ERROR   | Private method name "Xero_Controller::_check_object_errors" is not in camel caps format
+  374 | ERROR   | Expected "if (...) {\n"; found "if (...) { //invalid would be possible only if type is array\n"
+  374 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+  374 | ERROR   | Blank line found at start of control structure
+  374 | ERROR   | No space before comment text; expected "// invalid would be possible only if type is array" but found "//invalid would be possible only if type is array"
+  374 | ERROR   | Inline comments must start with a capital letter
+  374 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+  374 | ERROR   | Comments may not appear after statements.
+  375 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  376 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 16
+  377 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 16
+  378 | ERROR   | Closing parenthesis not aligned correctly; expected 30 space(s) but found 13
+  378 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  381 | ERROR   | Expected //end _check_object_errors()
+  381 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  381 | ERROR   | Expected 2 blank lines after function; 1 found
+  382 | ERROR   | Whitespace found at end of line
+  385 | ERROR   | Last parameter comment requires a blank newline after it
+  385 | ERROR   | Missing comment for param "$errorCode" at position 1
+  385 | ERROR   | There must be exactly one blank line before the tags in function comment
+  388 | ERROR   | Private method name "Xero_Controller::_get_error_message" is not in camel caps format
+  388 | ERROR   | Private method name "Xero_Controller::_get_error_message" is not in camel caps format
+  391 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+  392 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+  392 | WARNING | Line exceeds 85 characters; contains 121 characters
+  393 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+  393 | WARNING | Line exceeds 85 characters; contains 97 characters
+  394 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+  395 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+  396 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+  397 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+  398 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+  398 | WARNING | Line exceeds 85 characters; contains 112 characters
+  399 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+  400 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+  401 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+  402 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+  402 | WARNING | Line exceeds 85 characters; contains 124 characters
+  403 | ERROR   | Closing parenthesis not aligned correctly; expected 26 space(s) but found 9
+  404 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+  404 | ERROR   | Inline IF statements are not allowed
+  404 | WARNING | Line exceeds 85 characters; contains 102 characters
+  405 | ERROR   | Expected //end _get_error_message()
+  405 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  405 | ERROR   | Expected 2 blank lines after function; 1 found
+  406 | ERROR   | Whitespace found at end of line
+  409 | ERROR   | Missing comment for param "$response" at position 1
+  409 | ERROR   | There must be exactly one blank line before the tags in function comment
+  410 | ERROR   | Last parameter comment requires a blank newline after it
+  410 | ERROR   | The variable names for parameters $response (1) and $object (2) do not align
+  410 | ERROR   | Missing comment for param "$object" at position 2
+  413 | ERROR   | Private method name "Xero_Controller::_extract_object_array_from_response" is not in camel caps format
+  413 | ERROR   | Private method name "Xero_Controller::_extract_object_array_from_response" is not in camel caps format
+  415 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "true" but found "TRUE"
+  416 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+  416 | ERROR   | Inline IF statements are not allowed
+  417 | ERROR   | Expected //end _extract_object_array_from_response()
+  417 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  417 | ERROR   | Expected 2 blank lines after function; 1 found
+  418 | ERROR   | Whitespace found at end of line
+  422 | ERROR   | Missing @return tag in function comment
+  423 | ERROR   | Public method name "Xero_Controller::get_accounts" is not in camel caps format
+  423 | ERROR   | Public method name "Xero_Controller::get_accounts" is not in camel caps format
+  430 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+  431 | WARNING | Line exceeds 85 characters; contains 94 characters
+  432 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+  432 | ERROR   | Comments may not appear after statements.
+  433 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+  434 | WARNING | Line exceeds 85 characters; contains 91 characters
+  437 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  437 | WARNING | Line exceeds 85 characters; contains 135 characters
+  438 | ERROR   | Operator == prohibited; use === instead
+  438 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "false" but found "FALSE"
+  439 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  441 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  441 | WARNING | Line exceeds 85 characters; contains 101 characters
+  443 | ERROR   | No blank line found after control structure
+  444 | WARNING | Line exceeds 85 characters; contains 160 characters
+  444 | WARNING | This comment is 67% valid code; is this commented out code?
+  444 | ERROR   | No space before comment text; expected "// echo json_encode(array('error' => 0, 'message' => $this->_get_error_message('account_refresh_success'), 'code' =>
+      |         | 'account_refresh_success'));" but found "//echo json_encode(array('error' => 0, 'message' => $this->_get_error_message('account_refresh_success'), 'code' =>
+      |         | 'account_refresh_success'));"
+  444 | ERROR   | Inline comments must start with a capital letter
+  444 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+  448 | ERROR   | Empty ELSE statement detected
+  449 | WARNING | Line exceeds 85 characters; contains 130 characters
+  449 | WARNING | This comment is 67% valid code; is this commented out code?
+  449 | ERROR   | No space before comment text; expected "// echo json_encode(array('error' => 1, 'message' => $this->_get_error_message('not_object'), 'code' => 'not_object'));" but found "//echo
+      |         | json_encode(array('error' => 1, 'message' => $this->_get_error_message('not_object'), 'code' => 'not_object'));"
+  449 | ERROR   | Inline comments must start with a capital letter
+  449 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+  450 | ERROR   | End comment for long condition not found; expected "//end if"
+  451 | ERROR   | Expected //end get_accounts()
+  451 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  451 | ERROR   | Expected 2 blank lines after function; 1 found
+  452 | ERROR   | Whitespace found at end of line
+  456 | ERROR   | Missing @return tag in function comment
+  457 | ERROR   | Public method name "Xero_Controller::get_account_options" is not in camel caps format
+  457 | ERROR   | Public method name "Xero_Controller::get_account_options" is not in camel caps format
+  459 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  459 | WARNING | Line exceeds 85 characters; contains 103 characters
+  461 | WARNING | This comment is 60% valid code; is this commented out code?
+  461 | ERROR   | No space before comment text; expected "// $selectedAccount = $this->get_merchant_income_account();" but found "//$selectedAccount = $this->get_merchant_income_account();"
+  461 | ERROR   | Inline comments must start with a capital letter
+  461 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+  462 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  463 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+  464 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+  465 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+  466 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+  467 | ERROR   | Closing parenthesis not aligned correctly; expected 26 space(s) but found 9
+  467 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  468 | ERROR   | Expected //end get_account_options()
+  468 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  468 | ERROR   | Expected 2 blank lines after function; 1 found
+  469 | ERROR   | Whitespace found at end of line
+  472 | ERROR   | Last parameter comment requires a blank newline after it
+  472 | ERROR   | Missing comment for param "$accounts" at position 1
+  472 | ERROR   | There must be exactly one blank line before the tags in function comment
+  475 | ERROR   | Private method name "Xero_Controller::_categorize_accounts_options" is not in camel caps format
+  475 | ERROR   | Private method name "Xero_Controller::_categorize_accounts_options" is not in camel caps format
+  478 | ERROR   | Array key not aligned correctly; expected 38 spaces but found 12
+  479 | ERROR   | Array key not aligned correctly; expected 38 spaces but found 12
+  480 | ERROR   | Array key not aligned correctly; expected 38 spaces but found 12
+  481 | ERROR   | Closing parenthesis not aligned correctly; expected 38 space(s) but found 9
+  482 | ERROR   | Multi-line array contains a single value; use single-line array instead
+  484 | ERROR   | Closing parenthesis not aligned correctly; expected 38 space(s) but found 9
+  484 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+  484 | ERROR   | Comments may not appear after statements.
+  486 | ERROR   | Array value not aligned correctly; expected 39 spaces but found 13
+  487 | ERROR   | Comma required after last value in array declaration
+  488 | ERROR   | Closing parenthesis not aligned correctly; expected 38 space(s) but found 9
+  488 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+  488 | ERROR   | Comments may not appear after statements.
+  489 | ERROR   | Multi-line array contains a single value; use single-line array instead
+  491 | ERROR   | Closing parenthesis not aligned correctly; expected 38 space(s) but found 9
+  491 | WARNING | Line exceeds 85 characters; contains 101 characters
+  491 | ERROR   | Comments may not appear after statements.
+  492 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "true" but found "TRUE"
+  492 | WARNING | Line exceeds 85 characters; contains 224 characters
+  492 | ERROR   | No space before comment text; expected "// Set this varibale to TRUE so that to include payment enabled accounts can be used as payment accounts. Doing this FALSE will make only
+      |         | BANK accounts to be used as payment accounts" but found "//Set this varibale to TRUE so that to include payment enabled accounts can be used as payment accounts. Doing this FALSE
+      |         | will make only BANK accounts to be used as payment accounts"
+  492 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+  492 | ERROR   | There must be no blank line following an inline comment
+  492 | ERROR   | Comments may not appear after statements.
+  493 | ERROR   | Whitespace found at end of line
+  494 | WARNING | Line exceeds 85 characters; contains 102 characters
+  495 | WARNING | Line exceeds 85 characters; contains 103 characters
+  496 | WARNING | Line exceeds 85 characters; contains 102 characters
+  499 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+  500 | ERROR   | The value of a comparison must not be assigned to a variable
+  500 | ERROR   | Operator == prohibited; use === instead
+  500 | ERROR   | Inline shorthand IF statement requires brackets around comparison
+  500 | ERROR   | Inline IF statements are not allowed
+  500 | WARNING | Line exceeds 85 characters; contains 98 characters
+  501 | ERROR   | Concat operator must not be surrounded by spaces
+  501 | ERROR   | Concat operator must not be surrounded by spaces
+  501 | ERROR   | Concat operator must not be surrounded by spaces
+  501 | ERROR   | Concat operator must not be surrounded by spaces
+  501 | ERROR   | Concat operator must not be surrounded by spaces
+  501 | ERROR   | Concat operator must not be surrounded by spaces
+  501 | ERROR   | Concat operator must not be surrounded by spaces
+  501 | ERROR   | Concat operator must not be surrounded by spaces
+  501 | WARNING | Line exceeds 85 characters; contains 171 characters
+  502 | ERROR   | No blank line found after control structure
+  503 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+  504 | ERROR   | The value of a comparison must not be assigned to a variable
+  504 | ERROR   | Operator == prohibited; use === instead
+  504 | ERROR   | Inline shorthand IF statement requires brackets around comparison
+  504 | ERROR   | Inline IF statements are not allowed
+  504 | WARNING | Line exceeds 85 characters; contains 100 characters
+  505 | ERROR   | Concat operator must not be surrounded by spaces
+  505 | ERROR   | Concat operator must not be surrounded by spaces
+  505 | ERROR   | Concat operator must not be surrounded by spaces
+  505 | ERROR   | Concat operator must not be surrounded by spaces
+  505 | ERROR   | Concat operator must not be surrounded by spaces
+  505 | ERROR   | Concat operator must not be surrounded by spaces
+  505 | ERROR   | Concat operator must not be surrounded by spaces
+  505 | ERROR   | Concat operator must not be surrounded by spaces
+  505 | WARNING | Line exceeds 85 characters; contains 173 characters
+  506 | ERROR   | No blank line found after control structure
+  507 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+  507 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+  507 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+  507 | ERROR   | Variable "is_payment_enabled" is not in valid camel caps format
+  507 | WARNING | Line exceeds 85 characters; contains 116 characters
+  508 | ERROR   | The value of a comparison must not be assigned to a variable
+  508 | ERROR   | Variable "xero_id" is not in valid camel caps format
+  508 | ERROR   | Operator == prohibited; use === instead
+  508 | ERROR   | Inline shorthand IF statement requires brackets around comparison
+  508 | ERROR   | Inline IF statements are not allowed
+  508 | WARNING | Line exceeds 85 characters; contains 102 characters
+  509 | ERROR   | Concat operator must not be surrounded by spaces
+  509 | ERROR   | Variable "xero_id" is not in valid camel caps format
+  509 | ERROR   | Concat operator must not be surrounded by spaces
+  509 | ERROR   | Concat operator must not be surrounded by spaces
+  509 | ERROR   | Concat operator must not be surrounded by spaces
+  509 | ERROR   | Concat operator must not be surrounded by spaces
+  509 | ERROR   | Concat operator must not be surrounded by spaces
+  509 | ERROR   | Concat operator must not be surrounded by spaces
+  509 | ERROR   | Concat operator must not be surrounded by spaces
+  509 | WARNING | Line exceeds 85 characters; contains 187 characters
+  511 | ERROR   | No blank line found after control structure
+  513 | ERROR   | Expected //end _categorize_accounts_options()
+  513 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  513 | ERROR   | Expected 2 blank lines after function; 1 found
+  514 | ERROR   | Whitespace found at end of line
+  517 | ERROR   | Last parameter comment requires a blank newline after it
+  517 | ERROR   | Missing comment for param "$account" at position 1
+  517 | ERROR   | There must be exactly one blank line before the tags in function comment
+  520 | ERROR   | Private method name "Xero_Controller::_extract_account_data" is not in camel caps format
+  520 | ERROR   | Private method name "Xero_Controller::_extract_account_data" is not in camel caps format
+  524 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+  524 | ERROR   | Inline IF statements are not allowed
+  524 | WARNING | Line exceeds 85 characters; contains 93 characters
+  528 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+  528 | ERROR   | Inline IF statements are not allowed
+  528 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "false" but found "FALSE"
+  528 | WARNING | Line exceeds 85 characters; contains 134 characters
+  530 | ERROR   | Expected //end _extract_account_data()
+  530 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  530 | ERROR   | Expected 2 blank lines after function; 1 found
+  531 | ERROR   | Whitespace found at end of line
+  535 | ERROR   | Missing @return tag in function comment
+  536 | ERROR   | Public method name "Xero_Controller::sync_items" is not in camel caps format
+  536 | ERROR   | Public method name "Xero_Controller::sync_items" is not in camel caps format
+  538 | ERROR   | Operator ! prohibited; use === FALSE instead
+  539 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  540 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 16
+  541 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 16
+  541 | WARNING | Line exceeds 85 characters; contains 86 characters
+  542 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 16
+  543 | ERROR   | Closing parenthesis not aligned correctly; expected 30 space(s) but found 13
+  543 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  545 | ERROR   | No blank line found after control structure
+  546 | ERROR   | Variable "merchant_id" is not in valid camel caps format
+  548 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  548 | ERROR   | Variable "merchant_id" is not in valid camel caps format
+  548 | WARNING | Line exceeds 85 characters; contains 102 characters
+  552 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  553 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+  554 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+  555 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+  556 | ERROR   | Closing parenthesis not aligned correctly; expected 26 space(s) but found 9
+  556 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  557 | ERROR   | Expected //end sync_items()
+  557 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  557 | ERROR   | Expected 2 blank lines after function; 1 found
+  558 | ERROR   | Whitespace found at end of line
+  561 | ERROR   | Missing comment for param "$modifiedSince" at position 1
+  561 | ERROR   | There must be exactly one blank line before the tags in function comment
+  562 | ERROR   | Missing comment for param "$xeroOauth" at position 2
+  563 | ERROR   | Missing @return tag in function comment
+  564 | ERROR   | Private method name "Xero_Controller::_check_and_add_modified_since_header" is not in camel caps format
+  564 | ERROR   | Private method name "Xero_Controller::_check_and_add_modified_since_header" is not in camel caps format
+  566 | ERROR   | Operator ! prohibited; use === FALSE instead
+  567 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  568 | ERROR   | Array key not aligned correctly; expected 36 spaces but found 16
+  569 | ERROR   | Closing parenthesis not aligned correctly; expected 36 space(s) but found 13
+  569 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  571 | ERROR   | Expected //end _check_and_add_modified_since_header()
+  571 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  571 | ERROR   | Expected 2 blank lines after function; 1 found
+  572 | ERROR   | Whitespace found at end of line
+  575 | ERROR   | Last parameter comment requires a blank newline after it
+  575 | ERROR   | Doc comment for var Array does not match actual variable name $response at position 1
+  575 | ERROR   | Missing comment for param "Array" at position 1
+  575 | ERROR   | There must be exactly one blank line before the tags in function comment
+  578 | ERROR   | Private method name "Xero_Controller::_is_successful_request" is not in camel caps format
+  578 | ERROR   | Private method name "Xero_Controller::_is_successful_request" is not in camel caps format
+  580 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+  580 | ERROR   | Operator == prohibited; use === instead
+  581 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "true" but found "TRUE"
+  582 | ERROR   | No blank line found after control structure
+  583 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "false" but found "FALSE"
+  584 | ERROR   | Expected //end _is_successful_request()
+  584 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  584 | ERROR   | Expected 2 blank lines after function; 1 found
+  585 | ERROR   | Whitespace found at end of line
+  588 | ERROR   | There must be exactly one blank line before the tags in function comment
+  589 | ERROR   | Missing @return tag in function comment
+  590 | ERROR   | Private method name "Xero_Controller::_store_sync_time" is not in camel caps format
+  590 | ERROR   | Private method name "Xero_Controller::_store_sync_time" is not in camel caps format
+  594 | ERROR   | Array key not aligned correctly; expected 25 spaces but found 12
+  595 | ERROR   | Array key not aligned correctly; expected 25 spaces but found 12
+  596 | ERROR   | Array key not aligned correctly; expected 25 spaces but found 12
+  597 | ERROR   | Array key not aligned correctly; expected 25 spaces but found 12
+  598 | ERROR   | Closing parenthesis not aligned correctly; expected 25 space(s) but found 9
+  599 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+  600 | ERROR   | Variable "integration_model" is not in valid camel caps format
+  600 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  600 | ERROR   | Only one argument is allowed per line in a multi-line function call
+  600 | WARNING | Line exceeds 85 characters; contains 96 characters
+  601 | ERROR   | Array key not aligned correctly; expected 91 spaces but found 16
+  602 | ERROR   | Closing parenthesis not aligned correctly; expected 91 space(s) but found 13
+  602 | ERROR   | Only one argument is allowed per line in a multi-line function call
+  602 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  604 | ERROR   | Expected //end _store_sync_time()
+  604 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  604 | ERROR   | Expected 2 blank lines after function; 1 found
+  605 | ERROR   | Whitespace found at end of line
+  608 | ERROR   | Doc comment for var Prints does not match actual variable name $response at position 1
+  608 | ERROR   | There must be exactly one blank line before the tags in function comment
+  610 | ERROR   | Missing @return tag in function comment
+  611 | ERROR   | Private method name "Xero_Controller::_handle_response_error" is not in camel caps format
+  611 | ERROR   | Private method name "Xero_Controller::_handle_response_error" is not in camel caps format
+  615 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+  615 | ERROR   | Operator == prohibited; use === instead
+  615 | WARNING | Line exceeds 85 characters; contains 95 characters
+  619 | ERROR   | No blank line found after control structure
+  621 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  622 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+  623 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+  624 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+  625 | ERROR   | Closing parenthesis not aligned correctly; expected 26 space(s) but found 9
+  625 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  626 | ERROR   | Expected //end _handle_response_error()
+  626 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  626 | ERROR   | Expected 2 blank lines after function; 1 found
+  627 | ERROR   | Whitespace found at end of line
+  630 | ERROR   | Last parameter comment requires a blank newline after it
+  630 | ERROR   | There must be exactly one blank line before the tags in function comment
+  633 | ERROR   | Private method name "Xero_Controller::_create_xml_root_element" is not in camel caps format
+  633 | ERROR   | Private method name "Xero_Controller::_create_xml_root_element" is not in camel caps format
+  635 | WARNING | Line exceeds 85 characters; contains 101 characters
+  637 | ERROR   | Expected //end _create_xml_root_element()
+  637 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  637 | ERROR   | Expected 2 blank lines after function; 1 found
+  638 | ERROR   | Whitespace found at end of line
+  641 | ERROR   | Missing comment for param "$modifiedSince" at position 1
+  641 | ERROR   | There must be exactly one blank line before the tags in function comment
+  642 | ERROR   | Missing @return tag in function comment
+  643 | ERROR   | Private method name "Xero_Controller::_get_items" is not in camel caps format
+  643 | ERROR   | Private method name "Xero_Controller::_get_items" is not in camel caps format
+  649 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+  651 | WARNING | Line exceeds 85 characters; contains 94 characters
+  652 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+  652 | ERROR   | Comments may not appear after statements.
+  653 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+  655 | WARNING | Line exceeds 85 characters; contains 96 characters
+  657 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+  662 | ERROR   | No blank line found after control structure
+  668 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  669 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 16
+  670 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 16
+  671 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 16
+  672 | ERROR   | Closing parenthesis not aligned correctly; expected 30 space(s) but found 13
+  672 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  673 | ERROR   | End comment for long condition not found; expected "//end if"
+  674 | ERROR   | Expected //end _get_items()
+  674 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  674 | ERROR   | Expected 2 blank lines after function; 1 found
+  675 | ERROR   | Whitespace found at end of line
+  678 | ERROR   | Last parameter comment requires a blank newline after it
+  678 | ERROR   | Missing comment for param "$item" at position 1
+  678 | ERROR   | There must be exactly one blank line before the tags in function comment
+  681 | ERROR   | Private method name "Xero_Controller::_is_item_for_sale" is not in camel caps format
+  681 | ERROR   | Private method name "Xero_Controller::_is_item_for_sale" is not in camel caps format
+  683 | WARNING | Inline control structures are discouraged
+  683 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+  684 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "true" but found "TRUE"
+  685 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "false" but found "FALSE"
+  686 | ERROR   | Expected //end _is_item_for_sale()
+  686 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  686 | ERROR   | Expected 2 blank lines after function; 1 found
+  687 | ERROR   | Whitespace found at end of line
+  690 | ERROR   | Last parameter comment requires a blank newline after it
+  690 | ERROR   | Missing comment for param "$item" at position 1
+  690 | ERROR   | There must be exactly one blank line before the tags in function comment
+  693 | ERROR   | Private method name "Xero_Controller::_extract_item_data" is not in camel caps format
+  693 | ERROR   | Private method name "Xero_Controller::_extract_item_data" is not in camel caps format
+  698 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+  698 | ERROR   | Inline IF statements are not allowed
+  698 | WARNING | Line exceeds 85 characters; contains 104 characters
+  704 | WARNING | Line exceeds 85 characters; contains 90 characters
+  704 | ERROR   | Inline comments must start with a capital letter
+  704 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+  704 | ERROR   | Comments may not appear after statements.
+  706 | WARNING | Line exceeds 85 characters; contains 101 characters
+  708 | ERROR   | Expected //end _extract_item_data()
+  708 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  708 | ERROR   | Expected 2 blank lines after function; 1 found
+  709 | ERROR   | Whitespace found at end of line
+  712 | ERROR   | Missing comment for param "$modifiedSince" at position 1
+  712 | ERROR   | There must be exactly one blank line before the tags in function comment
+  713 | ERROR   | Last parameter comment requires a blank newline after it
+  713 | ERROR   | The variable names for parameters $modifiedSince (1) and $excludeList (2) do not align
+  713 | ERROR   | Missing comment for param "$excludeList" at position 2
+  716 | ERROR   | Private method name "Xero_Controller::_export_items" is not in camel caps format
+  716 | ERROR   | Private method name "Xero_Controller::_export_items" is not in camel caps format
+  723 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+  724 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  724 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "null" but found "NULL"
+  724 | WARNING | Line exceeds 85 characters; contains 193 characters
+  725 | WARNING | Inline control structures are discouraged
+  725 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+  726 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "true" but found "TRUE"
+  731 | WARNING | Line exceeds 85 characters; contains 110 characters
+  732 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+  733 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "true" but found "TRUE"
+  735 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "true" but found "TRUE"
+  740 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  741 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 16
+  742 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 16
+  743 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 16
+  744 | ERROR   | Closing parenthesis not aligned correctly; expected 30 space(s) but found 13
+  744 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  745 | ERROR   | End comment for long condition not found; expected "//end if"
+  746 | ERROR   | Expected //end _export_items()
+  746 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  746 | ERROR   | Expected 2 blank lines after function; 1 found
+  747 | ERROR   | Whitespace found at end of line
+  750 | ERROR   | Last parameter comment requires a blank newline after it
+  750 | ERROR   | Missing comment for param "$exportArr" at position 1
+  750 | ERROR   | There must be exactly one blank line before the tags in function comment
+  753 | ERROR   | Private method name "Xero_Controller::_get_export_order" is not in camel caps format
+  753 | ERROR   | Private method name "Xero_Controller::_get_export_order" is not in camel caps format
+  758 | ERROR   | No blank line found after control structure
+  760 | ERROR   | Expected //end _get_export_order()
+  760 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  760 | ERROR   | Expected 2 blank lines after function; 1 found
+  761 | ERROR   | Whitespace found at end of line
+  762 | ERROR   | Missing function doc comment
+  762 | ERROR   | Private method name "Xero_Controller::_item_export_success" is not in camel caps format
+  762 | ERROR   | Private method name "Xero_Controller::_item_export_success" is not in camel caps format
+  770 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  770 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  770 | ERROR   | Only one argument is allowed per line in a multi-line function call
+  770 | ERROR   | Only one argument is allowed per line in a multi-line function call
+  770 | WARNING | Line exceeds 85 characters; contains 86 characters
+  771 | ERROR   | Array key not aligned correctly; expected 81 spaces but found 16
+  772 | ERROR   | Array key not aligned correctly; expected 81 spaces but found 16
+  773 | ERROR   | Array key not aligned correctly; expected 81 spaces but found 16
+  774 | ERROR   | Array key not aligned correctly; expected 81 spaces but found 16
+  775 | ERROR   | Closing parenthesis not aligned correctly; expected 81 space(s) but found 13
+  775 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  777 | ERROR   | No blank line found after control structure
+  778 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "true" but found "TRUE"
+  779 | ERROR   | Expected //end _item_export_success()
+  779 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  779 | ERROR   | Expected 2 blank lines after function; 1 found
+  780 | ERROR   | Whitespace found at end of line
+  783 | ERROR   | Missing comment for param "$response" at position 1
+  783 | ERROR   | There must be exactly one blank line before the tags in function comment
+  784 | ERROR   | The variable names for parameters $response (1) and string (2) do not align
+  784 | ERROR   | Doc comment for var string does not match actual variable name $object at position 2
+  784 | ERROR   | Missing comment for param "string" at position 2
+  785 | ERROR   | Missing @return tag in function comment
+  786 | ERROR   | Private method name "Xero_Controller::_handle_export_errors" is not in camel caps format
+  786 | ERROR   | Private method name "Xero_Controller::_handle_export_errors" is not in camel caps format
+  788 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "true" but found "TRUE"
+  789 | ERROR   | Expected "if (...) {\n"; found "if (...) { //bad request, something wrong with data\n"
+  789 | ERROR   | Operator == prohibited; use === instead
+  789 | ERROR   | Blank line found at start of control structure
+  789 | ERROR   | No space before comment text; expected "// bad request, something wrong with data" but found "//bad request, something wrong with data"
+  789 | ERROR   | Inline comments must start with a capital letter
+  789 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+  789 | ERROR   | Comments may not appear after statements.
+  790 | ERROR   | Operator == prohibited; use === instead
+  796 | ERROR   | Expected //end _handle_export_errors()
+  796 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  796 | ERROR   | Expected 2 blank lines after function; 1 found
+  797 | ERROR   | Whitespace found at end of line
+  800 | ERROR   | Missing comment for param "$responseArray" at position 1
+  800 | ERROR   | There must be exactly one blank line before the tags in function comment
+  801 | ERROR   | The variable names for parameters $responseArray (1) and $object (2) do not align
+  801 | ERROR   | Missing comment for param "$object" at position 2
+  802 | ERROR   | Missing @return tag in function comment
+  803 | ERROR   | Private method name "Xero_Controller::_handle_validation_errors" is not in camel caps format
+  803 | ERROR   | Private method name "Xero_Controller::_handle_validation_errors" is not in camel caps format
+  807 | ERROR   | Line indented incorrectly; expected 8 spaces, found 12
+  808 | WARNING | Line exceeds 85 characters; contains 87 characters
+  809 | ERROR   | Line indented incorrectly; expected 12 spaces, found 16
+  810 | ERROR   | Concat operator must not be surrounded by spaces
+  810 | ERROR   | Concat operator must not be surrounded by spaces
+  811 | ERROR   | Line indented incorrectly; expected 16 spaces, found 20
+  813 | ERROR   | No blank line found after control structure
+  817 | ERROR   | Line indented incorrectly; expected 8 spaces, found 12
+  818 | WARNING | Line exceeds 85 characters; contains 91 characters
+  819 | ERROR   | Line indented incorrectly; expected 12 spaces, found 16
+  820 | ERROR   | Concat operator must not be surrounded by spaces
+  820 | ERROR   | Concat operator must not be surrounded by spaces
+  821 | ERROR   | Line indented incorrectly; expected 16 spaces, found 20
+  823 | ERROR   | No blank line found after control structure
+  827 | ERROR   | Line indented incorrectly; expected 8 spaces, found 12
+  828 | WARNING | Line exceeds 85 characters; contains 94 characters
+  829 | ERROR   | Line indented incorrectly; expected 12 spaces, found 16
+  830 | ERROR   | Concat operator must not be surrounded by spaces
+  830 | ERROR   | Concat operator must not be surrounded by spaces
+  831 | ERROR   | Line indented incorrectly; expected 16 spaces, found 20
+  833 | ERROR   | No blank line found after control structure
+  837 | ERROR   | No blank line found after control structure
+  837 | ERROR   | End comment for long condition not found; expected "//end switch"
+  838 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  839 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+  840 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+  841 | ERROR   | Closing parenthesis not aligned correctly; expected 26 space(s) but found 9
+  841 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  843 | ERROR   | Expected //end _handle_validation_errors()
+  843 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  843 | ERROR   | Expected 2 blank lines after function; 1 found
+  844 | ERROR   | Whitespace found at end of line
+  847 | ERROR   | Missing comment for param "$itemsToExport" at position 1
+  847 | ERROR   | There must be exactly one blank line before the tags in function comment
+  848 | ERROR   | Last parameter comment requires a blank newline after it
+  848 | ERROR   | The variable names for parameters $itemsToExport (1) and $object (2) do not align
+  848 | ERROR   | Missing comment for param "$object" at position 2
+  851 | ERROR   | Private method name "Xero_Controller::_prepare_export" is not in camel caps format
+  851 | ERROR   | Private method name "Xero_Controller::_prepare_export" is not in camel caps format
+  856 | ERROR   | Operator == prohibited; use === instead
+  858 | ERROR   | Usage of ELSEIF not allowed; use ELSE IF instead
+  858 | ERROR   | Operator == prohibited; use === instead
+  860 | ERROR   | Usage of ELSEIF not allowed; use ELSE IF instead
+  860 | ERROR   | Operator == prohibited; use === instead
+  861 | WARNING | Inline control structures are discouraged
+  861 | ERROR   | Variable "synced_to_file" is not in valid camel caps format
+  861 | ERROR   | Operator == prohibited; use === instead
+  864 | ERROR   | Usage of ELSEIF not allowed; use ELSE IF instead
+  864 | ERROR   | Operator == prohibited; use === instead
+  866 | ERROR   | No blank line found after control structure
+  868 | ERROR   | No blank line found after control structure
+  870 | ERROR   | Expected //end _prepare_export()
+  870 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  870 | ERROR   | Expected 2 blank lines after function; 1 found
+  871 | ERROR   | Whitespace found at end of line
+  874 | ERROR   | Last parameter comment requires a blank newline after it
+  874 | ERROR   | Missing comment for param "$item" at position 1
+  874 | ERROR   | There must be exactly one blank line before the tags in function comment
+  877 | ERROR   | Private method name "Xero_Controller::_format_item_to_export" is not in camel caps format
+  877 | ERROR   | Private method name "Xero_Controller::_format_item_to_export" is not in camel caps format
+  880 | ERROR   | Operator ! prohibited; use === FALSE instead
+  880 | ERROR   | Variable "thirdparty_reference_id" is not in valid camel caps format
+  881 | ERROR   | Variable "thirdparty_reference_id" is not in valid camel caps format
+  882 | ERROR   | No blank line found after control structure
+  885 | ERROR   | Array key not aligned correctly; expected 37 spaces but found 12
+  886 | ERROR   | Array key not aligned correctly; expected 37 spaces but found 12
+  886 | ERROR   | Variable "income_account_reference" is not in valid camel caps format
+  886 | ERROR   | Inline shorthand IF statement must be declared on a single line
+  886 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+  886 | ERROR   | Inline IF statements are not allowed
+  886 | ERROR   | Variable "income_account_reference" is not in valid camel caps format
+  886 | WARNING | Line exceeds 85 characters; contains 170 characters
+  887 | ERROR   | Closing parenthesis not aligned correctly; expected 37 space(s) but found 9
+  889 | ERROR   | Expected //end _format_item_to_export()
+  889 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  889 | ERROR   | Expected 2 blank lines after function; 1 found
+  890 | ERROR   | Whitespace found at end of line
+  894 | ERROR   | Missing @return tag in function comment
+  895 | ERROR   | Public method name "Xero_Controller::sync_taxes" is not in camel caps format
+  895 | ERROR   | Public method name "Xero_Controller::sync_taxes" is not in camel caps format
+  897 | ERROR   | Variable "merchant_id" is not in valid camel caps format
+  899 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  899 | ERROR   | Variable "merchant_id" is not in valid camel caps format
+  899 | WARNING | Line exceeds 85 characters; contains 100 characters
+  901 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  902 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+  903 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+  904 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+  905 | ERROR   | Closing parenthesis not aligned correctly; expected 26 space(s) but found 9
+  905 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  906 | ERROR   | Expected //end sync_taxes()
+  906 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  906 | ERROR   | Expected 2 blank lines after function; 1 found
+  907 | ERROR   | Whitespace found at end of line
+  910 | ERROR   | Missing comment for param "$modifiedSince" at position 1
+  910 | ERROR   | There must be exactly one blank line before the tags in function comment
+  911 | ERROR   | Missing @return tag in function comment
+  912 | ERROR   | Private method name "Xero_Controller::_get_taxes" is not in camel caps format
+  912 | ERROR   | Private method name "Xero_Controller::_get_taxes" is not in camel caps format
+  918 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+  920 | WARNING | Line exceeds 85 characters; contains 94 characters
+  921 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+  921 | ERROR   | Comments may not appear after statements.
+  922 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+  925 | WARNING | Line exceeds 85 characters; contains 88 characters
+  929 | ERROR   | No blank line found after control structure
+  935 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  936 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 16
+  937 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 16
+  938 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 16
+  939 | ERROR   | Closing parenthesis not aligned correctly; expected 30 space(s) but found 13
+  939 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  940 | ERROR   | End comment for long condition not found; expected "//end if"
+  941 | ERROR   | Expected //end _get_taxes()
+  941 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  941 | ERROR   | Expected 2 blank lines after function; 1 found
+  942 | ERROR   | Whitespace found at end of line
+  945 | ERROR   | Last parameter comment requires a blank newline after it
+  945 | ERROR   | Missing comment for param "$tax" at position 1
+  945 | ERROR   | There must be exactly one blank line before the tags in function comment
+  948 | ERROR   | Private method name "Xero_Controller::_extract_tax_data" is not in camel caps format
+  948 | ERROR   | Private method name "Xero_Controller::_extract_tax_data" is not in camel caps format
+  960 | WARNING | Line exceeds 85 characters; contains 93 characters
+  962 | ERROR   | Expected //end _extract_tax_data()
+  962 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  962 | ERROR   | Expected 2 blank lines after function; 1 found
+  963 | ERROR   | Whitespace found at end of line
+  964 | ERROR   | Missing function doc comment
+  964 | ERROR   | Private method name "Xero_Controller::_create_xero_customer_groups" is not in camel caps format
+  964 | ERROR   | Private method name "Xero_Controller::_create_xero_customer_groups" is not in camel caps format
+  967 | ERROR   | Array value not aligned correctly; expected 28 spaces but found 13
+  967 | ERROR   | Variable "xero_customer_group" is not in valid camel caps format
+  968 | ERROR   | Comma required after last value in array declaration
+  968 | ERROR   | Variable "xero_suppliers_group" is not in valid camel caps format
+  969 | ERROR   | Closing parenthesis not aligned correctly; expected 27 space(s) but found 9
+  972 | WARNING | Line exceeds 85 characters; contains 87 characters
+  973 | ERROR   | Operator == prohibited; use === instead
+  975 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 20
+  976 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 20
+  977 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 20
+  978 | ERROR   | Closing parenthesis not aligned correctly; expected 30 space(s) but found 17
+  979 | ERROR   | Whitespace found at end of line
+  983 | ERROR   | Expected //end _create_xero_customer_groups()
+  983 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+  983 | ERROR   | Expected 2 blank lines after function; 1 found
+  984 | ERROR   | Whitespace found at end of line
+  988 | ERROR   | Missing @return tag in function comment
+  989 | ERROR   | Public method name "Xero_Controller::sync_customers" is not in camel caps format
+  989 | ERROR   | Public method name "Xero_Controller::sync_customers" is not in camel caps format
+  991 | ERROR   | Variable "merchant_id" is not in valid camel caps format
+  993 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  993 | ERROR   | Variable "merchant_id" is not in valid camel caps format
+  993 | WARNING | Line exceeds 85 characters; contains 110 characters
+  995 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+  997 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  998 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 16
+  999 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 16
+ 1000 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 16
+ 1001 | ERROR   | Closing parenthesis not aligned correctly; expected 30 space(s) but found 13
+ 1001 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+ 1003 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+ 1004 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 16
+ 1005 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 16
+ 1006 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 16
+ 1007 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 16
+ 1008 | ERROR   | Closing parenthesis not aligned correctly; expected 30 space(s) but found 13
+ 1008 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+ 1010 | ERROR   | Expected //end sync_customers()
+ 1010 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+ 1010 | ERROR   | Expected 2 blank lines after function; 1 found
+ 1011 | ERROR   | Whitespace found at end of line
+ 1014 | ERROR   | Last parameter comment requires a blank newline after it
+ 1014 | ERROR   | Missing comment for param "$modifiedSince" at position 1
+ 1014 | ERROR   | There must be exactly one blank line before the tags in function comment
+ 1017 | ERROR   | Private method name "Xero_Controller::_get_customers" is not in camel caps format
+ 1017 | ERROR   | Private method name "Xero_Controller::_get_customers" is not in camel caps format
+ 1023 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1025 | WARNING | Line exceeds 85 characters; contains 94 characters
+ 1026 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1026 | ERROR   | Comments may not appear after statements.
+ 1027 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1029 | ERROR   | Array key not aligned correctly; expected 38 spaces but found 20
+ 1030 | ERROR   | Array key not aligned correctly; expected 38 spaces but found 20
+ 1031 | ERROR   | Closing parenthesis not aligned correctly; expected 38 space(s) but found 17
+ 1033 | WARNING | Line exceeds 85 characters; contains 92 characters
+ 1037 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "false" but found "FALSE"
+ 1038 | WARNING | Line exceeds 85 characters; contains 86 characters
+ 1042 | ERROR   | Array key not aligned correctly; expected 61 spaces but found 28
+ 1043 | ERROR   | Array key not aligned correctly; expected 61 spaces but found 28
+ 1044 | ERROR   | Array key not aligned correctly; expected 61 spaces but found 28
+ 1044 | WARNING | Line exceeds 85 characters; contains 187 characters
+ 1045 | ERROR   | Array key not aligned correctly; expected 61 spaces but found 28
+ 1046 | ERROR   | Array key not aligned correctly; expected 61 spaces but found 28
+ 1047 | ERROR   | Array key not aligned correctly; expected 61 spaces but found 28
+ 1048 | ERROR   | Closing parenthesis not aligned correctly; expected 61 space(s) but found 25
+ 1052 | ERROR   | No blank line found after control structure
+ 1056 | ERROR   | End comment for long condition not found; expected "//end if"
+ 1058 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+ 1059 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 16
+ 1060 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 16
+ 1061 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 16
+ 1062 | ERROR   | Closing parenthesis not aligned correctly; expected 30 space(s) but found 13
+ 1062 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+ 1063 | ERROR   | End comment for long condition not found; expected "//end if"
+ 1064 | ERROR   | Expected //end _get_customers()
+ 1064 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+ 1064 | ERROR   | Expected 2 blank lines after function; 1 found
+ 1065 | ERROR   | Whitespace found at end of line
+ 1068 | ERROR   | Last parameter comment requires a blank newline after it
+ 1068 | ERROR   | Missing comment for param "$customer" at position 1
+ 1068 | ERROR   | There must be exactly one blank line before the tags in function comment
+ 1071 | WARNING | Function's cyclomatic complexity (11) exceeds 10; consider refactoring the function
+ 1071 | ERROR   | Private method name "Xero_Controller::_extract_customer_data" is not in camel caps format
+ 1071 | ERROR   | Private method name "Xero_Controller::_extract_customer_data" is not in camel caps format
+ 1077 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1077 | ERROR   | Inline IF statements are not allowed
+ 1077 | WARNING | Line exceeds 85 characters; contains 110 characters
+ 1078 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1078 | ERROR   | Inline IF statements are not allowed
+ 1078 | WARNING | Line exceeds 85 characters; contains 108 characters
+ 1081 | ERROR   | Whitespace found at end of line
+ 1083 | ERROR   | Inline comments must start with a capital letter
+ 1083 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1083 | ERROR   | Comments may not appear after statements.
+ 1086 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1086 | ERROR   | Operator ! prohibited; use === FALSE instead
+ 1088 | ERROR   | Operator == prohibited; use === instead
+ 1089 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1089 | ERROR   | Inline IF statements are not allowed
+ 1089 | WARNING | Line exceeds 85 characters; contains 136 characters
+ 1090 | ERROR   | Concat operator must not be surrounded by spaces
+ 1090 | ERROR   | Concat operator must not be surrounded by spaces
+ 1090 | ERROR   | Concat operator must not be surrounded by spaces
+ 1090 | ERROR   | Concat operator must not be surrounded by spaces
+ 1090 | WARNING | Line exceeds 85 characters; contains 197 characters
+ 1094 | WARNING | Line exceeds 85 characters; contains 87 characters
+ 1095 | ERROR   | Usage of ELSEIF not allowed; use ELSE IF instead
+ 1095 | ERROR   | Operator == prohibited; use === instead
+ 1096 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1096 | ERROR   | Inline IF statements are not allowed
+ 1096 | WARNING | Line exceeds 85 characters; contains 128 characters
+ 1097 | ERROR   | Concat operator must not be surrounded by spaces
+ 1097 | ERROR   | Concat operator must not be surrounded by spaces
+ 1097 | ERROR   | Concat operator must not be surrounded by spaces
+ 1097 | ERROR   | Concat operator must not be surrounded by spaces
+ 1097 | WARNING | Line exceeds 85 characters; contains 189 characters
+ 1104 | ERROR   | No blank line found after control structure
+ 1104 | ERROR   | End comment for long condition not found; expected "//end for"
+ 1106 | ERROR   | No space before comment text; expected "// get count of phones" but found "//get count of phones"
+ 1106 | ERROR   | Inline comments must start with a capital letter
+ 1106 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1106 | ERROR   | Comments may not appear after statements.
+ 1111 | ERROR   | Operator == prohibited; use === instead
+ 1113 | ERROR   | Usage of ELSEIF not allowed; use ELSE IF instead
+ 1113 | ERROR   | Operator == prohibited; use === instead
+ 1115 | ERROR   | Usage of ELSEIF not allowed; use ELSE IF instead
+ 1115 | ERROR   | Operator == prohibited; use === instead
+ 1117 | ERROR   | Usage of ELSEIF not allowed; use ELSE IF instead
+ 1117 | ERROR   | Operator == prohibited; use === instead
+ 1119 | ERROR   | No blank line found after control structure
+ 1120 | ERROR   | Operator ! prohibited; use === FALSE instead
+ 1121 | ERROR   | Concat operator must not be surrounded by spaces
+ 1121 | ERROR   | Concat operator must not be surrounded by spaces
+ 1121 | ERROR   | Concat operator must not be surrounded by spaces
+ 1121 | ERROR   | Concat operator must not be surrounded by spaces
+ 1121 | WARNING | Line exceeds 85 characters; contains 168 characters
+ 1124 | ERROR   | No blank line found after control structure
+ 1126 | WARNING | Line exceeds 85 characters; contains 96 characters
+ 1128 | ERROR   | Expected //end _extract_customer_data()
+ 1128 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+ 1128 | ERROR   | Expected 2 blank lines after function; 1 found
+ 1129 | ERROR   | Whitespace found at end of line
+ 1130 | ERROR   | You must use "/**" style comments for a function comment
+ 1130 | ERROR   | Private method name "Xero_Controller::_add_to_xero_customer_groups" is not in camel caps format
+ 1130 | ERROR   | Private method name "Xero_Controller::_add_to_xero_customer_groups" is not in camel caps format
+ 1133 | ERROR   | Variable "xero_model" is not in valid camel caps format
+ 1133 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+ 1134 | ERROR   | Array value not aligned correctly; expected 73 spaces but found 13
+ 1134 | ERROR   | Variable "xero_customer_group" is not in valid camel caps format
+ 1135 | ERROR   | Comma required after last value in array declaration
+ 1135 | ERROR   | Variable "xero_suppliers_group" is not in valid camel caps format
+ 1136 | ERROR   | Closing parenthesis not aligned correctly; expected 72 space(s) but found 9
+ 1136 | ERROR   | Only one argument is allowed per line in a multi-line function call
+ 1136 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+ 1140 | ERROR   | Operator == prohibited; use === instead
+ 1140 | ERROR   | Variable "xero_customer_group" is not in valid camel caps format
+ 1142 | ERROR   | No blank line found after control structure
+ 1143 | ERROR   | Operator == prohibited; use === instead
+ 1143 | ERROR   | Variable "xero_suppliers_group" is not in valid camel caps format
+ 1146 | ERROR   | No blank line found after control structure
+ 1147 | ERROR   | Operator == prohibited; use === instead
+ 1147 | ERROR   | Operator == prohibited; use === instead
+ 1149 | ERROR   | No blank line found after control structure
+ 1152 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1152 | ERROR   | Operator == prohibited; use === instead
+ 1152 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "true" but found "TRUE"
+ 1152 | WARNING | Line exceeds 85 characters; contains 96 characters
+ 1153 | ERROR   | Operator == prohibited; use === instead
+ 1154 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+ 1155 | ERROR   | Array key not aligned correctly; expected 43 spaces but found 20
+ 1156 | ERROR   | Array key not aligned correctly; expected 43 spaces but found 20
+ 1157 | ERROR   | Array key not aligned correctly; expected 43 spaces but found 20
+ 1158 | ERROR   | Closing parenthesis not aligned correctly; expected 43 space(s) but found 17
+ 1158 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+ 1161 | ERROR   | Whitespace found at end of line
+ 1162 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1162 | ERROR   | Operator == prohibited; use === instead
+ 1162 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "true" but found "TRUE"
+ 1162 | WARNING | Line exceeds 85 characters; contains 96 characters
+ 1163 | ERROR   | Operator == prohibited; use === instead
+ 1164 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+ 1165 | ERROR   | Array key not aligned correctly; expected 43 spaces but found 20
+ 1166 | ERROR   | Array key not aligned correctly; expected 43 spaces but found 20
+ 1167 | ERROR   | Array key not aligned correctly; expected 43 spaces but found 20
+ 1168 | ERROR   | Closing parenthesis not aligned correctly; expected 43 space(s) but found 17
+ 1168 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+ 1171 | ERROR   | Expected //end _add_to_xero_customer_groups()
+ 1171 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+ 1171 | ERROR   | Expected 2 blank lines after function; 1 found
+ 1172 | ERROR   | Whitespace found at end of line
+ 1175 | ERROR   | Missing comment for param "$excludeList" at position 1
+ 1175 | ERROR   | There must be exactly one blank line before the tags in function comment
+ 1176 | ERROR   | Missing @return tag in function comment
+ 1177 | ERROR   | Public method name "Xero_Controller::_export_customers" must not be prefixed with an underscore
+ 1177 | ERROR   | Public method name "Xero_Controller::_export_customers" must not be prefixed with an underscore
+ 1177 | ERROR   | Incorrect spacing between argument "$excludeList" and equals sign; expected 0 but found 1
+ 1177 | ERROR   | Incorrect spacing between default value and equals sign for argument "$excludeList"; expected 0 but found 1
+ 1183 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1186 | ERROR   | Variable "xero_model" is not in valid camel caps format
+ 1186 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "null" but found "NULL"
+ 1186 | WARNING | Line exceeds 85 characters; contains 171 characters
+ 1187 | WARNING | Inline control structures are discouraged
+ 1187 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1188 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "true" but found "TRUE"
+ 1190 | WARNING | Line exceeds 85 characters; contains 87 characters
+ 1193 | WARNING | Line exceeds 85 characters; contains 110 characters
+ 1194 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1195 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "true" but found "TRUE"
+ 1196 | WARNING | Line exceeds 85 characters; contains 91 characters
+ 1197 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "true" but found "TRUE"
+ 1202 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+ 1203 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 16
+ 1204 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 16
+ 1205 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 16
+ 1206 | ERROR   | Closing parenthesis not aligned correctly; expected 30 space(s) but found 13
+ 1206 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+ 1207 | ERROR   | End comment for long condition not found; expected "//end if"
+ 1208 | ERROR   | Expected //end _export_customers()
+ 1208 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+ 1208 | ERROR   | Expected 2 blank lines after function; 1 found
+ 1209 | ERROR   | Whitespace found at end of line
+ 1212 | ERROR   | Missing comment for param "$received" at position 1
+ 1212 | ERROR   | There must be exactly one blank line before the tags in function comment
+ 1213 | ERROR   | Last parameter comment requires a blank newline after it
+ 1213 | ERROR   | Missing comment for param "$exportOrder" at position 2
+ 1216 | ERROR   | Private method name "Xero_Controller::_customer_export_success" is not in camel caps format
+ 1216 | ERROR   | Private method name "Xero_Controller::_customer_export_success" is not in camel caps format
+ 1221 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+ 1221 | ERROR   | Only one argument is allowed per line in a multi-line function call
+ 1221 | ERROR   | Only one argument is allowed per line in a multi-line function call
+ 1222 | ERROR   | Array key not aligned correctly; expected 63 spaces but found 16
+ 1223 | ERROR   | Array key not aligned correctly; expected 63 spaces but found 16
+ 1224 | ERROR   | Closing parenthesis not aligned correctly; expected 63 space(s) but found 13
+ 1224 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+ 1226 | ERROR   | No blank line found after control structure
+ 1227 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "true" but found "TRUE"
+ 1228 | ERROR   | Expected //end _customer_export_success()
+ 1228 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+ 1228 | ERROR   | Expected 2 blank lines after function; 1 found
+ 1229 | ERROR   | Whitespace found at end of line
+ 1232 | ERROR   | Missing comment for param "$customer" at position 1
+ 1232 | ERROR   | There must be exactly one blank line before the tags in function comment
+ 1233 | ERROR   | Missing @return tag in function comment
+ 1234 | ERROR   | Private method name "Xero_Controller::_format_customer_to_export" is not in camel caps format
+ 1234 | ERROR   | Private method name "Xero_Controller::_format_customer_to_export" is not in camel caps format
+ 1237 | ERROR   | Variable "synced_to_file" is not in valid camel caps format
+ 1237 | ERROR   | Operator == prohibited; use === instead
+ 1238 | ERROR   | Variable "thirdparty_customer_id" is not in valid camel caps format
+ 1239 | ERROR   | No blank line found after control structure
+ 1243 | ERROR   | Variable "primary_email" is not in valid camel caps format
+ 1246 | ERROR   | Operator ! prohibited; use === FALSE instead
+ 1246 | ERROR   | Variable "billing_address" is not in valid camel caps format
+ 1249 | ERROR   | Variable "billing_address" is not in valid camel caps format
+ 1249 | WARNING | Line exceeds 85 characters; contains 94 characters
+ 1250 | ERROR   | Variable "billing_address2" is not in valid camel caps format
+ 1250 | WARNING | Line exceeds 85 characters; contains 113 characters
+ 1251 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1251 | ERROR   | Inline IF statements are not allowed
+ 1251 | WARNING | Line exceeds 85 characters; contains 113 characters
+ 1252 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1252 | ERROR   | Inline IF statements are not allowed
+ 1252 | WARNING | Line exceeds 85 characters; contains 113 characters
+ 1253 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1253 | ERROR   | Inline IF statements are not allowed
+ 1253 | WARNING | Line exceeds 85 characters; contains 113 characters
+ 1254 | ERROR   | Variable "billing_city" is not in valid camel caps format
+ 1254 | WARNING | Line exceeds 85 characters; contains 91 characters
+ 1255 | ERROR   | Variable "billing_country" is not in valid camel caps format
+ 1255 | WARNING | Line exceeds 85 characters; contains 94 characters
+ 1256 | ERROR   | Variable "billing_state" is not in valid camel caps format
+ 1256 | WARNING | Line exceeds 85 characters; contains 92 characters
+ 1257 | ERROR   | Variable "billing_zipcode" is not in valid camel caps format
+ 1257 | WARNING | Line exceeds 85 characters; contains 94 characters
+ 1260 | ERROR   | No blank line found after control structure
+ 1261 | ERROR   | Operator ! prohibited; use === FALSE instead
+ 1264 | WARNING | Line exceeds 85 characters; contains 87 characters
+ 1265 | WARNING | Line exceeds 85 characters; contains 105 characters
+ 1266 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1266 | ERROR   | Inline IF statements are not allowed
+ 1266 | WARNING | Line exceeds 85 characters; contains 113 characters
+ 1267 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1267 | ERROR   | Inline IF statements are not allowed
+ 1267 | WARNING | Line exceeds 85 characters; contains 113 characters
+ 1268 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1268 | ERROR   | Inline IF statements are not allowed
+ 1268 | WARNING | Line exceeds 85 characters; contains 113 characters
+ 1270 | ERROR   | Variable "billing_country" is not in valid camel caps format
+ 1270 | WARNING | Line exceeds 85 characters; contains 94 characters
+ 1272 | ERROR   | Variable "zip_code" is not in valid camel caps format
+ 1272 | WARNING | Line exceeds 85 characters; contains 87 characters
+ 1274 | ERROR   | No blank line found after control structure
+ 1277 | ERROR   | Operator ! prohibited; use === FALSE instead
+ 1277 | ERROR   | Variable "primary_phone" is not in valid camel caps format
+ 1278 | ERROR   | Variable "primary_phone" is not in valid camel caps format
+ 1278 | WARNING | Line exceeds 85 characters; contains 115 characters
+ 1282 | ERROR   | No blank line found after control structure
+ 1283 | ERROR   | Operator ! prohibited; use === FALSE instead
+ 1284 | WARNING | Line exceeds 85 characters; contains 107 characters
+ 1288 | ERROR   | No blank line found after control structure
+ 1289 | ERROR   | Operator ! prohibited; use === FALSE instead
+ 1290 | WARNING | Line exceeds 85 characters; contains 107 characters
+ 1294 | ERROR   | No blank line found after control structure
+ 1295 | ERROR   | Operator ! prohibited; use === FALSE instead
+ 1296 | WARNING | Line exceeds 85 characters; contains 107 characters
+ 1299 | ERROR   | No blank line found after control structure
+ 1301 | ERROR   | Expected //end _format_customer_to_export()
+ 1301 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+ 1301 | ERROR   | Expected 2 blank lines after function; 1 found
+ 1302 | ERROR   | Whitespace found at end of line
+ 1305 | ERROR   | Last parameter comment requires a blank newline after it
+ 1305 | ERROR   | Missing comment for param "$phoneNumber" at position 1
+ 1305 | ERROR   | There must be exactly one blank line before the tags in function comment
+ 1308 | ERROR   | Private method name "Xero_Controller::_extract_phone_fields" is not in camel caps format
+ 1308 | ERROR   | Private method name "Xero_Controller::_extract_phone_fields" is not in camel caps format
+ 1313 | ERROR   | Array key not aligned correctly; expected 28 spaces but found 16
+ 1314 | ERROR   | Array key not aligned correctly; expected 28 spaces but found 16
+ 1315 | ERROR   | Array key not aligned correctly; expected 28 spaces but found 16
+ 1316 | ERROR   | Closing parenthesis not aligned correctly; expected 28 space(s) but found 13
+ 1318 | ERROR   | Operator == prohibited; use === instead
+ 1320 | ERROR   | Usage of ELSEIF not allowed; use ELSE IF instead
+ 1320 | ERROR   | Operator == prohibited; use === instead
+ 1323 | ERROR   | Usage of ELSEIF not allowed; use ELSE IF instead
+ 1323 | ERROR   | Operator == prohibited; use === instead
+ 1327 | ERROR   | No blank line found after control structure
+ 1331 | ERROR   | Array key not aligned correctly; expected 20 spaces but found 16
+ 1332 | ERROR   | Array key not aligned correctly; expected 20 spaces but found 16
+ 1333 | ERROR   | Array key not aligned correctly; expected 20 spaces but found 16
+ 1334 | ERROR   | Closing parenthesis not aligned correctly; expected 20 space(s) but found 13
+ 1335 | ERROR   | End comment for long condition not found; expected "//end if"
+ 1336 | ERROR   | Expected //end _extract_phone_fields()
+ 1336 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+ 1336 | ERROR   | Expected 2 blank lines after function; 1 found
+ 1337 | ERROR   | Whitespace found at end of line
+ 1340 | ERROR   | There must be exactly one blank line before the tags in function comment
+ 1341 | ERROR   | Missing @return tag in function comment
+ 1342 | ERROR   | Private method name "Xero_Controller::_do_item_export" is not in camel caps format
+ 1342 | ERROR   | Private method name "Xero_Controller::_do_item_export" is not in camel caps format
+ 1342 | ERROR   | Incorrect spacing between argument "$excludeList" and equals sign; expected 0 but found 1
+ 1342 | ERROR   | Incorrect spacing between default value and equals sign for argument "$excludeList"; expected 0 but found 1
+ 1344 | ERROR   | Variable "xero_model" is not in valid camel caps format
+ 1344 | WARNING | Line exceeds 85 characters; contains 116 characters
+ 1345 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1345 | ERROR   | Inline IF statements are not allowed
+ 1345 | WARNING | Line exceeds 85 characters; contains 100 characters
+ 1347 | ERROR   | Expected //end _do_item_export()
+ 1347 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+ 1347 | ERROR   | Expected 2 blank lines after function; 1 found
+ 1348 | ERROR   | Whitespace found at end of line
+ 1354 | WARNING | Line exceeds 85 characters; contains 87 characters
+ 1355 | ERROR   | Missing @return tag in function comment
+ 1356 | ERROR   | Public method name "Xero_Controller::sync_transactions" is not in camel caps format
+ 1356 | ERROR   | Public method name "Xero_Controller::sync_transactions" is not in camel caps format
+ 1360 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+ 1361 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+ 1362 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+ 1363 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+ 1364 | ERROR   | Closing parenthesis not aligned correctly; expected 26 space(s) but found 9
+ 1364 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+ 1365 | ERROR   | Expected //end sync_transactions()
+ 1365 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+ 1365 | ERROR   | Expected 2 blank lines after function; 1 found
+ 1366 | ERROR   | Whitespace found at end of line
+ 1369 | ERROR   | Missing @return tag in function comment
+ 1370 | ERROR   | Private method name "Xero_Controller::_export_transactions" is not in camel caps format
+ 1370 | ERROR   | Private method name "Xero_Controller::_export_transactions" is not in camel caps format
+ 1376 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1379 | ERROR   | Whitespace found at end of line
+ 1380 | ERROR   | Inline comments must start with a capital letter
+ 1380 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1382 | ERROR   | Whitespace found at end of line
+ 1383 | ERROR   | No space before comment text; expected "// do the customer export" but found "//do the customer export"
+ 1383 | ERROR   | Inline comments must start with a capital letter
+ 1383 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1385 | ERROR   | Whitespace found at end of line
+ 1386 | ERROR   | Variable "integration_model" is not in valid camel caps format
+ 1386 | WARNING | Line exceeds 85 characters; contains 157 characters
+ 1387 | WARNING | Inline control structures are discouraged
+ 1387 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1388 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "true" but found "TRUE"
+ 1390 | WARNING | Line exceeds 85 characters; contains 88 characters
+ 1394 | WARNING | Line exceeds 85 characters; contains 110 characters
+ 1395 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1396 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "true" but found "TRUE"
+ 1397 | WARNING | Line exceeds 85 characters; contains 113 characters
+ 1399 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "true" but found "TRUE"
+ 1404 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+ 1405 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 16
+ 1406 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 16
+ 1407 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 16
+ 1408 | ERROR   | Closing parenthesis not aligned correctly; expected 30 space(s) but found 13
+ 1408 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+ 1409 | ERROR   | End comment for long condition not found; expected "//end if"
+ 1410 | ERROR   | Expected //end _export_transactions()
+ 1410 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+ 1410 | ERROR   | Expected 2 blank lines after function; 1 found
+ 1411 | ERROR   | Whitespace found at end of line
+ 1412 | ERROR   | You must use "/**" style comments for a function comment
+ 1412 | ERROR   | Private method name "Xero_Controller::_transaction_export_success" is not in camel caps format
+ 1412 | ERROR   | Private method name "Xero_Controller::_transaction_export_success" is not in camel caps format
+ 1412 | WARNING | Line exceeds 85 characters; contains 90 characters
+ 1420 | ERROR   | Variable "integration_model" is not in valid camel caps format
+ 1420 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+ 1420 | ERROR   | Only one argument is allowed per line in a multi-line function call
+ 1420 | WARNING | Line exceeds 85 characters; contains 96 characters
+ 1421 | ERROR   | Array key not aligned correctly; expected 91 spaces but found 16
+ 1422 | ERROR   | Closing parenthesis not aligned correctly; expected 91 space(s) but found 13
+ 1422 | ERROR   | Only one argument is allowed per line in a multi-line function call
+ 1422 | ERROR   | Only one argument is allowed per line in a multi-line function call
+ 1422 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+ 1426 | ERROR   | Expected //end _transaction_export_success()
+ 1426 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+ 1426 | ERROR   | Expected 2 blank lines after function; 1 found
+ 1427 | ERROR   | Whitespace found at end of line
+ 1428 | ERROR   | Missing function doc comment
+ 1428 | ERROR   | Private method name "Xero_Controller::_apply_invoice_payments" is not in camel caps format
+ 1428 | ERROR   | Private method name "Xero_Controller::_apply_invoice_payments" is not in camel caps format
+ 1433 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1436 | WARNING | Line exceeds 85 characters; contains 91 characters
+ 1439 | WARNING | Line exceeds 85 characters; contains 110 characters
+ 1440 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1441 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "true" but found "TRUE"
+ 1442 | WARNING | Line exceeds 85 characters; contains 89 characters
+ 1443 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "true" but found "TRUE"
+ 1448 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+ 1449 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 16
+ 1450 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 16
+ 1451 | ERROR   | Array key not aligned correctly; expected 30 spaces but found 16
+ 1452 | ERROR   | Closing parenthesis not aligned correctly; expected 30 space(s) but found 13
+ 1452 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+ 1453 | ERROR   | End comment for long condition not found; expected "//end if"
+ 1454 | ERROR   | Expected //end _apply_invoice_payments()
+ 1454 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+ 1454 | ERROR   | Expected 2 blank lines after function; 1 found
+ 1455 | ERROR   | Whitespace found at end of line
+ 1456 | ERROR   | Missing function doc comment
+ 1456 | ERROR   | Private method name "Xero_Controller::_payment_export_success" is not in camel caps format
+ 1456 | ERROR   | Private method name "Xero_Controller::_payment_export_success" is not in camel caps format
+ 1464 | WARNING | Inline control structures are discouraged
+ 1464 | ERROR   | Operator ! prohibited; use === FALSE instead
+ 1465 | ERROR   | Variable "integration_model" is not in valid camel caps format
+ 1465 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+ 1465 | ERROR   | Only one argument is allowed per line in a multi-line function call
+ 1465 | WARNING | Line exceeds 85 characters; contains 100 characters
+ 1466 | ERROR   | Array key not aligned correctly; expected 95 spaces but found 20
+ 1467 | ERROR   | Closing parenthesis not aligned correctly; expected 95 space(s) but found 17
+ 1467 | ERROR   | Only one argument is allowed per line in a multi-line function call
+ 1467 | ERROR   | Only one argument is allowed per line in a multi-line function call
+ 1467 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+ 1470 | ERROR   | Expected //end _payment_export_success()
+ 1470 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+ 1470 | ERROR   | Expected 2 blank lines after function; 1 found
+ 1471 | ERROR   | Whitespace found at end of line
+ 1472 | WARNING | Function's cyclomatic complexity (15) exceeds 10; consider refactoring the function
+ 1472 | ERROR   | Missing function doc comment
+ 1472 | ERROR   | Private method name "Xero_Controller::_format_transaction_to_export" is not in camel caps format
+ 1472 | ERROR   | Private method name "Xero_Controller::_format_transaction_to_export" is not in camel caps format
+ 1474 | ERROR   | Inline doc block comments are not allowed; use "/* Comment */" or "// Comment" instead
+ 1475 | ERROR   | First line of comment not aligned correctly; expected 12 spaces but found 9
+ 1475 | ERROR   | Block comments must start with a capital letter
+ 1476 | ERROR   | Last line of comment aligned incorrectly; expected 8 spaces but found 9
+ 1476 | ERROR   | Empty line required after block comment
+ 1479 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "true" but found "TRUE"
+ 1482 | ERROR   | Variable "transaction_id" is not in valid camel caps format
+ 1483 | ERROR   | Operator ! prohibited; use === FALSE instead
+ 1483 | ERROR   | Variable "stream_subscriber_id" is not in valid camel caps format
+ 1484 | ERROR   | Variable "transaction_model" is not in valid camel caps format
+ 1484 | WARNING | Line exceeds 85 characters; contains 242 characters
+ 1484 | ERROR   | No space before comment text; expected "// get the transaction amounts from the transaction_amounts table. If rows exist here, then fetch from here..else fetch from
+      |         | stream_subscriber" but found "//get the transaction amounts from the transaction_amounts table. If rows exist here, then fetch from here..else fetch from stream_subscriber"
+ 1484 | ERROR   | Inline comments must start with a capital letter
+ 1484 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1484 | ERROR   | Comments may not appear after statements.
+ 1486 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1487 | ERROR   | Variable "integration_model" is not in valid camel caps format
+ 1487 | ERROR   | Variable "stream_subscriber_id" is not in valid camel caps format
+ 1487 | WARNING | Line exceeds 85 characters; contains 156 characters
+ 1489 | ERROR   | Variable "integration_model" is not in valid camel caps format
+ 1489 | WARNING | Line exceeds 85 characters; contains 136 characters
+ 1490 | ERROR   | No blank line found after control structure
+ 1491 | ERROR   | Expected "if (...) {\n"; found "if (...) { // don't sync transactions w/o items\n"
+ 1491 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1491 | ERROR   | Blank line found at start of control structure
+ 1491 | ERROR   | Inline comments must start with a capital letter
+ 1491 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1491 | ERROR   | Comments may not appear after statements.
+ 1496 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "true" but found "TRUE"
+ 1496 | WARNING | Line exceeds 85 characters; contains 98 characters
+ 1496 | ERROR   | Comments may not appear after statements.
+ 1496 | ERROR   | Inline comments must start with a capital letter
+ 1497 | ERROR   | Expected "if (...) {\n"; found "if (...) { //charged transactions\n"
+ 1497 | ERROR   | Variable "transaction_type" is not in valid camel caps format
+ 1497 | ERROR   | Operator == prohibited; use === instead
+ 1497 | ERROR   | Blank line found at start of control structure
+ 1497 | ERROR   | No space before comment text; expected "// charged transactions" but found "//charged transactions"
+ 1497 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1497 | ERROR   | Comments may not appear after statements.
+ 1498 | ERROR   | Variable "integration_model" is not in valid camel caps format
+ 1498 | WARNING | Line exceeds 85 characters; contains 128 characters
+ 1499 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1501 | ERROR   | Operator == prohibited; use === instead
+ 1503 | ERROR   | No blank line found after control structure
+ 1504 | ERROR   | Variable "transaction_amount" is not in valid camel caps format
+ 1505 | ERROR   | Expected "} else {\n"; found "} else { // no charge item exists OR craeting failed\n"
+ 1505 | ERROR   | Blank line found at start of control structure
+ 1505 | ERROR   | Inline comments must start with a capital letter
+ 1505 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1505 | ERROR   | Comments may not appear after statements.
+ 1508 | ERROR   | End comment for long condition not found; expected "//end if"
+ 1508 | ERROR   | No blank line found after control structure
+ 1509 | ERROR   | No space before comment text; expected "// Pre-checks done" but found "//Pre-checks done"
+ 1510 | ERROR   | No space before comment text; expected "// Get tax and discounts" but found "//Get tax and discounts"
+ 1510 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1512 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1513 | ERROR   | Variable "base_amount" is not in valid camel caps format
+ 1513 | ERROR   | Variable "discount_amount" is not in valid camel caps format
+ 1513 | ERROR   | Variable "is_amount" is not in valid camel caps format
+ 1513 | ERROR   | Variable "sales_tax_1" is not in valid camel caps format
+ 1513 | ERROR   | Variable "sales_tax_2" is not in valid camel caps format
+ 1513 | WARNING | Line exceeds 85 characters; contains 198 characters
+ 1516 | ERROR   | Operator ! prohibited; use === FALSE instead
+ 1518 | ERROR   | Operator ! prohibited; use === FALSE instead
+ 1523 | ERROR   | No blank line found after control structure
+ 1524 | ERROR   | No space before comment text; expected "// Get applied taxes" but found "//Get applied taxes"
+ 1524 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1526 | ERROR   | Expected "if (...) {\n"; found "if (...) { // checking for charged transactions where no tax is involved and stream sub id is null\n"
+ 1526 | ERROR   | Operator ! prohibited; use === FALSE instead
+ 1526 | ERROR   | Variable "stream_subscriber_id" is not in valid camel caps format
+ 1526 | ERROR   | Blank line found at start of control structure
+ 1526 | WARNING | Line exceeds 85 characters; contains 145 characters
+ 1526 | ERROR   | Inline comments must start with a capital letter
+ 1526 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1526 | ERROR   | Comments may not appear after statements.
+ 1527 | ERROR   | Inline shorthand IF statement requires brackets around comparison
+ 1527 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1527 | ERROR   | Inline IF statements are not allowed
+ 1527 | ERROR   | Variable "integration_model" is not in valid camel caps format
+ 1527 | ERROR   | Variable "stream_subscriber_id" is not in valid camel caps format
+ 1527 | ERROR   | Variable "integration_model" is not in valid camel caps format
+ 1527 | WARNING | Line exceeds 85 characters; contains 235 characters
+ 1528 | ERROR   | No blank line found after control structure
+ 1529 | ERROR   | No space before comment text; expected "// Start preparing the final array" but found "//Start preparing the final array"
+ 1529 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1530 | ERROR   | Equals sign not aligned with surrounding assignments; expected 1 space but found 14 spaces
+ 1531 | ERROR   | Equals sign not aligned with surrounding assignments; expected 1 space but found 6 spaces
+ 1531 | ERROR   | Comments may not appear after statements.
+ 1532 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1534 | ERROR   | Variable "thirdparty_customer_id" is not in valid camel caps format
+ 1537 | ERROR   | No space before comment text; expected "// Contact data added" but found "//Contact data added"
+ 1538 | ERROR   | No space before comment text; expected "// Prepare transaction description" but found "//Prepare transaction description"
+ 1538 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1539 | ERROR   | Equals sign not aligned correctly; expected 1 space but found 3 spaces
+ 1539 | ERROR   | Variable "transaction_description" is not in valid camel caps format
+ 1540 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1541 | ERROR   | Variable "integration_model" is not in valid camel caps format
+ 1541 | ERROR   | Variable "payment_stream_id" is not in valid camel caps format
+ 1541 | WARNING | Line exceeds 85 characters; contains 128 characters
+ 1542 | ERROR   | Expected "if (...) {\n"; found "if (...) { ///ufff\n"
+ 1542 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1542 | ERROR   | Blank line found at start of control structure
+ 1542 | ERROR   | No space before comment text; expected "// /ufff" but found "///ufff"
+ 1542 | ERROR   | Inline comments must start with a capital letter
+ 1542 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1542 | ERROR   | Comments may not appear after statements.
+ 1546 | ERROR   | Whitespace found at end of line
+ 1547 | ERROR   | No space before comment text; expected "// Add Line Items" but found "//Add Line Items"
+ 1547 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1551 | ERROR   | Whitespace found at end of line
+ 1552 | WARNING | Line exceeds 85 characters; contains 113 characters
+ 1552 | ERROR   | No space before comment text; expected "// if no taxes applied, then in Xero also no taxes should be applied, else apply what was applied in Rerun" but found "//if no taxes applied,
+      |         | then in Xero also no taxes should be applied, else apply what was applied in Rerun"
+ 1552 | ERROR   | Inline comments must start with a capital letter
+ 1552 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1553 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1553 | ERROR   | Inline IF statements are not allowed
+ 1556 | ERROR   | Inline shorthand IF statement requires brackets around comparison
+ 1556 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1556 | ERROR   | Inline IF statements are not allowed
+ 1556 | ERROR   | Variable "base_amount" is not in valid camel caps format
+ 1556 | WARNING | Line exceeds 85 characters; contains 110 characters
+ 1557 | ERROR   | Inline shorthand IF statement requires brackets around comparison
+ 1557 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1557 | ERROR   | Inline IF statements are not allowed
+ 1557 | ERROR   | Variable "sales_tax_1" is not in valid camel caps format
+ 1557 | WARNING | Line exceeds 85 characters; contains 114 characters
+ 1560 | ERROR   | Whitespace found at end of line
+ 1562 | ERROR   | Variable "item_price" is not in valid camel caps format
+ 1562 | WARNING | Line exceeds 85 characters; contains 164 characters
+ 1563 | ERROR   | Arithmetic operation must be bracketed
+ 1566 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1566 | ERROR   | Comments may not appear after statements.
+ 1567 | ERROR   | Variable "income_account_reference" is not in valid camel caps format
+ 1567 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1567 | ERROR   | Inline IF statements are not allowed
+ 1567 | ERROR   | Variable "income_account_reference" is not in valid camel caps format
+ 1567 | WARNING | Line exceeds 85 characters; contains 191 characters
+ 1568 | ERROR   | Variable "item_price" is not in valid camel caps format
+ 1575 | ERROR   | Variable "item_price" is not in valid camel caps format
+ 1577 | ERROR   | Whitespace found at end of line
+ 1579 | WARNING | Line exceeds 85 characters; contains 96 characters
+ 1580 | ERROR   | Arithmetic operation must be bracketed
+ 1581 | WARNING | Line exceeds 85 characters; contains 163 characters
+ 1582 | ERROR   | Arithmetic operation must be bracketed
+ 1585 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1585 | ERROR   | Comments may not appear after statements.
+ 1586 | WARNING | Line exceeds 85 characters; contains 117 characters
+ 1587 | WARNING | Line exceeds 85 characters; contains 88 characters
+ 1587 | ERROR   | No space before comment text; expected "// send the -ve amount" but found "//send the -ve amount"
+ 1587 | ERROR   | Inline comments must start with a capital letter
+ 1587 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1587 | ERROR   | Comments may not appear after statements.
+ 1589 | ERROR   | No space before comment text; expected "// no tax on discount" but found "//no tax on discount"
+ 1589 | ERROR   | Inline comments must start with a capital letter
+ 1589 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1589 | ERROR   | Comments may not appear after statements.
+ 1595 | ERROR   | No blank line found after control structure
+ 1597 | ERROR   | The value of a comparison must not be assigned to a variable
+ 1597 | ERROR   | Operator == prohibited; use === instead
+ 1597 | ERROR   | Inline shorthand IF statement requires brackets around comparison
+ 1597 | ERROR   | Inline IF statements are not allowed
+ 1597 | WARNING | Line exceeds 85 characters; contains 150 characters
+ 1597 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1597 | ERROR   | Comments may not appear after statements.
+ 1598 | ERROR   | Equals sign not aligned with surrounding assignments; expected 1 space but found 8 spaces
+ 1598 | ERROR   | Arithmetic operation must be bracketed
+ 1601 | ERROR   | No space before comment text; expected "// Added Line Items" but found "//Added Line Items"
+ 1602 | ERROR   | No space before comment text; expected "// Set dates" but found "//Set dates"
+ 1602 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1603 | ERROR   | Equals sign not aligned with surrounding assignments; expected 4 spaces but found 6 spaces
+ 1603 | ERROR   | Variable "transaction_date" is not in valid camel caps format
+ 1603 | WARNING | Line exceeds 85 characters; contains 93 characters
+ 1604 | ERROR   | Equals sign not aligned with surrounding assignments; expected 1 space but found 3 spaces
+ 1604 | ERROR   | Variable "transaction_due_date" is not in valid camel caps format
+ 1604 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1604 | ERROR   | Inline IF statements are not allowed
+ 1604 | ERROR   | Variable "transaction_date" is not in valid camel caps format
+ 1604 | ERROR   | Variable "transaction_due_date" is not in valid camel caps format
+ 1604 | WARNING | Line exceeds 85 characters; contains 200 characters
+ 1605 | ERROR   | Whitespace found at end of line
+ 1606 | ERROR   | No space before comment text; expected "// Are line items inclusive/exclusive of tax" but found "//Are line items inclusive/exclusive of tax"
+ 1606 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1608 | ERROR   | Whitespace found at end of line
+ 1609 | ERROR   | No space before comment text; expected "// Set Rerun transaction id as Reference" but found "//Set Rerun transaction id as Reference"
+ 1609 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1610 | ERROR   | Variable "transaction_reference_id" is not in valid camel caps format
+ 1611 | ERROR   | Whitespace found at end of line
+ 1612 | ERROR   | No space before comment text; expected "// set Invoice sttaus as Approved" but found "//set Invoice sttaus as Approved"
+ 1612 | ERROR   | Inline comments must start with a capital letter
+ 1612 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1614 | ERROR   | Whitespace found at end of line
+ 1615 | ERROR   | No space before comment text; expected "// sub total = sum of items - discount" but found "//sub total = sum of items - discount"
+ 1615 | ERROR   | Inline comments must start with a capital letter
+ 1615 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1617 | ERROR   | Whitespace found at end of line
+ 1618 | ERROR   | No space before comment text; expected "// Tax" but found "//Tax"
+ 1618 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1620 | ERROR   | Whitespace found at end of line
+ 1621 | ERROR   | No space before comment text; expected "// Total amount" but found "//Total amount"
+ 1621 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1622 | ERROR   | Variable "transaction_amount" is not in valid camel caps format
+ 1623 | ERROR   | Whitespace found at end of line
+ 1625 | ERROR   | Expected //end _format_transaction_to_export()
+ 1625 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+ 1625 | ERROR   | Expected 2 blank lines after function; 1 found
+ 1626 | ERROR   | Whitespace found at end of line
+ 1627 | ERROR   | You must use "/**" style comments for a function comment
+ 1627 | ERROR   | Private method name "Xero_Controller::_check_create_sync_xero_discount_item" is not in camel caps format
+ 1627 | ERROR   | Private method name "Xero_Controller::_check_create_sync_xero_discount_item" is not in camel caps format
+ 1629 | ERROR   | Variable "item_model" is not in valid camel caps format
+ 1629 | ERROR   | Variable "discount_item_name" is not in valid camel caps format
+ 1629 | WARNING | Line exceeds 85 characters; contains 125 characters
+ 1630 | ERROR   | Variable "merchant_id" is not in valid camel caps format
+ 1631 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1633 | ERROR   | Array key not aligned correctly; expected 31 spaces but found 16
+ 1633 | ERROR   | Variable "merchant_id" is not in valid camel caps format
+ 1634 | ERROR   | Array key not aligned correctly; expected 31 spaces but found 16
+ 1634 | ERROR   | Variable "discount_item_name" is not in valid camel caps format
+ 1635 | ERROR   | Array key not aligned correctly; expected 31 spaces but found 16
+ 1636 | ERROR   | Array key not aligned correctly; expected 31 spaces but found 16
+ 1637 | ERROR   | Array key not aligned correctly; expected 31 spaces but found 16
+ 1637 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "null" but found "NULL"
+ 1638 | WARNING | Line exceeds 85 characters; contains 116 characters
+ 1638 | WARNING | This comment is 73% valid code; is this commented out code?
+ 1638 | ERROR   | No space before comment text; expected "// 'income_account_reference' => $this->get_merchant_default_value('thirdparty_discount_account_id')," but found
+      |         | "//'income_account_reference' => $this->get_merchant_default_value('thirdparty_discount_account_id'),"
+ 1638 | ERROR   | Inline comments must start with a capital letter
+ 1638 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1639 | ERROR   | Array key not aligned correctly; expected 31 spaces but found 16
+ 1640 | ERROR   | Array key not aligned correctly; expected 31 spaces but found 16
+ 1641 | ERROR   | Closing parenthesis not aligned correctly; expected 31 space(s) but found 13
+ 1642 | ERROR   | Variable "item_model" is not in valid camel caps format
+ 1647 | ERROR   | Whitespace found at end of line
+ 1648 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead
+ 1651 | ERROR   | Whitespace found at end of line
+ 1653 | ERROR   | Expected //end _check_create_sync_xero_discount_item()
+ 1653 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+ 1653 | ERROR   | Expected 2 blank lines after function; 1 found
+ 1654 | ERROR   | Whitespace found at end of line
+ 1655 | ERROR   | You must use "/**" style comments for a function comment
+ 1655 | ERROR   | Private method name "Xero_Controller::_format_payments_to_export" is not in camel caps format
+ 1655 | ERROR   | Private method name "Xero_Controller::_format_payments_to_export" is not in camel caps format
+ 1657 | ERROR   | Equals sign not aligned correctly; expected 1 space but found 14 spaces
+ 1658 | ERROR   | No space before comment text; expected "// add invoice data" but found "//add invoice data"
+ 1658 | ERROR   | Inline comments must start with a capital letter
+ 1658 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1659 | ERROR   | Equals sign not aligned correctly; expected 1 space but found 3 spaces
+ 1660 | ERROR   | Array key not aligned correctly; expected 37 spaces but found 12
+ 1661 | ERROR   | Closing parenthesis not aligned correctly; expected 37 space(s) but found 9
+ 1662 | ERROR   | No space before comment text; expected "// add account data" but found "//add account data"
+ 1662 | ERROR   | Inline comments must start with a capital letter
+ 1662 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1663 | ERROR   | Equals sign not aligned correctly; expected 1 space but found 3 spaces
+ 1664 | ERROR   | Array key not aligned correctly; expected 37 spaces but found 12
+ 1664 | WARNING | Line exceeds 85 characters; contains 93 characters
+ 1665 | ERROR   | Closing parenthesis not aligned correctly; expected 37 space(s) but found 9
+ 1666 | ERROR   | No space before comment text; expected "// set the date as transaction date" but found "//set the date as transaction date"
+ 1666 | ERROR   | Inline comments must start with a capital letter
+ 1666 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1667 | ERROR   | Equals sign not aligned correctly; expected 1 space but found 6 spaces
+ 1667 | ERROR   | Variable "transaction_date" is not in valid camel caps format
+ 1667 | WARNING | Line exceeds 85 characters; contains 93 characters
+ 1668 | ERROR   | No space before comment text; expected "// set the amount" but found "//set the amount"
+ 1668 | ERROR   | Inline comments must start with a capital letter
+ 1668 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1669 | ERROR   | Equals sign not aligned correctly; expected 1 space but found 4 spaces
+ 1669 | ERROR   | Variable "transaction_amount" is not in valid camel caps format
+ 1670 | ERROR   | No space before comment text; expected "// set the reference" but found "//set the reference"
+ 1670 | ERROR   | Inline comments must start with a capital letter
+ 1670 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+ 1671 | ERROR   | Concat operator must not be surrounded by spaces
+ 1671 | ERROR   | Variable "gateway_transaction_id" is not in valid camel caps format
+ 1671 | ERROR   | Concat operator must not be surrounded by spaces
+ 1671 | ERROR   | Concat operator must not be surrounded by spaces
+ 1671 | ERROR   | Variable "gateway_authorization_code" is not in valid camel caps format
+ 1671 | ERROR   | Concat operator must not be surrounded by spaces
+ 1671 | WARNING | Line exceeds 85 characters; contains 160 characters
+ 1672 | ERROR   | Whitespace found at end of line
+ 1674 | ERROR   | Expected //end _format_payments_to_export()
+ 1674 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+ 1674 | ERROR   | Expected 2 blank lines after function; 1 found
+ 1675 | ERROR   | Whitespace found at end of line
+ 1676 | ERROR   | You must use "/**" style comments for a function comment
+ 1676 | ERROR   | Public method name "Xero_Controller::complete_customer_sync" is not in camel caps format
+ 1676 | ERROR   | Public method name "Xero_Controller::complete_customer_sync" is not in camel caps format
+ 1682 | ERROR   | Operator == prohibited; use === instead
+ 1687 | ERROR   | TRUE, FALSE and NULL must be lowercase; expected "false" but found "FALSE"
+ 1687 | ERROR   | Operator != prohibited; use !== instead
+ 1688 | ERROR   | Operator == prohibited; use === instead
+ 1690 | ERROR   | Operator == prohibited; use === instead
+ 1693 | WARNING | Line exceeds 85 characters; contains 87 characters
+ 1697 | ERROR   | No blank line found after control structure
+ 1699 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+ 1700 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+ 1701 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+ 1702 | ERROR   | Array key not aligned correctly; expected 26 spaces but found 12
+ 1703 | ERROR   | Closing parenthesis not aligned correctly; expected 26 space(s) but found 9
+ 1703 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+ 1704 | ERROR   | Expected //end complete_customer_sync()
+ 1704 | ERROR   | Expected 1 blank line before closing function brace; 0 found
+ 1704 | ERROR   | Expected 2 blank lines after function; 1 found
+ 1705 | ERROR   | Whitespace found at end of line
+ 1706 | ERROR   | Expected 0 spaces before closing brace; newline found
+ 1706 | ERROR   | Closing brace of a class must be followed by a single blank line; found 2
+ 1706 | ERROR   | Expected //end class
+ 1708 | ERROR   | Inline comments must start with a capital letter
+ 1708 | ERROR   | Inline comments must end in  full-stops, exclamation marks, or question marks
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

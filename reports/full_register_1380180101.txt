@@ -1,0 +1,314 @@
+FILE: /Applications/MAMP/htdocs/codesniffer/uploads/register.php
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 304 ERROR(S) AND 5 WARNING(S) AFFECTING 198 LINE(S)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+   28 | ERROR   | Opening brace should be on a new line
+   37 | ERROR   | Opening brace should be on a new line
+   51 | ERROR   | Construct names should be separated from opening parentheses by a single space
+   51 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+   76 | ERROR   | Opening brace should be on a new line
+   82 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+   82 | ERROR   | A single space is required on either side of ! and & operators
+   82 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+   97 | ERROR   | Opening brace should be on a new line
+   99 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  100 | ERROR   | Comparisons and operations must be in parentheses in the condition portion of ternary operations
+  100 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+  111 | ERROR   | Opening brace should be on a new line
+  117 | ERROR   | A single space is required on either side of ! and & operators
+  117 | ERROR   | Comparisons and operations must be in parentheses in the condition portion of ternary operations
+  126 | ERROR   | Opening brace should be on a new line
+  139 | ERROR   | Opening brace should be on a new line
+  142 | ERROR   | Single-line if statements should only be used when breaking normal execution
+  142 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  142 | ERROR   | A single space is required on either side of ! and & operators
+  143 | ERROR   | Single-line if statements should only be used when breaking normal execution
+  143 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  144 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+  150 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  156 | ERROR   | No space is allowed after concatenation operators
+  156 | ERROR   | No space is allowed before concatenation operators
+  169 | ERROR   | Opening brace should be on a new line
+  181 | ERROR   | Opening brace should be on a new line
+  187 | ERROR   | A single space is required on either side of ! and & operators
+  198 | ERROR   | Opening brace should be on a new line
+  205 | ERROR   | Code inside case and default blocks should be indented
+  207 | ERROR   | Code inside case and default blocks should be indented
+  209 | ERROR   | Code inside case and default blocks should be indented
+  211 | ERROR   | Code inside case and default blocks should be indented
+  212 | ERROR   | Comparisons and operations must be in parentheses in the condition portion of ternary operations
+  213 | ERROR   | Code inside case and default blocks should be indented
+  222 | ERROR   | Opening brace should be on a new line
+  228 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  240 | ERROR   | Opening brace should be on a new line
+  243 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  243 | ERROR   | A single space is required on either side of ! and & operators
+  252 | ERROR   | Opening brace should be on a new line
+  262 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  262 | ERROR   | A single space is required on either side of ! and & operators
+  266 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  282 | ERROR   | Opening brace should be on a new line
+  304 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  321 | ERROR   | Opening brace should be on a new line
+  323 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  325 | ERROR   | elseif should be used rather than else if
+  325 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  325 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+  326 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  330 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  330 | ERROR   | A single space is required on either side of ! and & operators
+  343 | ERROR   | Opening brace should be on a new line
+  345 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  347 | ERROR   | elseif should be used rather than else if
+  347 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  347 | ERROR   | A single space is required on either side of ! and & operators
+  349 | ERROR   | elseif should be used rather than else if
+  349 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  349 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+  353 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  356 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  366 | ERROR   | Opening brace should be on a new line
+  403 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  420 | ERROR   | Opening brace should be on a new line
+  448 | ERROR   | Single-line if statements should only be used when breaking normal execution
+  448 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  448 | ERROR   | A single space is required on either side of ! and & operators
+  449 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+  459 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  459 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+  459 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+  467 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  467 | ERROR   | A single space is required on either side of ! and & operators
+  476 | ERROR   | Opening brace should be on a new line
+  478 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  478 | ERROR   | A single space is required on either side of ! and & operators
+  485 | WARNING | @see tag should refer to code; use @link for hyperlinks
+  489 | ERROR   | Variable name $routingNumber is not in all lowercase using underscores for word separators
+  489 | ERROR   | Opening brace should be on a new line
+  490 | ERROR   | Variable name $routingNumber is not in all lowercase using underscores for word separators
+  490 | ERROR   | Variable name $routingNumber is not in all lowercase using underscores for word separators
+  490 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+  491 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  491 | ERROR   | Variable name $routingNumber is not in all lowercase using underscores for word separators
+  492 | ERROR   | Constants must be uppercase; expected FALSE but found false
+  495 | ERROR   | Variable name $checkSum is not in all lowercase using underscores for word separators
+  496 | ERROR   | Variable name $routingNumber is not in all lowercase using underscores for word separators
+  496 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  497 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+  498 | ERROR   | Variable name $checkSum is not in all lowercase using underscores for word separators
+  498 | ERROR   | Variable name $routingNumber is not in all lowercase using underscores for word separators
+  499 | ERROR   | Variable name $checkSum is not in all lowercase using underscores for word separators
+  499 | ERROR   | Variable name $routingNumber is not in all lowercase using underscores for word separators
+  500 | ERROR   | Variable name $checkSum is not in all lowercase using underscores for word separators
+  500 | ERROR   | Variable name $routingNumber is not in all lowercase using underscores for word separators
+  503 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  503 | ERROR   | Variable name $checkSum is not in all lowercase using underscores for word separators
+  503 | ERROR   | Variable name $checkSum is not in all lowercase using underscores for word separators
+  504 | ERROR   | Constants must be uppercase; expected TRUE but found true
+  506 | ERROR   | Constants must be uppercase; expected FALSE but found false
+  515 | ERROR   | Opening brace should be on a new line
+  531 | ERROR   | Opening brace should be on a new line
+  533 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  536 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  548 | ERROR   | Opening brace should be on a new line
+  549 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  553 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  553 | ERROR   | A single space is required on either side of ! and & operators
+  553 | WARNING | Regular expression may have an EOL hole and need /D modifier
+  563 | ERROR   | Opening brace should be on a new line
+  565 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  566 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  566 | ERROR   | A single space is required on either side of ! and & operators
+  566 | WARNING | Regular expression may have an EOL hole and need /D modifier
+  577 | ERROR   | Opening brace should be on a new line
+  579 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  584 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  588 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  588 | ERROR   | A single space is required on either side of ! and & operators
+  594 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  604 | ERROR   | Opening brace should be on a new line
+  606 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  609 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  609 | ERROR   | A single space is required on either side of ! and & operators
+  609 | WARNING | Regular expression may have an EOL hole and need /D modifier
+  609 | ERROR   | Regular expressions must be surrounded by single quotes
+  620 | ERROR   | Opening brace should be on a new line
+  622 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  624 | ERROR   | elseif should be used rather than else if
+  624 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  628 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  628 | ERROR   | A single space is required on either side of ! and & operators
+  638 | ERROR   | Opening brace should be on a new line
+  640 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  640 | ERROR   | A single space is required on either side of ! and & operators
+  650 | ERROR   | Opening brace should be on a new line
+  658 | ERROR   | Opening brace should be on a new line
+  661 | ERROR   | No space is allowed after concatenation operators
+  661 | ERROR   | No space is allowed before concatenation operators
+  664 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  667 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  671 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  674 | ERROR   | Comparisons and operations must be in parentheses in the condition portion of ternary operations
+  676 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  679 | ERROR   | Typecast operators must be first on the line or have a space on either side
+  688 | ERROR   | Opening brace should be on a new line
+  690 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  695 | ERROR   | Variable name $RIR_merchant_id is not in all lowercase using underscores for word separators
+  696 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+  697 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  701 | ERROR   | Parentheses should not be used in calls to class constructors without parameters
+  702 | ERROR   | Variable name $RIR_ach_gateway_details is not in all lowercase using underscores for word separators
+  702 | ERROR   | Variable name $RIR_merchant_id is not in all lowercase using underscores for word separators
+  703 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  703 | ERROR   | Variable name $RIR_ach_gateway_details is not in all lowercase using underscores for word separators
+  707 | ERROR   | Variable name $RIR_ach_gateway_details is not in all lowercase using underscores for word separators
+  713 | ERROR   | Variable name $RIR_ach_gateway_details is not in all lowercase using underscores for word separators
+  715 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  739 | ERROR   | Typecast operators must be first on the line or have a space on either side
+  758 | ERROR   | Opening brace should be on a new line
+  759 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  760 | ERROR   | elseif should be used rather than else if
+  760 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  768 | ERROR   | Opening brace should be on a new line
+  777 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  831 | ERROR   | Parentheses should not be used in calls to class constructors without parameters
+  832 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+  856 | ERROR   | Opening brace should be on a new line
+  865 | ERROR   | Opening brace should be on a new line
+  870 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+  870 | ERROR   | A single space is required on either side of ! and & operators
+  873 | ERROR   | Single-line if statements should only be used when breaking normal execution
+  873 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  881 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  886 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  949 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+  963 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+  965 | ERROR   | Parentheses should not be used in calls to class constructors without parameters
+  966 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+  967 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  984 | ERROR   | Opening brace should be on a new line
+ 1016 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1022 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+ 1023 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1059 | ERROR   | Opening brace should be on a new line
+ 1064 | ERROR   | Comparisons and operations must be in parentheses in the condition portion of ternary operations
+ 1064 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+ 1065 | ERROR   | Comparisons and operations must be in parentheses in the condition portion of ternary operations
+ 1066 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1068 | ERROR   | Comparisons and operations must be in parentheses in the condition portion of ternary operations
+ 1082 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1091 | ERROR   | No space is allowed after concatenation operators
+ 1091 | ERROR   | No space is allowed before concatenation operators
+ 1092 | ERROR   | No space is allowed after concatenation operators
+ 1092 | ERROR   | No space is allowed before concatenation operators
+ 1092 | ERROR   | No space is allowed after concatenation operators
+ 1092 | ERROR   | No space is allowed before concatenation operators
+ 1093 | ERROR   | No space is allowed after concatenation operators
+ 1093 | ERROR   | No space is allowed before concatenation operators
+ 1093 | ERROR   | No space is allowed after concatenation operators
+ 1093 | ERROR   | No space is allowed before concatenation operators
+ 1094 | ERROR   | No space is allowed after concatenation operators
+ 1094 | ERROR   | No space is allowed before concatenation operators
+ 1094 | ERROR   | No space is allowed after concatenation operators
+ 1094 | ERROR   | No space is allowed before concatenation operators
+ 1095 | ERROR   | No space is allowed after concatenation operators
+ 1095 | ERROR   | No space is allowed before concatenation operators
+ 1095 | ERROR   | No space is allowed after concatenation operators
+ 1095 | ERROR   | No space is allowed before concatenation operators
+ 1103 | ERROR   | Opening brace should be on a new line
+ 1112 | ERROR   | Opening brace should be on a new line
+ 1120 | ERROR   | A single space is required on either side of ! and & operators
+ 1135 | ERROR   | Opening brace should be on a new line
+ 1137 | ERROR   | No space is allowed after concatenation operators
+ 1137 | ERROR   | No space is allowed before concatenation operators
+ 1137 | ERROR   | No space is allowed after concatenation operators
+ 1137 | ERROR   | No space is allowed before concatenation operators
+ 1148 | ERROR   | Opening brace should be on a new line
+ 1149 | ERROR   | Constants must be uppercase; expected TRUE but found true
+ 1161 | ERROR   | Opening brace should be on a new line
+ 1162 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1162 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1162 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+ 1162 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+ 1162 | ERROR   | A single space is required on either side of ! and & operators
+ 1162 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1162 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1163 | ERROR   | A single space is required on either side of ! and & operators
+ 1163 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1165 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1165 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1171 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1176 | ERROR   | No space is allowed after concatenation operators
+ 1176 | ERROR   | No space is allowed before concatenation operators
+ 1192 | ERROR   | Opening brace should be on a new line
+ 1193 | ERROR   | Construct names should be separated from opening parentheses by a single space
+ 1198 | ERROR   | Single-line if statements should only be used when breaking normal execution
+ 1198 | ERROR   | Construct names should be separated from opening parentheses by a single space
+ 1200 | ERROR   | Construct names should be separated from opening parentheses by a single space
+ 1204 | ERROR   | Construct names should be separated from opening parentheses by a single space
+ 1208 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1215 | ERROR   | Construct names should be separated from opening parentheses by a single space
+ 1215 | ERROR   | A single space is required on either side of ! and & operators
+ 1220 | ERROR   | Construct names should be separated from opening parentheses by a single space
+ 1224 | ERROR   | Construct names should be separated from opening parentheses by a single space
+ 1230 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1239 | ERROR   | Opening brace should be on a new line
+ 1241 | ERROR   | Construct names should be separated from opening parentheses by a single space
+ 1250 | ERROR   | Opening brace should be on a new line
+ 1311 | ERROR   | Construct names should be separated from opening parentheses by a single space
+ 1320 | WARNING | @param tag should have the parameter name
+ 1323 | ERROR   | Opening brace should be on a new line
+ 1330 | ERROR   | Opening brace should be on a new line
+ 1331 | ERROR   | Constants must be uppercase; expected FALSE but found false
+ 1346 | ERROR   | Construct names should be separated from opening parentheses by a single space
+ 1346 | ERROR   | A single space is required on either side of ! and & operators
+ 1365 | ERROR   | Construct names should be separated from opening parentheses by a single space
+ 1371 | ERROR   | Construct names should be separated from opening parentheses by a single space
+ 1371 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+ 1379 | ERROR   | Construct names should be separated from opening parentheses by a single space
+ 1397 | ERROR   | Opening brace should be on a new line
+ 1405 | ERROR   | Opening brace should be on a new line
+ 1414 | ERROR   | Opening brace should be on a new line
+ 1419 | ERROR   | Construct names should be separated from opening parentheses by a single space
+ 1419 | ERROR   | A single space is required on either side of ! and & operators
+ 1434 | ERROR   | Opening brace should be on a new line
+ 1435 | ERROR   | Construct names should be separated from opening parentheses by a single space
+ 1435 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+ 1442 | ERROR   | Construct names should be separated from opening parentheses by a single space
+ 1455 | ERROR   | Construct names should be separated from opening parentheses by a single space
+ 1456 | ERROR   | Each case, break, and default should be on a separate line
+ 1457 | ERROR   | Each case, break, and default should be on a separate line
+ 1458 | ERROR   | Each case, break, and default should be on a separate line
+ 1459 | ERROR   | Each case, break, and default should be on a separate line
+ 1460 | ERROR   | Code inside case and default blocks should be indented
+ 1461 | ERROR   | Constants must be uppercase; expected FALSE but found false
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,63 @@
+FILE: /Applications/MAMP/htdocs/codesniffer/uploads/sales_popups.php
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 58 ERROR(S) AFFECTING 31 LINE(S)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  203 | ERROR | Construct names should be separated from opening parentheses by a single space
+  203 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  203 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  203 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  209 | ERROR | Construct names should be separated from opening parentheses by a single space
+  209 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  253 | ERROR | Construct names should be separated from opening parentheses by a single space
+  253 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  253 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  253 | ERROR | Operators && and || are not allowed, use AND and OR instead
+ 2313 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 2316 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 2319 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 2322 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 2325 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 2328 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 2331 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 2334 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 2337 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 2340 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 2343 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 2343 | ERROR | Variable name $Custom_list_1 is not in all lowercase using underscores for word separators
+ 2344 | ERROR | Variable name $Custom_list_1 is not in all lowercase using underscores for word separators
+ 2346 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 2346 | ERROR | Variable name $Custom_list_2 is not in all lowercase using underscores for word separators
+ 2347 | ERROR | Variable name $Custom_list2_2 is not in all lowercase using underscores for word separators
+ 2349 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 2349 | ERROR | Variable name $Custom_list_3 is not in all lowercase using underscores for word separators
+ 2350 | ERROR | Variable name $Custom_list3_3 is not in all lowercase using underscores for word separators
+ 2352 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 2384 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 2384 | ERROR | Operators && and || are not allowed, use AND and OR instead
+ 2446 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 2446 | ERROR | Operators && and || are not allowed, use AND and OR instead
+ 2446 | ERROR | Whitespace before a closing parenthesis is not allowed
+ 2446 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+ 2485 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 2485 | ERROR | Operators && and || are not allowed, use AND and OR instead
+ 2485 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+ 2534 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 2534 | ERROR | Operators && and || are not allowed, use AND and OR instead
+ 2534 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+ 2587 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 2587 | ERROR | Operators && and || are not allowed, use AND and OR instead
+ 2653 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 2653 | ERROR | Operators && and || are not allowed, use AND and OR instead
+ 2653 | ERROR | Whitespace before a closing parenthesis is not allowed
+ 2653 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+ 2729 | ERROR | Single-line if statements should only be used when breaking normal execution
+ 2729 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 2734 | ERROR | Single-line if statements should only be used when breaking normal execution
+ 2734 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 2738 | ERROR | Single-line if statements should only be used when breaking normal execution
+ 2738 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 2742 | ERROR | Single-line if statements should only be used when breaking normal execution
+ 2742 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 2747 | ERROR | Single-line if statements should only be used when breaking normal execution
+ 2747 | ERROR | Construct names should be separated from opening parentheses by a single space
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,1645 @@
+FILE: /Applications/MAMP/htdocs/codesniffer/uploads/xero.php
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 1630 ERROR(S) AND 10 WARNING(S) AFFECTING 784 LINE(S)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+    3 | ERROR   | Whitespace before a closing parenthesis is not allowed
+   22 | ERROR   | Opening brace should be on a new line
+   39 | ERROR   | Opening brace should be on a new line
+   42 | ERROR   | No space is allowed after concatenation operators
+   42 | ERROR   | No space is allowed before concatenation operators
+   42 | ERROR   | No space is allowed after concatenation operators
+   42 | ERROR   | No space is allowed before concatenation operators
+   42 | ERROR   | No space is allowed after concatenation operators
+   42 | ERROR   | No space is allowed before concatenation operators
+   43 | ERROR   | Construct names should be separated from opening parentheses by a single space
+   52 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+   59 | ERROR   | Opening brace should be on a new line
+   60 | ERROR   | Parentheses should not be used in calls to class constructors without parameters
+   68 | ERROR   | Opening brace should be on a new line
+   69 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+   69 | ERROR   | Whitespace before a closing parenthesis is not allowed
+   70 | ERROR   | Variable name $currentAction is not in all lowercase using underscores for word separators
+   71 | ERROR   | Variable name $openActions is not in all lowercase using underscores for word separators
+   72 | ERROR   | A single space is required on either side of ! and & operators
+   72 | ERROR   | Variable name $currentAction is not in all lowercase using underscores for word separators
+   72 | ERROR   | Variable name $openActions is not in all lowercase using underscores for word separators
+   72 | ERROR   | Whitespace before a closing parenthesis is not allowed
+   74 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+   74 | ERROR   | Whitespace before a closing parenthesis is not allowed
+   79 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+   79 | ERROR   | Whitespace before a closing parenthesis is not allowed
+   89 | ERROR   | Opening brace should be on a new line
+   99 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+   99 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+   99 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  100 | ERROR   | No space is allowed after concatenation operators
+  100 | ERROR   | No space is allowed before concatenation operators
+  101 | ERROR   | No space is allowed after concatenation operators
+  101 | ERROR   | No space is allowed before concatenation operators
+  104 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  104 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  105 | ERROR   | No space is allowed after concatenation operators
+  105 | ERROR   | No space is allowed before concatenation operators
+  107 | ERROR   | No space is allowed after concatenation operators
+  107 | ERROR   | No space is allowed before concatenation operators
+  118 | ERROR   | Opening brace should be on a new line
+  120 | ERROR   | Variable name $xeroOAuth is not in all lowercase using underscores for word separators
+  126 | ERROR   | Variable name $initialCheckErrors is not in all lowercase using underscores for word separators
+  126 | ERROR   | Variable name $xeroOAuth is not in all lowercase using underscores for word separators
+  126 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+  127 | ERROR   | Variable name $validObject is not in all lowercase using underscores for word separators
+  127 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  127 | ERROR   | Variable name $initialCheckErrors is not in all lowercase using underscores for word separators
+  127 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  128 | ERROR   | Variable name $validObject is not in all lowercase using underscores for word separators
+  128 | ERROR   | Variable name $xeroOAuth is not in all lowercase using underscores for word separators
+  136 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  136 | ERROR   | Opening brace should be on a new line
+  137 | ERROR   | A single space is required on either side of ! and & operators
+  137 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  137 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  139 | ERROR   | Variable name $merchantOauth is not in all lowercase using underscores for word separators
+  140 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  140 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  140 | ERROR   | Variable name $merchantOauth is not in all lowercase using underscores for word separators
+  140 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  140 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  142 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  142 | ERROR   | Variable name $merchantOauth is not in all lowercase using underscores for word separators
+  142 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  144 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  144 | ERROR   | Variable name $merchantOauth is not in all lowercase using underscores for word separators
+  145 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  145 | ERROR   | Variable name $merchantOauth is not in all lowercase using underscores for word separators
+  146 | ERROR   | Variable name $XeroOAuth is not in all lowercase using underscores for word separators
+  146 | ERROR   | Variable name $merchantOauth is not in all lowercase using underscores for word separators
+  147 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  154 | ERROR   | Opening brace should be on a new line
+  163 | ERROR   | Opening brace should be on a new line
+  165 | ERROR   | Variable name $xeroOAuth is not in all lowercase using underscores for word separators
+  168 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  168 | ERROR   | Variable name $xeroOAuth is not in all lowercase using underscores for word separators
+  168 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  170 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  170 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  172 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  172 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  172 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  172 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+  173 | ERROR   | Variable name $xeroOAuth is not in all lowercase using underscores for word separators
+  174 | ERROR   | Variable name $xeroOAuth is not in all lowercase using underscores for word separators
+  176 | ERROR   | Variable name $xeroOAuth is not in all lowercase using underscores for word separators
+  176 | ERROR   | Variable name $xeroOAuth is not in all lowercase using underscores for word separators
+  180 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  180 | ERROR   | Variable name $xeroOAuth is not in all lowercase using underscores for word separators
+  180 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  181 | ERROR   | Variable name $xeroOAuth is not in all lowercase using underscores for word separators
+  181 | ERROR   | Variable name $xeroOAuth is not in all lowercase using underscores for word separators
+  183 | ERROR   | Variable name $wasActivelyConnected is not in all lowercase using underscores for word separators
+  184 | ERROR   | Variable name $wasActivelyConnected is not in all lowercase using underscores for word separators
+  185 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+  187 | ERROR   | Variable name $xeroOAuth is not in all lowercase using underscores for word separators
+  189 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+  193 | ERROR   | Variable name $xeroOAuth is not in all lowercase using underscores for word separators
+  193 | ERROR   | Variable name $xeroOAuth is not in all lowercase using underscores for word separators
+  194 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  194 | ERROR   | Variable name $xeroOAuth is not in all lowercase using underscores for word separators
+  194 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  196 | ERROR   | Variable name $xeroOAuth is not in all lowercase using underscores for word separators
+  196 | ERROR   | Variable name $xeroOAuth is not in all lowercase using underscores for word separators
+  197 | ERROR   | Variable name $xeroOAuth is not in all lowercase using underscores for word separators
+  197 | ERROR   | No space is allowed after concatenation operators
+  197 | ERROR   | No space is allowed before concatenation operators
+  197 | ERROR   | No space is allowed after concatenation operators
+  197 | ERROR   | No space is allowed before concatenation operators
+  200 | ERROR   | Variable name $xeroOAuth is not in all lowercase using underscores for word separators
+  210 | ERROR   | Variable name $xeroOAuth is not in all lowercase using underscores for word separators
+  210 | ERROR   | Opening brace should be on a new line
+  211 | ERROR   | No space is allowed after concatenation operators
+  211 | ERROR   | No space is allowed before concatenation operators
+  211 | ERROR   | Variable name $xeroOAuth is not in all lowercase using underscores for word separators
+  211 | ERROR   | No space is allowed after concatenation operators
+  211 | ERROR   | No space is allowed before concatenation operators
+  212 | ERROR   | Variable name $xeroOAuth is not in all lowercase using underscores for word separators
+  212 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+  213 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  213 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  220 | WARNING | @param tag should have the parameter name
+  221 | WARNING | @param tag should have the parameter name
+  224 | ERROR   | Opening brace should be on a new line
+  225 | ERROR   | Single-line if statements should only be used when breaking normal execution
+  225 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  225 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  225 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  225 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  226 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  226 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  228 | ERROR   | Variable name $accessToken is not in all lowercase using underscores for word separators
+  229 | ERROR   | Variable name $accessTokenSecret is not in all lowercase using underscores for word separators
+  230 | ERROR   | Variable name $expiresIn is not in all lowercase using underscores for word separators
+  231 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  231 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  233 | ERROR   | Variable name $accessTokenHashed is not in all lowercase using underscores for word separators
+  233 | ERROR   | Variable name $accessToken is not in all lowercase using underscores for word separators
+  234 | ERROR   | Variable name $accessTokenSecretHashed is not in all lowercase using underscores for word separators
+  234 | ERROR   | Variable name $accessTokenSecret is not in all lowercase using underscores for word separators
+  235 | ERROR   | Single-line if statements should only be used when breaking normal execution
+  235 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  235 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  237 | ERROR   | Single-line if statements should only be used when breaking normal execution
+  237 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  237 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  240 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+  242 | ERROR   | Variable name $accessTokenHashed is not in all lowercase using underscores for word separators
+  242 | ERROR   | Variable name $accessTokenSecretHashed is not in all lowercase using underscores for word separators
+  242 | ERROR   | Variable name $expiresIn is not in all lowercase using underscores for word separators
+  243 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  243 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  254 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  254 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  258 | ERROR   | Opening brace should be on a new line
+  265 | WARNING | @param tag should have the parameter name
+  266 | WARNING | @param tag should have the parameter name
+  268 | ERROR   | Opening brace should be on a new line
+  270 | ERROR   | Variable name $storeData is not in all lowercase using underscores for word separators
+  275 | ERROR   | No space is allowed after concatenation operators
+  275 | ERROR   | No space is allowed before concatenation operators
+  275 | ERROR   | No space is allowed after concatenation operators
+  275 | ERROR   | No space is allowed before concatenation operators
+  282 | ERROR   | Single-line if statements should only be used when breaking normal execution
+  282 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  282 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  283 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  283 | ERROR   | Variable name $storeData is not in all lowercase using underscores for word separators
+  283 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  285 | ERROR   | Variable name $storeData is not in all lowercase using underscores for word separators
+  286 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  286 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  288 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  288 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  289 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+  296 | ERROR   | Opening brace should be on a new line
+  304 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  314 | ERROR   | Opening brace should be on a new line
+  318 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  318 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  319 | ERROR   | Comparisons and operations must be in parentheses in the condition portion of ternary operations
+  321 | ERROR   | Variable name $tokensToRefresh is not in all lowercase using underscores for word separators
+  322 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  322 | ERROR   | Variable name $tokensToRefresh is not in all lowercase using underscores for word separators
+  322 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  324 | ERROR   | Variable name $accessToken is not in all lowercase using underscores for word separators
+  325 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  326 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  326 | ERROR   | Variable name $accessToken is not in all lowercase using underscores for word separators
+  327 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  328 | ERROR   | Variable name $accessTokenHashed is not in all lowercase using underscores for word separators
+  329 | ERROR   | Variable name $tokenSecretHashed is not in all lowercase using underscores for word separators
+  331 | ERROR   | Variable name $expiresIn is not in all lowercase using underscores for word separators
+  332 | ERROR   | Variable name $accessTokenHashed is not in all lowercase using underscores for word separators
+  334 | ERROR   | Variable name $tokenSecretHashed is not in all lowercase using underscores for word separators
+  335 | ERROR   | Variable name $expiresIn is not in all lowercase using underscores for word separators
+  347 | WARNING | @param tag should have the parameter name
+  350 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  350 | ERROR   | Opening brace should be on a new line
+  351 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  351 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  351 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  351 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+  352 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  353 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  353 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  362 | ERROR   | Variable name $errorCode is not in all lowercase using underscores for word separators
+  362 | ERROR   | Opening brace should be on a new line
+  363 | ERROR   | Variable name $errorMessages is not in all lowercase using underscores for word separators
+  376 | ERROR   | Variable name $errorCode is not in all lowercase using underscores for word separators
+  376 | ERROR   | Variable name $errorMessages is not in all lowercase using underscores for word separators
+  376 | ERROR   | Variable name $errorMessages is not in all lowercase using underscores for word separators
+  376 | ERROR   | Variable name $errorCode is not in all lowercase using underscores for word separators
+  376 | ERROR   | Variable name $errorCode is not in all lowercase using underscores for word separators
+  385 | ERROR   | Opening brace should be on a new line
+  386 | ERROR   | Variable name $responseArray is not in all lowercase using underscores for word separators
+  387 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  387 | ERROR   | Variable name $responseArray is not in all lowercase using underscores for word separators
+  387 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  387 | ERROR   | Variable name $responseArray is not in all lowercase using underscores for word separators
+  394 | ERROR   | Opening brace should be on a new line
+  397 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  398 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  398 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  408 | ERROR   | Opening brace should be on a new line
+  409 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  411 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  412 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  412 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  413 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  414 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+  416 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  416 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  416 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  417 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  417 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  418 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  418 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  418 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  419 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  419 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  434 | ERROR   | Opening brace should be on a new line
+  436 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  437 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  437 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  438 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  440 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  440 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  440 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  441 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  441 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  442 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  442 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  442 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  443 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  443 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  447 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  447 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  448 | ERROR   | Variable name $accountData is not in all lowercase using underscores for word separators
+  449 | ERROR   | Variable name $existingAccountData is not in all lowercase using underscores for word separators
+  449 | ERROR   | Variable name $accountData is not in all lowercase using underscores for word separators
+  451 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  452 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  452 | ERROR   | Variable name $accountData is not in all lowercase using underscores for word separators
+  453 | ERROR   | Variable name $accountData is not in all lowercase using underscores for word separators
+  454 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  454 | ERROR   | Variable name $accountData is not in all lowercase using underscores for word separators
+  459 | ERROR   | Variable name $accountData is not in all lowercase using underscores for word separators
+  459 | ERROR   | Variable name $accountData is not in all lowercase using underscores for word separators
+  460 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  460 | ERROR   | Variable name $existingAccountData is not in all lowercase using underscores for word separators
+  460 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  461 | ERROR   | Variable name $accountData is not in all lowercase using underscores for word separators
+  463 | ERROR   | Variable name $existingAccountData is not in all lowercase using underscores for word separators
+  463 | ERROR   | Variable name $accountData is not in all lowercase using underscores for word separators
+  467 | ERROR   | Single-line if statements should only be used when breaking normal execution
+  467 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  475 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+  483 | ERROR   | Opening brace should be on a new line
+  485 | ERROR   | Variable name $categorizedAccountOptions is not in all lowercase using underscores for word separators
+  486 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+  487 | ERROR   | Variable name $categorizedAccountOptions is not in all lowercase using underscores for word separators
+  495 | ERROR   | Opening brace should be on a new line
+  496 | ERROR   | Variable name $categorizedAccountOptions is not in all lowercase using underscores for word separators
+  499 | ERROR   | Variable name $incomeAccountTypes is not in all lowercase using underscores for word separators
+  500 | ERROR   | Variable name $discountAccountTypes is not in all lowercase using underscores for word separators
+  501 | ERROR   | Variable name $paymentAccountTypes is not in all lowercase using underscores for word separators
+  502 | ERROR   | Variable name $includePaymentEnabled is not in all lowercase using underscores for word separators
+  502 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+  504 | ERROR   | Variable name $selectedIncomeAccount is not in all lowercase using underscores for word separators
+  505 | ERROR   | Variable name $selectedDiscountAccount is not in all lowercase using underscores for word separators
+  506 | ERROR   | Variable name $selectedPaymentAccount is not in all lowercase using underscores for word separators
+  507 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  507 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  509 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  509 | ERROR   | Variable name $incomeAccountTypes is not in all lowercase using underscores for word separators
+  509 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  510 | ERROR   | Comparisons and operations must be in parentheses in the condition portion of ternary operations
+  510 | ERROR   | Variable name $selectedIncomeAccount is not in all lowercase using underscores for word separators
+  511 | ERROR   | Variable name $categorizedAccountOptions is not in all lowercase using underscores for word separators
+  511 | ERROR   | No space is allowed after concatenation operators
+  511 | ERROR   | No space is allowed before concatenation operators
+  511 | ERROR   | No space is allowed after concatenation operators
+  511 | ERROR   | No space is allowed before concatenation operators
+  511 | ERROR   | No space is allowed after concatenation operators
+  511 | ERROR   | No space is allowed before concatenation operators
+  511 | ERROR   | No space is allowed after concatenation operators
+  511 | ERROR   | No space is allowed before concatenation operators
+  511 | ERROR   | No space is allowed after concatenation operators
+  511 | ERROR   | No space is allowed before concatenation operators
+  511 | ERROR   | No space is allowed after concatenation operators
+  511 | ERROR   | No space is allowed before concatenation operators
+  511 | ERROR   | No space is allowed after concatenation operators
+  511 | ERROR   | No space is allowed before concatenation operators
+  511 | ERROR   | No space is allowed after concatenation operators
+  511 | ERROR   | No space is allowed before concatenation operators
+  513 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  513 | ERROR   | Variable name $discountAccountTypes is not in all lowercase using underscores for word separators
+  513 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  514 | ERROR   | Comparisons and operations must be in parentheses in the condition portion of ternary operations
+  514 | ERROR   | Variable name $selectedDiscountAccount is not in all lowercase using underscores for word separators
+  515 | ERROR   | Variable name $categorizedAccountOptions is not in all lowercase using underscores for word separators
+  515 | ERROR   | No space is allowed after concatenation operators
+  515 | ERROR   | No space is allowed before concatenation operators
+  515 | ERROR   | No space is allowed after concatenation operators
+  515 | ERROR   | No space is allowed before concatenation operators
+  515 | ERROR   | No space is allowed after concatenation operators
+  515 | ERROR   | No space is allowed before concatenation operators
+  515 | ERROR   | No space is allowed after concatenation operators
+  515 | ERROR   | No space is allowed before concatenation operators
+  515 | ERROR   | No space is allowed after concatenation operators
+  515 | ERROR   | No space is allowed before concatenation operators
+  515 | ERROR   | No space is allowed after concatenation operators
+  515 | ERROR   | No space is allowed before concatenation operators
+  515 | ERROR   | No space is allowed after concatenation operators
+  515 | ERROR   | No space is allowed before concatenation operators
+  515 | ERROR   | No space is allowed after concatenation operators
+  515 | ERROR   | No space is allowed before concatenation operators
+  517 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  517 | ERROR   | Variable name $paymentAccountTypes is not in all lowercase using underscores for word separators
+  517 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+  517 | ERROR   | Variable name $includePaymentEnabled is not in all lowercase using underscores for word separators
+  517 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+  517 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  518 | ERROR   | Comparisons and operations must be in parentheses in the condition portion of ternary operations
+  518 | ERROR   | Variable name $selectedPaymentAccount is not in all lowercase using underscores for word separators
+  519 | ERROR   | Variable name $categorizedAccountOptions is not in all lowercase using underscores for word separators
+  519 | ERROR   | No space is allowed after concatenation operators
+  519 | ERROR   | No space is allowed before concatenation operators
+  519 | ERROR   | No space is allowed after concatenation operators
+  519 | ERROR   | No space is allowed before concatenation operators
+  519 | ERROR   | No space is allowed after concatenation operators
+  519 | ERROR   | No space is allowed before concatenation operators
+  519 | ERROR   | No space is allowed after concatenation operators
+  519 | ERROR   | No space is allowed before concatenation operators
+  519 | ERROR   | No space is allowed after concatenation operators
+  519 | ERROR   | No space is allowed before concatenation operators
+  519 | ERROR   | No space is allowed after concatenation operators
+  519 | ERROR   | No space is allowed before concatenation operators
+  519 | ERROR   | No space is allowed after concatenation operators
+  519 | ERROR   | No space is allowed before concatenation operators
+  519 | ERROR   | No space is allowed after concatenation operators
+  519 | ERROR   | No space is allowed before concatenation operators
+  522 | ERROR   | Variable name $categorizedAccountOptions is not in all lowercase using underscores for word separators
+  530 | ERROR   | Opening brace should be on a new line
+  531 | ERROR   | Variable name $accountData is not in all lowercase using underscores for word separators
+  532 | ERROR   | Variable name $accountData is not in all lowercase using underscores for word separators
+  533 | ERROR   | Variable name $accountData is not in all lowercase using underscores for word separators
+  533 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  533 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  534 | ERROR   | Variable name $accountData is not in all lowercase using underscores for word separators
+  535 | ERROR   | Variable name $accountData is not in all lowercase using underscores for word separators
+  536 | ERROR   | Variable name $accountData is not in all lowercase using underscores for word separators
+  537 | ERROR   | Variable name $accountData is not in all lowercase using underscores for word separators
+  537 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  537 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  538 | ERROR   | Variable name $accountData is not in all lowercase using underscores for word separators
+  539 | ERROR   | Variable name $accountData is not in all lowercase using underscores for word separators
+  546 | ERROR   | Opening brace should be on a new line
+  547 | ERROR   | A single space is required on either side of ! and & operators
+  547 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  549 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  549 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  553 | ERROR   | Variable name $lastSyncTime is not in all lowercase using underscores for word separators
+  554 | ERROR   | Variable name $itemsEffected is not in all lowercase using underscores for word separators
+  554 | ERROR   | Variable name $lastSyncTime is not in all lowercase using underscores for word separators
+  555 | ERROR   | Variable name $itemsEffected is not in all lowercase using underscores for word separators
+  565 | ERROR   | Variable name $modifiedSince is not in all lowercase using underscores for word separators
+  565 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  565 | ERROR   | Opening brace should be on a new line
+  566 | ERROR   | A single space is required on either side of ! and & operators
+  566 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  566 | ERROR   | Variable name $modifiedSince is not in all lowercase using underscores for word separators
+  566 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  566 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  567 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  567 | ERROR   | Variable name $modifiedSince is not in all lowercase using underscores for word separators
+  573 | WARNING | @param tag should have the parameter name
+  576 | ERROR   | Opening brace should be on a new line
+  577 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  577 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  577 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  577 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+  577 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  587 | ERROR   | Opening brace should be on a new line
+  588 | ERROR   | Variable name $syncDateTime is not in all lowercase using underscores for word separators
+  590 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  590 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  597 | WARNING | @param tag should have the parameter name
+  600 | ERROR   | Opening brace should be on a new line
+  601 | ERROR   | Variable name $responseMessage is not in all lowercase using underscores for word separators
+  602 | ERROR   | Variable name $responseMessage is not in all lowercase using underscores for word separators
+  603 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  603 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  603 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  603 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+  603 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  604 | ERROR   | Variable name $errorCode is not in all lowercase using underscores for word separators
+  606 | ERROR   | Variable name $errorCode is not in all lowercase using underscores for word separators
+  608 | ERROR   | Variable name $errorCode is not in all lowercase using underscores for word separators
+  610 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  611 | ERROR   | Variable name $errorCode is not in all lowercase using underscores for word separators
+  613 | ERROR   | Variable name $errorCode is not in all lowercase using underscores for word separators
+  621 | ERROR   | Opening brace should be on a new line
+  630 | ERROR   | Variable name $modifiedSince is not in all lowercase using underscores for word separators
+  630 | ERROR   | Opening brace should be on a new line
+  631 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  632 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  632 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  633 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  635 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  635 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  635 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  636 | ERROR   | Variable name $modifiedSince is not in all lowercase using underscores for word separators
+  636 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  637 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  637 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  638 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  638 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  638 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  639 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  639 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  640 | ERROR   | Variable name $itemsEffected is not in all lowercase using underscores for word separators
+  642 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  642 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  643 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  643 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  644 | ERROR   | Variable name $itemData is not in all lowercase using underscores for word separators
+  645 | ERROR   | Variable name $itemData is not in all lowercase using underscores for word separators
+  646 | ERROR   | Variable name $itemsEffected is not in all lowercase using underscores for word separators
+  649 | ERROR   | Variable name $itemsEffected is not in all lowercase using underscores for word separators
+  663 | ERROR   | Opening brace should be on a new line
+  664 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  664 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  664 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  664 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  674 | ERROR   | Opening brace should be on a new line
+  675 | ERROR   | Variable name $itemData is not in all lowercase using underscores for word separators
+  676 | ERROR   | Variable name $itemData is not in all lowercase using underscores for word separators
+  677 | ERROR   | Variable name $itemData is not in all lowercase using underscores for word separators
+  678 | ERROR   | Variable name $itemData is not in all lowercase using underscores for word separators
+  678 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  678 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  679 | ERROR   | Variable name $itemSalesDetails is not in all lowercase using underscores for word separators
+  680 | ERROR   | Variable name $itemData is not in all lowercase using underscores for word separators
+  680 | ERROR   | Variable name $itemSalesDetails is not in all lowercase using underscores for word separators
+  680 | ERROR   | Variable name $itemSalesDetails is not in all lowercase using underscores for word separators
+  681 | ERROR   | Variable name $itemData is not in all lowercase using underscores for word separators
+  681 | ERROR   | Variable name $itemSalesDetails is not in all lowercase using underscores for word separators
+  681 | ERROR   | Variable name $itemSalesDetails is not in all lowercase using underscores for word separators
+  682 | ERROR   | Variable name $itemData is not in all lowercase using underscores for word separators
+  683 | ERROR   | Variable name $itemData is not in all lowercase using underscores for word separators
+  684 | ERROR   | Variable name $itemData is not in all lowercase using underscores for word separators
+  685 | ERROR   | Variable name $itemData is not in all lowercase using underscores for word separators
+  686 | ERROR   | Variable name $itemData is not in all lowercase using underscores for word separators
+  687 | ERROR   | Variable name $itemData is not in all lowercase using underscores for word separators
+  696 | ERROR   | Variable name $modifiedSince is not in all lowercase using underscores for word separators
+  696 | ERROR   | Variable name $excludeList is not in all lowercase using underscores for word separators
+  696 | ERROR   | Opening brace should be on a new line
+  698 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  699 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  699 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  700 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  702 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  702 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  702 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  703 | ERROR   | Variable name $itemsToExport is not in all lowercase using underscores for word separators
+  703 | ERROR   | Variable name $modifiedSince is not in all lowercase using underscores for word separators
+  703 | ERROR   | Variable name $excludeList is not in all lowercase using underscores for word separators
+  704 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  704 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  704 | ERROR   | Variable name $itemsToExport is not in all lowercase using underscores for word separators
+  704 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  704 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  706 | ERROR   | Variable name $exportOrder is not in all lowercase using underscores for word separators
+  706 | ERROR   | Variable name $itemsToExport is not in all lowercase using underscores for word separators
+  707 | ERROR   | Variable name $itemsToExport is not in all lowercase using underscores for word separators
+  707 | ERROR   | Variable name $itemsToExport is not in all lowercase using underscores for word separators
+  709 | ERROR   | Variable name $itemsToExport is not in all lowercase using underscores for word separators
+  710 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  711 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  711 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  712 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  712 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  713 | ERROR   | Variable name $responseItems is not in all lowercase using underscores for word separators
+  714 | ERROR   | Variable name $responseItems is not in all lowercase using underscores for word separators
+  714 | ERROR   | Variable name $exportOrder is not in all lowercase using underscores for word separators
+  717 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  723 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  735 | ERROR   | Variable name $exportArr is not in all lowercase using underscores for word separators
+  735 | ERROR   | Opening brace should be on a new line
+  737 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  737 | ERROR   | Variable name $exportArr is not in all lowercase using underscores for word separators
+  737 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  743 | ERROR   | Variable name $exportOrder is not in all lowercase using underscores for word separators
+  743 | ERROR   | Opening brace should be on a new line
+  745 | ERROR   | Variable name $merchantId is not in all lowercase using underscores for word separators
+  748 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  748 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  749 | ERROR   | Variable name $rerunItemId is not in all lowercase using underscores for word separators
+  749 | ERROR   | Variable name $exportOrder is not in all lowercase using underscores for word separators
+  750 | ERROR   | Variable name $rerunItemId is not in all lowercase using underscores for word separators
+  750 | ERROR   | Variable name $merchantId is not in all lowercase using underscores for word separators
+  762 | WARNING | @param tag should have the parameter name
+  764 | ERROR   | Opening brace should be on a new line
+  765 | ERROR   | Variable name $responseArray is not in all lowercase using underscores for word separators
+  766 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  766 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  766 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+  767 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  767 | ERROR   | Variable name $responseArray is not in all lowercase using underscores for word separators
+  767 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  768 | ERROR   | Variable name $responseArray is not in all lowercase using underscores for word separators
+  780 | ERROR   | Variable name $responseArray is not in all lowercase using underscores for word separators
+  780 | ERROR   | Opening brace should be on a new line
+  782 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  782 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  784 | ERROR   | Code inside case and default blocks should be indented
+  785 | ERROR   | Code inside case and default blocks should be indented
+  785 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  785 | ERROR   | Variable name $responseArray is not in all lowercase using underscores for word separators
+  785 | ERROR   | Variable name $errorElement is not in all lowercase using underscores for word separators
+  785 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  786 | ERROR   | Code inside case and default blocks should be indented
+  786 | ERROR   | No space is allowed after concatenation operators
+  786 | ERROR   | No space is allowed before concatenation operators
+  786 | ERROR   | Variable name $errorElement is not in all lowercase using underscores for word separators
+  786 | ERROR   | No space is allowed after concatenation operators
+  786 | ERROR   | No space is allowed before concatenation operators
+  787 | ERROR   | Code inside case and default blocks should be indented
+  787 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  787 | ERROR   | Variable name $errorElement is not in all lowercase using underscores for word separators
+  787 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  788 | ERROR   | Code inside case and default blocks should be indented
+  789 | ERROR   | Code inside case and default blocks should be indented
+  790 | ERROR   | Code inside case and default blocks should be indented
+  791 | ERROR   | Code inside case and default blocks should be indented
+  794 | ERROR   | Code inside case and default blocks should be indented
+  795 | ERROR   | Code inside case and default blocks should be indented
+  795 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  795 | ERROR   | Variable name $responseArray is not in all lowercase using underscores for word separators
+  795 | ERROR   | Variable name $errorElement is not in all lowercase using underscores for word separators
+  795 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  796 | ERROR   | Code inside case and default blocks should be indented
+  796 | ERROR   | No space is allowed after concatenation operators
+  796 | ERROR   | No space is allowed before concatenation operators
+  796 | ERROR   | Variable name $errorElement is not in all lowercase using underscores for word separators
+  796 | ERROR   | No space is allowed after concatenation operators
+  796 | ERROR   | No space is allowed before concatenation operators
+  797 | ERROR   | Code inside case and default blocks should be indented
+  797 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  797 | ERROR   | Variable name $errorElement is not in all lowercase using underscores for word separators
+  797 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  798 | ERROR   | Code inside case and default blocks should be indented
+  799 | ERROR   | Code inside case and default blocks should be indented
+  800 | ERROR   | Code inside case and default blocks should be indented
+  801 | ERROR   | Code inside case and default blocks should be indented
+  804 | ERROR   | Code inside case and default blocks should be indented
+  805 | ERROR   | Code inside case and default blocks should be indented
+  805 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  805 | ERROR   | Variable name $responseArray is not in all lowercase using underscores for word separators
+  805 | ERROR   | Variable name $errorElement is not in all lowercase using underscores for word separators
+  805 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  806 | ERROR   | Code inside case and default blocks should be indented
+  806 | ERROR   | No space is allowed after concatenation operators
+  806 | ERROR   | No space is allowed before concatenation operators
+  806 | ERROR   | Variable name $errorElement is not in all lowercase using underscores for word separators
+  806 | ERROR   | No space is allowed after concatenation operators
+  806 | ERROR   | No space is allowed before concatenation operators
+  807 | ERROR   | Code inside case and default blocks should be indented
+  807 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  807 | ERROR   | Variable name $errorElement is not in all lowercase using underscores for word separators
+  807 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  808 | ERROR   | Code inside case and default blocks should be indented
+  809 | ERROR   | Code inside case and default blocks should be indented
+  810 | ERROR   | Code inside case and default blocks should be indented
+  811 | ERROR   | Code inside case and default blocks should be indented
+  814 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  818 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  818 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  827 | ERROR   | Variable name $itemsToExport is not in all lowercase using underscores for word separators
+  827 | ERROR   | Variable name $syncedTransactions is not in all lowercase using underscores for word separators
+  827 | ERROR   | Opening brace should be on a new line
+  828 | ERROR   | Variable name $finalArray is not in all lowercase using underscores for word separators
+  830 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  830 | ERROR   | Variable name $itemsToExport is not in all lowercase using underscores for word separators
+  830 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  831 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  831 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  832 | ERROR   | Variable name $preparedData is not in all lowercase using underscores for word separators
+  833 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  833 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  834 | ERROR   | Variable name $preparedData is not in all lowercase using underscores for word separators
+  835 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  835 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  836 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  836 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  838 | ERROR   | Variable name $preparedData is not in all lowercase using underscores for word separators
+  839 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  839 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  840 | ERROR   | Variable name $preparedData is not in all lowercase using underscores for word separators
+  840 | ERROR   | Variable name $syncedTransactions is not in all lowercase using underscores for word separators
+  842 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  842 | ERROR   | A single space is required on either side of ! and & operators
+  842 | ERROR   | Variable name $preparedData is not in all lowercase using underscores for word separators
+  843 | ERROR   | Variable name $finalArray is not in all lowercase using underscores for word separators
+  843 | ERROR   | Variable name $preparedData is not in all lowercase using underscores for word separators
+  846 | ERROR   | Variable name $finalArray is not in all lowercase using underscores for word separators
+  854 | ERROR   | Opening brace should be on a new line
+  855 | ERROR   | Variable name $itemData is not in all lowercase using underscores for word separators
+  856 | ERROR   | A single space is required on either side of ! and & operators
+  856 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  856 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  856 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  857 | ERROR   | Variable name $itemData is not in all lowercase using underscores for word separators
+  859 | ERROR   | Variable name $itemData is not in all lowercase using underscores for word separators
+  860 | ERROR   | Variable name $itemData is not in all lowercase using underscores for word separators
+  862 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  862 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  864 | ERROR   | Variable name $itemData is not in all lowercase using underscores for word separators
+  871 | ERROR   | Opening brace should be on a new line
+  874 | ERROR   | Variable name $lastSyncTime is not in all lowercase using underscores for word separators
+  875 | ERROR   | Variable name $lastSyncTime is not in all lowercase using underscores for word separators
+  883 | ERROR   | Variable name $modifiedSince is not in all lowercase using underscores for word separators
+  883 | ERROR   | Opening brace should be on a new line
+  884 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  885 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  885 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  886 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  888 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  888 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  888 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  889 | ERROR   | Variable name $modifiedSince is not in all lowercase using underscores for word separators
+  889 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  890 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  890 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  891 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  891 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  891 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  892 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  892 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  893 | ERROR   | Variable name $taxesEffected is not in all lowercase using underscores for word separators
+  897 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  897 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  898 | ERROR   | Construct names should be separated from opening parentheses by a single space
+  898 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+  899 | ERROR   | Variable name $taxData is not in all lowercase using underscores for word separators
+  900 | ERROR   | Variable name $taxData is not in all lowercase using underscores for word separators
+  903 | ERROR   | Variable name $taxesEffected is not in all lowercase using underscores for word separators
+  917 | ERROR   | Opening brace should be on a new line
+  918 | ERROR   | Variable name $taxData is not in all lowercase using underscores for word separators
+  919 | ERROR   | Variable name $taxData is not in all lowercase using underscores for word separators
+  920 | ERROR   | Variable name $taxData is not in all lowercase using underscores for word separators
+  921 | ERROR   | Variable name $taxData is not in all lowercase using underscores for word separators
+  922 | ERROR   | Variable name $taxData is not in all lowercase using underscores for word separators
+  923 | ERROR   | Variable name $taxData is not in all lowercase using underscores for word separators
+  924 | ERROR   | Variable name $taxData is not in all lowercase using underscores for word separators
+  925 | ERROR   | Variable name $taxData is not in all lowercase using underscores for word separators
+  926 | ERROR   | Variable name $taxData is not in all lowercase using underscores for word separators
+  927 | ERROR   | Variable name $taxData is not in all lowercase using underscores for word separators
+  928 | ERROR   | Variable name $taxData is not in all lowercase using underscores for word separators
+  929 | ERROR   | Variable name $taxData is not in all lowercase using underscores for word separators
+  932 | ERROR   | Opening brace should be on a new line
+  933 | ERROR   | Variable name $groupsToCreate is not in all lowercase using underscores for word separators
+  934 | ERROR   | Variable name $groupModel is not in all lowercase using underscores for word separators
+  935 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  935 | ERROR   | Variable name $groupsToCreate is not in all lowercase using underscores for word separators
+  935 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  936 | ERROR   | Variable name $groupExists is not in all lowercase using underscores for word separators
+  936 | ERROR   | Variable name $groupModel is not in all lowercase using underscores for word separators
+  937 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  937 | ERROR   | Variable name $groupExists is not in all lowercase using underscores for word separators
+  937 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  938 | ERROR   | Variable name $groupData is not in all lowercase using underscores for word separators
+  944 | ERROR   | Variable name $groupModel is not in all lowercase using underscores for word separators
+  944 | ERROR   | Variable name $groupData is not in all lowercase using underscores for word separators
+  953 | ERROR   | Opening brace should be on a new line
+  957 | ERROR   | Variable name $lastSyncTime is not in all lowercase using underscores for word separators
+  958 | ERROR   | Variable name $customersEffected is not in all lowercase using underscores for word separators
+  958 | ERROR   | Variable name $lastSyncTime is not in all lowercase using underscores for word separators
+  959 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  959 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  959 | ERROR   | Variable name $customersEffected is not in all lowercase using underscores for word separators
+  959 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  959 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  960 | ERROR   | Variable name $customersEffected is not in all lowercase using underscores for word separators
+  963 | ERROR   | Variable name $customersEffected is not in all lowercase using underscores for word separators
+  972 | ERROR   | Variable name $modifiedSince is not in all lowercase using underscores for word separators
+  972 | ERROR   | Opening brace should be on a new line
+  973 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  974 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  974 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  975 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  977 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  977 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  977 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  978 | ERROR   | Variable name $modifiedSince is not in all lowercase using underscores for word separators
+  978 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  979 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  979 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  980 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  980 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+  980 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  981 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  981 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  982 | ERROR   | Variable name $customersEffected is not in all lowercase using underscores for word separators
+  985 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  985 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  986 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+  987 | ERROR   | Variable name $importStatus is not in all lowercase using underscores for word separators
+  987 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+  988 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+  988 | ERROR   | Variable name $importStatus is not in all lowercase using underscores for word separators
+  988 | ERROR   | Whitespace before a closing parenthesis is not allowed
+  989 | ERROR   | Variable name $importStatus is not in all lowercase using underscores for word separators
+  990 | ERROR   | Variable name $customersEffected is not in all lowercase using underscores for word separators
+  990 | ERROR   | Variable name $importStatus is not in all lowercase using underscores for word separators
+  992 | ERROR   | Variable name $customersEffected is not in all lowercase using underscores for word separators
+  992 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+  993 | ERROR   | Variable name $importStatus is not in all lowercase using underscores for word separators
+  994 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+  994 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+  994 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+  994 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+  995 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+  996 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+  997 | ERROR   | Variable name $importStatus is not in all lowercase using underscores for word separators
+  999 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+  999 | ERROR   | Variable name $importStatus is not in all lowercase using underscores for word separators
+ 1000 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1003 | ERROR   | Variable name $customersEffected is not in all lowercase using underscores for word separators
+ 1017 | ERROR   | Opening brace should be on a new line
+ 1018 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1019 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1020 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1020 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1020 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1021 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1021 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1021 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1022 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1022 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1022 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1023 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1023 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1023 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1024 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1025 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1025 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1025 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1026 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1029 | ERROR   | Variable name $addressCount is not in all lowercase using underscores for word separators
+ 1030 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1030 | ERROR   | Variable name $addressCount is not in all lowercase using underscores for word separators
+ 1030 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1031 | ERROR   | Variable name $customerAddress is not in all lowercase using underscores for word separators
+ 1032 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1032 | ERROR   | Variable name $customerAddress is not in all lowercase using underscores for word separators
+ 1032 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+ 1032 | ERROR   | A single space is required on either side of ! and & operators
+ 1032 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1032 | ERROR   | Variable name $customerAddress is not in all lowercase using underscores for word separators
+ 1032 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1032 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1033 | ERROR   | Variable name $addressType is not in all lowercase using underscores for word separators
+ 1033 | ERROR   | Variable name $customerAddress is not in all lowercase using underscores for word separators
+ 1034 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1034 | ERROR   | Variable name $addressType is not in all lowercase using underscores for word separators
+ 1034 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1035 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1035 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1035 | ERROR   | Variable name $customerAddress is not in all lowercase using underscores for word separators
+ 1035 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1035 | ERROR   | Variable name $customerAddress is not in all lowercase using underscores for word separators
+ 1036 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1036 | ERROR   | Variable name $customerAddress is not in all lowercase using underscores for word separators
+ 1036 | ERROR   | No space is allowed after concatenation operators
+ 1036 | ERROR   | No space is allowed before concatenation operators
+ 1036 | ERROR   | No space is allowed after concatenation operators
+ 1036 | ERROR   | No space is allowed before concatenation operators
+ 1036 | ERROR   | Variable name $customerAddress is not in all lowercase using underscores for word separators
+ 1036 | ERROR   | No space is allowed after concatenation operators
+ 1036 | ERROR   | No space is allowed before concatenation operators
+ 1036 | ERROR   | No space is allowed after concatenation operators
+ 1036 | ERROR   | No space is allowed before concatenation operators
+ 1036 | ERROR   | Variable name $customerAddress is not in all lowercase using underscores for word separators
+ 1037 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1037 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1037 | ERROR   | Variable name $customerAddress is not in all lowercase using underscores for word separators
+ 1037 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1037 | ERROR   | Variable name $customerAddress is not in all lowercase using underscores for word separators
+ 1038 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1038 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1038 | ERROR   | Variable name $customerAddress is not in all lowercase using underscores for word separators
+ 1038 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1038 | ERROR   | Variable name $customerAddress is not in all lowercase using underscores for word separators
+ 1039 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1039 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1039 | ERROR   | Variable name $customerAddress is not in all lowercase using underscores for word separators
+ 1039 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1039 | ERROR   | Variable name $customerAddress is not in all lowercase using underscores for word separators
+ 1040 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1040 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1040 | ERROR   | Variable name $customerAddress is not in all lowercase using underscores for word separators
+ 1040 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1040 | ERROR   | Variable name $customerAddress is not in all lowercase using underscores for word separators
+ 1041 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1041 | ERROR   | Variable name $addressType is not in all lowercase using underscores for word separators
+ 1041 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1042 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1042 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1042 | ERROR   | Variable name $customerAddress is not in all lowercase using underscores for word separators
+ 1042 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1042 | ERROR   | Variable name $customerAddress is not in all lowercase using underscores for word separators
+ 1043 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1043 | ERROR   | Variable name $customerAddress is not in all lowercase using underscores for word separators
+ 1043 | ERROR   | No space is allowed after concatenation operators
+ 1043 | ERROR   | No space is allowed before concatenation operators
+ 1043 | ERROR   | No space is allowed after concatenation operators
+ 1043 | ERROR   | No space is allowed before concatenation operators
+ 1043 | ERROR   | Variable name $customerAddress is not in all lowercase using underscores for word separators
+ 1043 | ERROR   | No space is allowed after concatenation operators
+ 1043 | ERROR   | No space is allowed before concatenation operators
+ 1043 | ERROR   | No space is allowed after concatenation operators
+ 1043 | ERROR   | No space is allowed before concatenation operators
+ 1043 | ERROR   | Variable name $customerAddress is not in all lowercase using underscores for word separators
+ 1044 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1044 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1044 | ERROR   | Variable name $customerAddress is not in all lowercase using underscores for word separators
+ 1044 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1044 | ERROR   | Variable name $customerAddress is not in all lowercase using underscores for word separators
+ 1045 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1045 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1045 | ERROR   | Variable name $customerAddress is not in all lowercase using underscores for word separators
+ 1045 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1045 | ERROR   | Variable name $customerAddress is not in all lowercase using underscores for word separators
+ 1046 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1046 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1046 | ERROR   | Variable name $customerAddress is not in all lowercase using underscores for word separators
+ 1046 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1046 | ERROR   | Variable name $customerAddress is not in all lowercase using underscores for word separators
+ 1047 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1047 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1047 | ERROR   | Variable name $customerAddress is not in all lowercase using underscores for word separators
+ 1047 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1047 | ERROR   | Variable name $customerAddress is not in all lowercase using underscores for word separators
+ 1052 | ERROR   | Variable name $phoneCount is not in all lowercase using underscores for word separators
+ 1052 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1053 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1053 | ERROR   | Variable name $phoneCount is not in all lowercase using underscores for word separators
+ 1053 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1054 | ERROR   | Variable name $customerPhone is not in all lowercase using underscores for word separators
+ 1055 | ERROR   | Variable name $deviceType is not in all lowercase using underscores for word separators
+ 1055 | ERROR   | Variable name $customerPhone is not in all lowercase using underscores for word separators
+ 1056 | ERROR   | Variable name $rerunType is not in all lowercase using underscores for word separators
+ 1057 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1057 | ERROR   | Variable name $deviceType is not in all lowercase using underscores for word separators
+ 1057 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1058 | ERROR   | Variable name $rerunType is not in all lowercase using underscores for word separators
+ 1059 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1059 | ERROR   | Variable name $deviceType is not in all lowercase using underscores for word separators
+ 1059 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1060 | ERROR   | Variable name $rerunType is not in all lowercase using underscores for word separators
+ 1061 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1061 | ERROR   | Variable name $deviceType is not in all lowercase using underscores for word separators
+ 1061 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1062 | ERROR   | Variable name $rerunType is not in all lowercase using underscores for word separators
+ 1063 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1063 | ERROR   | Variable name $deviceType is not in all lowercase using underscores for word separators
+ 1063 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1064 | ERROR   | Variable name $rerunType is not in all lowercase using underscores for word separators
+ 1066 | ERROR   | A single space is required on either side of ! and & operators
+ 1066 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1066 | ERROR   | Variable name $rerunType is not in all lowercase using underscores for word separators
+ 1066 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1066 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1067 | ERROR   | Variable name $phoneNumber is not in all lowercase using underscores for word separators
+ 1067 | ERROR   | Variable name $customerPhone is not in all lowercase using underscores for word separators
+ 1067 | ERROR   | No space is allowed after concatenation operators
+ 1067 | ERROR   | No space is allowed before concatenation operators
+ 1067 | ERROR   | No space is allowed after concatenation operators
+ 1067 | ERROR   | No space is allowed before concatenation operators
+ 1067 | ERROR   | Variable name $customerPhone is not in all lowercase using underscores for word separators
+ 1067 | ERROR   | No space is allowed after concatenation operators
+ 1067 | ERROR   | No space is allowed before concatenation operators
+ 1067 | ERROR   | No space is allowed after concatenation operators
+ 1067 | ERROR   | No space is allowed before concatenation operators
+ 1067 | ERROR   | Variable name $customerPhone is not in all lowercase using underscores for word separators
+ 1068 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1068 | ERROR   | Variable name $rerunType is not in all lowercase using underscores for word separators
+ 1068 | ERROR   | Variable name $phoneNumber is not in all lowercase using underscores for word separators
+ 1071 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1072 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1073 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1076 | ERROR   | Variable name $customerXeroData is not in all lowercase using underscores for word separators
+ 1076 | ERROR   | Variable name $rerunData is not in all lowercase using underscores for word separators
+ 1076 | ERROR   | Opening brace should be on a new line
+ 1077 | ERROR   | Variable name $merchantId is not in all lowercase using underscores for word separators
+ 1078 | ERROR   | Variable name $groupsToAdd is not in all lowercase using underscores for word separators
+ 1078 | ERROR   | Variable name $merchantId is not in all lowercase using underscores for word separators
+ 1079 | ERROR   | Variable name $supplierGroupId is not in all lowercase using underscores for word separators
+ 1080 | ERROR   | Variable name $customerGroupId is not in all lowercase using underscores for word separators
+ 1081 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1081 | ERROR   | Variable name $groupsToAdd is not in all lowercase using underscores for word separators
+ 1081 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1082 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1082 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1083 | ERROR   | Variable name $customerGroupId is not in all lowercase using underscores for word separators
+ 1085 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1085 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1086 | ERROR   | Variable name $supplierGroupId is not in all lowercase using underscores for word separators
+ 1089 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1089 | ERROR   | Variable name $customerGroupId is not in all lowercase using underscores for word separators
+ 1089 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+ 1089 | ERROR   | Variable name $supplierGroupId is not in all lowercase using underscores for word separators
+ 1089 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1092 | ERROR   | Variable name $groupModel is not in all lowercase using underscores for word separators
+ 1093 | ERROR   | Variable name $customerId is not in all lowercase using underscores for word separators
+ 1093 | ERROR   | Variable name $rerunData is not in all lowercase using underscores for word separators
+ 1094 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1094 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1094 | ERROR   | Variable name $customerXeroData is not in all lowercase using underscores for word separators
+ 1094 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1094 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+ 1094 | ERROR   | Variable name $customerXeroData is not in all lowercase using underscores for word separators
+ 1094 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1095 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1095 | ERROR   | Variable name $groupModel is not in all lowercase using underscores for word separators
+ 1095 | ERROR   | Variable name $supplierGroupId is not in all lowercase using underscores for word separators
+ 1095 | ERROR   | Variable name $customerId is not in all lowercase using underscores for word separators
+ 1095 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1096 | ERROR   | Variable name $groupModel is not in all lowercase using underscores for word separators
+ 1096 | ERROR   | Variable name $merchantId is not in all lowercase using underscores for word separators
+ 1096 | ERROR   | Variable name $supplierGroupId is not in all lowercase using underscores for word separators
+ 1096 | ERROR   | Variable name $customerId is not in all lowercase using underscores for word separators
+ 1100 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1100 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1100 | ERROR   | Variable name $customerXeroData is not in all lowercase using underscores for word separators
+ 1100 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1100 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+ 1100 | ERROR   | Variable name $customerXeroData is not in all lowercase using underscores for word separators
+ 1100 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1101 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1101 | ERROR   | Variable name $groupModel is not in all lowercase using underscores for word separators
+ 1101 | ERROR   | Variable name $customerGroupId is not in all lowercase using underscores for word separators
+ 1101 | ERROR   | Variable name $customerId is not in all lowercase using underscores for word separators
+ 1101 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1102 | ERROR   | Variable name $groupModel is not in all lowercase using underscores for word separators
+ 1102 | ERROR   | Variable name $merchantId is not in all lowercase using underscores for word separators
+ 1102 | ERROR   | Variable name $customerGroupId is not in all lowercase using underscores for word separators
+ 1102 | ERROR   | Variable name $customerId is not in all lowercase using underscores for word separators
+ 1111 | ERROR   | Variable name $excludeList is not in all lowercase using underscores for word separators
+ 1111 | ERROR   | Opening brace should be on a new line
+ 1113 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+ 1114 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+ 1114 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+ 1115 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+ 1116 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1116 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+ 1116 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1117 | ERROR   | Variable name $merchantId is not in all lowercase using underscores for word separators
+ 1119 | ERROR   | Variable name $customersToExport is not in all lowercase using underscores for word separators
+ 1119 | ERROR   | Variable name $merchantId is not in all lowercase using underscores for word separators
+ 1119 | ERROR   | Variable name $excludeList is not in all lowercase using underscores for word separators
+ 1120 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1120 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1120 | ERROR   | Variable name $customersToExport is not in all lowercase using underscores for word separators
+ 1120 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1120 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1122 | ERROR   | Variable name $exportOrder is not in all lowercase using underscores for word separators
+ 1122 | ERROR   | Variable name $customersToExport is not in all lowercase using underscores for word separators
+ 1123 | ERROR   | Variable name $customersToExport is not in all lowercase using underscores for word separators
+ 1123 | ERROR   | Variable name $customersToExport is not in all lowercase using underscores for word separators
+ 1125 | ERROR   | Variable name $customersToExport is not in all lowercase using underscores for word separators
+ 1126 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1127 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+ 1127 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+ 1128 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1128 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+ 1128 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1129 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1129 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1130 | ERROR   | Variable name $responseCustomers is not in all lowercase using underscores for word separators
+ 1131 | ERROR   | Variable name $responseCustomers is not in all lowercase using underscores for word separators
+ 1131 | ERROR   | Variable name $exportOrder is not in all lowercase using underscores for word separators
+ 1134 | ERROR   | Construct names should be separated from opening parentheses by a single space
+ 1140 | ERROR   | Construct names should be separated from opening parentheses by a single space
+ 1153 | ERROR   | Variable name $exportOrder is not in all lowercase using underscores for word separators
+ 1153 | ERROR   | Opening brace should be on a new line
+ 1155 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1155 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1156 | ERROR   | Variable name $rerunCustomerId is not in all lowercase using underscores for word separators
+ 1156 | ERROR   | Variable name $exportOrder is not in all lowercase using underscores for word separators
+ 1157 | ERROR   | Variable name $rerunCustomerId is not in all lowercase using underscores for word separators
+ 1167 | ERROR   | Opening brace should be on a new line
+ 1168 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1169 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1169 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1170 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1172 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1173 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1174 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1175 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1176 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1177 | ERROR   | Variable name $addressCount is not in all lowercase using underscores for word separators
+ 1178 | ERROR   | A single space is required on either side of ! and & operators
+ 1178 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1178 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1178 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1182 | ERROR   | Variable name $address2Arr is not in all lowercase using underscores for word separators
+ 1183 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1183 | ERROR   | Variable name $address2Arr is not in all lowercase using underscores for word separators
+ 1183 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1183 | ERROR   | Variable name $address2Arr is not in all lowercase using underscores for word separators
+ 1184 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1184 | ERROR   | Variable name $address2Arr is not in all lowercase using underscores for word separators
+ 1184 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1184 | ERROR   | Variable name $address2Arr is not in all lowercase using underscores for word separators
+ 1185 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1185 | ERROR   | Variable name $address2Arr is not in all lowercase using underscores for word separators
+ 1185 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1185 | ERROR   | Variable name $address2Arr is not in all lowercase using underscores for word separators
+ 1190 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1190 | ERROR   | Variable name $addressCount is not in all lowercase using underscores for word separators
+ 1191 | ERROR   | Variable name $addressCount is not in all lowercase using underscores for word separators
+ 1193 | ERROR   | A single space is required on either side of ! and & operators
+ 1193 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1193 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1193 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1197 | ERROR   | Variable name $address2Arr is not in all lowercase using underscores for word separators
+ 1198 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1198 | ERROR   | Variable name $address2Arr is not in all lowercase using underscores for word separators
+ 1198 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1198 | ERROR   | Variable name $address2Arr is not in all lowercase using underscores for word separators
+ 1199 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1199 | ERROR   | Variable name $address2Arr is not in all lowercase using underscores for word separators
+ 1199 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1199 | ERROR   | Variable name $address2Arr is not in all lowercase using underscores for word separators
+ 1200 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1200 | ERROR   | Variable name $address2Arr is not in all lowercase using underscores for word separators
+ 1200 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1200 | ERROR   | Variable name $address2Arr is not in all lowercase using underscores for word separators
+ 1205 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1205 | ERROR   | Variable name $addressCount is not in all lowercase using underscores for word separators
+ 1207 | ERROR   | Variable name $phoneCount is not in all lowercase using underscores for word separators
+ 1208 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1209 | ERROR   | A single space is required on either side of ! and & operators
+ 1209 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1209 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1209 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1210 | ERROR   | Variable name $phoneParts is not in all lowercase using underscores for word separators
+ 1211 | ERROR   | Variable name $phoneParts is not in all lowercase using underscores for word separators
+ 1212 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1212 | ERROR   | Variable name $phoneCount is not in all lowercase using underscores for word separators
+ 1212 | ERROR   | Variable name $phoneParts is not in all lowercase using underscores for word separators
+ 1213 | ERROR   | Variable name $phoneCount is not in all lowercase using underscores for word separators
+ 1215 | ERROR   | A single space is required on either side of ! and & operators
+ 1215 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1215 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1215 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1216 | ERROR   | Variable name $phoneParts is not in all lowercase using underscores for word separators
+ 1217 | ERROR   | Variable name $phoneParts is not in all lowercase using underscores for word separators
+ 1218 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1218 | ERROR   | Variable name $phoneCount is not in all lowercase using underscores for word separators
+ 1218 | ERROR   | Variable name $phoneParts is not in all lowercase using underscores for word separators
+ 1219 | ERROR   | Variable name $phoneCount is not in all lowercase using underscores for word separators
+ 1221 | ERROR   | A single space is required on either side of ! and & operators
+ 1221 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1221 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1221 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1222 | ERROR   | Variable name $phoneParts is not in all lowercase using underscores for word separators
+ 1223 | ERROR   | Variable name $phoneParts is not in all lowercase using underscores for word separators
+ 1224 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1224 | ERROR   | Variable name $phoneCount is not in all lowercase using underscores for word separators
+ 1224 | ERROR   | Variable name $phoneParts is not in all lowercase using underscores for word separators
+ 1225 | ERROR   | Variable name $phoneCount is not in all lowercase using underscores for word separators
+ 1227 | ERROR   | A single space is required on either side of ! and & operators
+ 1227 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1227 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1227 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1228 | ERROR   | Variable name $phoneParts is not in all lowercase using underscores for word separators
+ 1229 | ERROR   | Variable name $phoneParts is not in all lowercase using underscores for word separators
+ 1230 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1230 | ERROR   | Variable name $phoneCount is not in all lowercase using underscores for word separators
+ 1230 | ERROR   | Variable name $phoneParts is not in all lowercase using underscores for word separators
+ 1232 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1240 | ERROR   | Variable name $phoneNumber is not in all lowercase using underscores for word separators
+ 1240 | ERROR   | Opening brace should be on a new line
+ 1241 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1241 | ERROR   | Variable name $phoneNumber is not in all lowercase using underscores for word separators
+ 1241 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1242 | ERROR   | Variable name $phoneNumber is not in all lowercase using underscores for word separators
+ 1242 | ERROR   | Variable name $phoneNumber is not in all lowercase using underscores for word separators
+ 1244 | ERROR   | Variable name $phoneNumber is not in all lowercase using underscores for word separators
+ 1245 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1245 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1246 | ERROR   | Variable name $phoneNumber is not in all lowercase using underscores for word separators
+ 1247 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1247 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1248 | ERROR   | Variable name $phoneNumber is not in all lowercase using underscores for word separators
+ 1249 | ERROR   | Variable name $phoneNumber is not in all lowercase using underscores for word separators
+ 1250 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1250 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1251 | ERROR   | Variable name $phoneNumber is not in all lowercase using underscores for word separators
+ 1252 | ERROR   | Variable name $phoneNumber is not in all lowercase using underscores for word separators
+ 1253 | ERROR   | Variable name $phoneNumber is not in all lowercase using underscores for word separators
+ 1257 | ERROR   | Variable name $phoneNumber is not in all lowercase using underscores for word separators
+ 1265 | ERROR   | Variable name $excludeList is not in all lowercase using underscores for word separators
+ 1265 | ERROR   | Opening brace should be on a new line
+ 1266 | ERROR   | Variable name $lastSyncTime is not in all lowercase using underscores for word separators
+ 1267 | ERROR   | Variable name $lastSyncDBTime is not in all lowercase using underscores for word separators
+ 1267 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1267 | ERROR   | Variable name $lastSyncTime is not in all lowercase using underscores for word separators
+ 1267 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1267 | ERROR   | Variable name $lastSyncTime is not in all lowercase using underscores for word separators
+ 1268 | ERROR   | Construct names should be separated from opening parentheses by a single space
+ 1269 | ERROR   | Variable name $lastSyncDBTime is not in all lowercase using underscores for word separators
+ 1269 | ERROR   | Variable name $excludeList is not in all lowercase using underscores for word separators
+ 1271 | ERROR   | Variable name $lastSyncDBTime is not in all lowercase using underscores for word separators
+ 1271 | ERROR   | Variable name $excludeList is not in all lowercase using underscores for word separators
+ 1281 | ERROR   | Opening brace should be on a new line
+ 1290 | ERROR   | Opening brace should be on a new line
+ 1292 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+ 1293 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+ 1293 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+ 1294 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+ 1296 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1296 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+ 1296 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1297 | ERROR   | Variable name $merchantId is not in all lowercase using underscores for word separators
+ 1301 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1302 | ERROR   | Construct names should be separated from opening parentheses by a single space
+ 1304 | ERROR   | Construct names should be separated from opening parentheses by a single space
+ 1304 | ERROR   | A single space is required on either side of ! and & operators
+ 1316 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1319 | ERROR   | Variable name $transToExport is not in all lowercase using underscores for word separators
+ 1319 | ERROR   | Variable name $merchantId is not in all lowercase using underscores for word separators
+ 1320 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1321 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1321 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1321 | ERROR   | Variable name $transToExport is not in all lowercase using underscores for word separators
+ 1321 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1321 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1325 | ERROR   | Variable name $exportOrder is not in all lowercase using underscores for word separators
+ 1325 | ERROR   | Variable name $transToExport is not in all lowercase using underscores for word separators
+ 1326 | ERROR   | Variable name $formattedTransToExport is not in all lowercase using underscores for word separators
+ 1326 | ERROR   | Variable name $transToExport is not in all lowercase using underscores for word separators
+ 1328 | ERROR   | Variable name $formattedTransToExport is not in all lowercase using underscores for word separators
+ 1329 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+ 1330 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+ 1330 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+ 1331 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1331 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+ 1331 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1332 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1332 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1333 | ERROR   | Variable name $responseTransactions is not in all lowercase using underscores for word separators
+ 1334 | ERROR   | Variable name $responseTransactions is not in all lowercase using underscores for word separators
+ 1334 | ERROR   | Variable name $exportOrder is not in all lowercase using underscores for word separators
+ 1334 | ERROR   | Variable name $transToExport is not in all lowercase using underscores for word separators
+ 1335 | ERROR   | Variable name $paymentsApplied is not in all lowercase using underscores for word separators
+ 1335 | ERROR   | Variable name $transToExport is not in all lowercase using underscores for word separators
+ 1335 | ERROR   | Variable name $formattedTransToExport is not in all lowercase using underscores for word separators
+ 1346 | ERROR   | Variable name $exportOrder is not in all lowercase using underscores for word separators
+ 1346 | ERROR   | A single space is required on either side of ! and & operators
+ 1346 | ERROR   | Variable name $transExported is not in all lowercase using underscores for word separators
+ 1346 | ERROR   | Opening brace should be on a new line
+ 1350 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1350 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1351 | ERROR   | Variable name $rerunTransactionId is not in all lowercase using underscores for word separators
+ 1351 | ERROR   | Variable name $exportOrder is not in all lowercase using underscores for word separators
+ 1352 | ERROR   | Variable name $invoiceId is not in all lowercase using underscores for word separators
+ 1353 | ERROR   | Variable name $rerunTransactionId is not in all lowercase using underscores for word separators
+ 1353 | ERROR   | Variable name $invoiceId is not in all lowercase using underscores for word separators
+ 1354 | ERROR   | Variable name $transExported is not in all lowercase using underscores for word separators
+ 1354 | ERROR   | Variable name $invoiceId is not in all lowercase using underscores for word separators
+ 1359 | ERROR   | Variable name $transactionInvoices is not in all lowercase using underscores for word separators
+ 1359 | ERROR   | Variable name $formattedTransExported is not in all lowercase using underscores for word separators
+ 1359 | ERROR   | Opening brace should be on a new line
+ 1360 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+ 1361 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+ 1361 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+ 1362 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+ 1363 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1363 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+ 1363 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1365 | ERROR   | Variable name $exportOrder is not in all lowercase using underscores for word separators
+ 1365 | ERROR   | Variable name $transactionInvoices is not in all lowercase using underscores for word separators
+ 1366 | ERROR   | Variable name $transactionInvoices is not in all lowercase using underscores for word separators
+ 1366 | ERROR   | Variable name $transactionInvoices is not in all lowercase using underscores for word separators
+ 1366 | ERROR   | Variable name $formattedTransExported is not in all lowercase using underscores for word separators
+ 1368 | ERROR   | Variable name $transactionInvoices is not in all lowercase using underscores for word separators
+ 1369 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+ 1369 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+ 1370 | ERROR   | Variable name $xeroOauth is not in all lowercase using underscores for word separators
+ 1371 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1372 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1372 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1373 | ERROR   | Variable name $responsePayments is not in all lowercase using underscores for word separators
+ 1374 | ERROR   | Variable name $responsePayments is not in all lowercase using underscores for word separators
+ 1374 | ERROR   | Variable name $exportOrder is not in all lowercase using underscores for word separators
+ 1384 | ERROR   | Variable name $exportOrder is not in all lowercase using underscores for word separators
+ 1384 | ERROR   | Opening brace should be on a new line
+ 1388 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1388 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1389 | ERROR   | Variable name $rerunTransactionId is not in all lowercase using underscores for word separators
+ 1389 | ERROR   | Variable name $exportOrder is not in all lowercase using underscores for word separators
+ 1390 | ERROR   | Variable name $paymentId is not in all lowercase using underscores for word separators
+ 1391 | ERROR   | Single-line if statements should only be used when breaking normal execution
+ 1391 | ERROR   | A single space is required on either side of ! and & operators
+ 1391 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1391 | ERROR   | Variable name $paymentId is not in all lowercase using underscores for word separators
+ 1391 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1391 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1392 | ERROR   | Variable name $rerunTransactionId is not in all lowercase using underscores for word separators
+ 1397 | ERROR   | Opening brace should be on a new line
+ 1401 | ERROR   | Variable name $transactionItems is not in all lowercase using underscores for word separators
+ 1402 | ERROR   | Variable name $transactionAmounts is not in all lowercase using underscores for word separators
+ 1403 | ERROR   | Variable name $oldTransaction is not in all lowercase using underscores for word separators
+ 1406 | ERROR   | Variable name $transactionId is not in all lowercase using underscores for word separators
+ 1407 | ERROR   | A single space is required on either side of ! and & operators
+ 1407 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1407 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1407 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1408 | ERROR   | Variable name $transactionAmounts is not in all lowercase using underscores for word separators
+ 1408 | ERROR   | Variable name $transactionId is not in all lowercase using underscores for word separators
+ 1408 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1409 | ERROR   | Variable name $oldTransaction is not in all lowercase using underscores for word separators
+ 1409 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1409 | ERROR   | Variable name $transactionAmounts is not in all lowercase using underscores for word separators
+ 1409 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1410 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1410 | ERROR   | Variable name $oldTransaction is not in all lowercase using underscores for word separators
+ 1410 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1411 | ERROR   | Variable name $transactionItems is not in all lowercase using underscores for word separators
+ 1413 | ERROR   | Variable name $transactionItems is not in all lowercase using underscores for word separators
+ 1413 | ERROR   | Variable name $transactionId is not in all lowercase using underscores for word separators
+ 1415 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1415 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1415 | ERROR   | Variable name $transactionItems is not in all lowercase using underscores for word separators
+ 1415 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1415 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1419 | ERROR   | Variable name $transactionAmounts is not in all lowercase using underscores for word separators
+ 1420 | ERROR   | Variable name $oldTransaction is not in all lowercase using underscores for word separators
+ 1421 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1421 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1421 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1422 | ERROR   | Variable name $transactionItems is not in all lowercase using underscores for word separators
+ 1423 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1423 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1423 | ERROR   | Variable name $transactionItems is not in all lowercase using underscores for word separators
+ 1423 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1423 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1425 | ERROR   | elseif should be used rather than else if
+ 1425 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1425 | ERROR   | Variable name $transactionItems is not in all lowercase using underscores for word separators
+ 1425 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1428 | ERROR   | Variable name $transactionItems is not in all lowercase using underscores for word separators
+ 1429 | ERROR   | Variable name $transactionItems is not in all lowercase using underscores for word separators
+ 1429 | ERROR   | Variable name $transactionItems is not in all lowercase using underscores for word separators
+ 1430 | ERROR   | elseif should be used rather than else if
+ 1430 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+ 1431 | ERROR   | Variable name $transactionItems is not in all lowercase using underscores for word separators
+ 1432 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1432 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1432 | ERROR   | Variable name $transactionItems is not in all lowercase using underscores for word separators
+ 1432 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1432 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1434 | ERROR   | elseif should be used rather than else if
+ 1434 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1434 | ERROR   | Variable name $transactionItems is not in all lowercase using underscores for word separators
+ 1434 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1437 | ERROR   | Variable name $transactionItems is not in all lowercase using underscores for word separators
+ 1438 | ERROR   | Variable name $transactionItems is not in all lowercase using underscores for word separators
+ 1438 | ERROR   | Variable name $transactionItems is not in all lowercase using underscores for word separators
+ 1443 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1444 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1445 | ERROR   | Variable name $taxAndDiscount is not in all lowercase using underscores for word separators
+ 1446 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1446 | ERROR   | Variable name $oldTransaction is not in all lowercase using underscores for word separators
+ 1446 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1447 | ERROR   | Variable name $taxAndDiscount is not in all lowercase using underscores for word separators
+ 1449 | ERROR   | Variable name $taxAndDiscount is not in all lowercase using underscores for word separators
+ 1449 | ERROR   | Variable name $transactionAmounts is not in all lowercase using underscores for word separators
+ 1450 | ERROR   | A single space is required on either side of ! and & operators
+ 1450 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1450 | ERROR   | Variable name $transactionAmounts is not in all lowercase using underscores for word separators
+ 1450 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1450 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1451 | ERROR   | Variable name $taxAndDiscount is not in all lowercase using underscores for word separators
+ 1451 | ERROR   | Variable name $transactionAmounts is not in all lowercase using underscores for word separators
+ 1452 | ERROR   | elseif should be used rather than else if
+ 1452 | ERROR   | A single space is required on either side of ! and & operators
+ 1452 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1452 | ERROR   | Variable name $transactionAmounts is not in all lowercase using underscores for word separators
+ 1452 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1452 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1453 | ERROR   | Variable name $taxAndDiscount is not in all lowercase using underscores for word separators
+ 1453 | ERROR   | Variable name $transactionAmounts is not in all lowercase using underscores for word separators
+ 1455 | ERROR   | Variable name $taxAndDiscount is not in all lowercase using underscores for word separators
+ 1458 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1460 | ERROR   | A single space is required on either side of ! and & operators
+ 1460 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1460 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1460 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1461 | ERROR   | Variable name $oldTransaction is not in all lowercase using underscores for word separators
+ 1461 | ERROR   | Variable name $transactionId is not in all lowercase using underscores for word separators
+ 1463 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1464 | ERROR   | Variable name $invoiceData is not in all lowercase using underscores for word separators
+ 1465 | ERROR   | Variable name $invoiceData is not in all lowercase using underscores for word separators
+ 1467 | ERROR   | Variable name $contactData is not in all lowercase using underscores for word separators
+ 1468 | ERROR   | Variable name $contactData is not in all lowercase using underscores for word separators
+ 1469 | ERROR   | Variable name $contactData is not in all lowercase using underscores for word separators
+ 1470 | ERROR   | Variable name $invoiceData is not in all lowercase using underscores for word separators
+ 1470 | ERROR   | Variable name $contactData is not in all lowercase using underscores for word separators
+ 1471 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1472 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1473 | ERROR   | Variable name $transactionDescription is not in all lowercase using underscores for word separators
+ 1474 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1474 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1474 | ERROR   | Variable name $transactionDescription is not in all lowercase using underscores for word separators
+ 1474 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1474 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1475 | ERROR   | Variable name $transactionDescription is not in all lowercase using underscores for word separators
+ 1476 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1476 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1476 | ERROR   | Variable name $transactionDescription is not in all lowercase using underscores for word separators
+ 1476 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1476 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1476 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1477 | ERROR   | Variable name $transactionDescription is not in all lowercase using underscores for word separators
+ 1481 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1482 | ERROR   | Variable name $lineItems is not in all lowercase using underscores for word separators
+ 1483 | ERROR   | Variable name $itemCount is not in all lowercase using underscores for word separators
+ 1484 | ERROR   | Variable name $subTotal is not in all lowercase using underscores for word separators
+ 1486 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1487 | ERROR   | Variable name $taxType is not in all lowercase using underscores for word separators
+ 1487 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1487 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1488 | ERROR   | Variable name $estimatedXeroTax is not in all lowercase using underscores for word separators
+ 1489 | ERROR   | Variable name $amountCalculator is not in all lowercase using underscores for word separators
+ 1489 | ERROR   | Parentheses should not be used in calls to class constructors without parameters
+ 1490 | ERROR   | Variable name $baseAmount is not in all lowercase using underscores for word separators
+ 1490 | ERROR   | Variable name $oldTransaction is not in all lowercase using underscores for word separators
+ 1490 | ERROR   | Variable name $transactionAmounts is not in all lowercase using underscores for word separators
+ 1491 | ERROR   | Variable name $taxPercent is not in all lowercase using underscores for word separators
+ 1491 | ERROR   | Variable name $oldTransaction is not in all lowercase using underscores for word separators
+ 1491 | ERROR   | Variable name $transactionAmounts is not in all lowercase using underscores for word separators
+ 1492 | ERROR   | Variable name $appliedTax is not in all lowercase using underscores for word separators
+ 1492 | ERROR   | Variable name $taxAndDiscount is not in all lowercase using underscores for word separators
+ 1493 | ERROR   | Variable name $discountApplied is not in all lowercase using underscores for word separators
+ 1495 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1495 | ERROR   | Variable name $transactionItems is not in all lowercase using underscores for word separators
+ 1495 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1496 | ERROR   | Variable name $amountCalculator is not in all lowercase using underscores for word separators
+ 1496 | ERROR   | Variable name $baseAmount is not in all lowercase using underscores for word separators
+ 1496 | ERROR   | Variable name $taxPercent is not in all lowercase using underscores for word separators
+ 1497 | ERROR   | Variable name $lineTax is not in all lowercase using underscores for word separators
+ 1497 | ERROR   | Variable name $amountCalculator is not in all lowercase using underscores for word separators
+ 1498 | ERROR   | Variable name $estimatedXeroTax is not in all lowercase using underscores for word separators
+ 1498 | ERROR   | Variable name $estimatedXeroTax is not in all lowercase using underscores for word separators
+ 1498 | ERROR   | Variable name $lineTax is not in all lowercase using underscores for word separators
+ 1499 | ERROR   | Variable name $lineItem is not in all lowercase using underscores for word separators
+ 1500 | ERROR   | Variable name $lineItem is not in all lowercase using underscores for word separators
+ 1500 | ERROR   | Variable name $transactionDescription is not in all lowercase using underscores for word separators
+ 1501 | ERROR   | Variable name $lineItem is not in all lowercase using underscores for word separators
+ 1502 | ERROR   | Variable name $lineItem is not in all lowercase using underscores for word separators
+ 1502 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1502 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1503 | ERROR   | Variable name $lineItem is not in all lowercase using underscores for word separators
+ 1504 | ERROR   | Variable name $lineItem is not in all lowercase using underscores for word separators
+ 1505 | ERROR   | Variable name $lineItem is not in all lowercase using underscores for word separators
+ 1505 | ERROR   | Variable name $taxType is not in all lowercase using underscores for word separators
+ 1506 | ERROR   | Variable name $lineItem is not in all lowercase using underscores for word separators
+ 1506 | ERROR   | Variable name $lineTax is not in all lowercase using underscores for word separators
+ 1507 | ERROR   | Variable name $lineItems is not in all lowercase using underscores for word separators
+ 1507 | ERROR   | Variable name $itemCount is not in all lowercase using underscores for word separators
+ 1508 | ERROR   | Variable name $lineItems is not in all lowercase using underscores for word separators
+ 1508 | ERROR   | Variable name $itemCount is not in all lowercase using underscores for word separators
+ 1508 | ERROR   | Variable name $lineItem is not in all lowercase using underscores for word separators
+ 1509 | ERROR   | Variable name $itemCount is not in all lowercase using underscores for word separators
+ 1510 | ERROR   | Variable name $subTotal is not in all lowercase using underscores for word separators
+ 1513 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1513 | ERROR   | Variable name $taxAndDiscount is not in all lowercase using underscores for word separators
+ 1513 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1514 | ERROR   | Variable name $discountItemDetails is not in all lowercase using underscores for word separators
+ 1515 | ERROR   | Variable name $discountApplied is not in all lowercase using underscores for word separators
+ 1515 | ERROR   | Variable name $taxAndDiscount is not in all lowercase using underscores for word separators
+ 1516 | ERROR   | Variable name $lineTax is not in all lowercase using underscores for word separators
+ 1516 | ERROR   | Variable name $amountCalculator is not in all lowercase using underscores for word separators
+ 1516 | ERROR   | Variable name $amountCalculator is not in all lowercase using underscores for word separators
+ 1516 | ERROR   | Variable name $baseAmount is not in all lowercase using underscores for word separators
+ 1516 | ERROR   | Variable name $discountApplied is not in all lowercase using underscores for word separators
+ 1516 | ERROR   | Variable name $taxPercent is not in all lowercase using underscores for word separators
+ 1517 | ERROR   | Variable name $estimatedXeroTax is not in all lowercase using underscores for word separators
+ 1517 | ERROR   | Variable name $estimatedXeroTax is not in all lowercase using underscores for word separators
+ 1517 | ERROR   | Variable name $lineTax is not in all lowercase using underscores for word separators
+ 1518 | ERROR   | Variable name $lineItem is not in all lowercase using underscores for word separators
+ 1519 | ERROR   | Variable name $lineItem is not in all lowercase using underscores for word separators
+ 1520 | ERROR   | Variable name $lineItem is not in all lowercase using underscores for word separators
+ 1521 | ERROR   | Variable name $lineItem is not in all lowercase using underscores for word separators
+ 1522 | ERROR   | Variable name $lineItem is not in all lowercase using underscores for word separators
+ 1522 | ERROR   | Variable name $discountApplied is not in all lowercase using underscores for word separators
+ 1522 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1523 | ERROR   | Variable name $lineItem is not in all lowercase using underscores for word separators
+ 1523 | ERROR   | Variable name $discountItemDetails is not in all lowercase using underscores for word separators
+ 1524 | ERROR   | Variable name $lineItem is not in all lowercase using underscores for word separators
+ 1524 | ERROR   | Variable name $taxType is not in all lowercase using underscores for word separators
+ 1524 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1525 | ERROR   | Variable name $lineItem is not in all lowercase using underscores for word separators
+ 1525 | ERROR   | Variable name $lineTax is not in all lowercase using underscores for word separators
+ 1526 | ERROR   | Variable name $lineItems is not in all lowercase using underscores for word separators
+ 1526 | ERROR   | Variable name $itemCount is not in all lowercase using underscores for word separators
+ 1527 | ERROR   | Variable name $lineItems is not in all lowercase using underscores for word separators
+ 1527 | ERROR   | Variable name $itemCount is not in all lowercase using underscores for word separators
+ 1527 | ERROR   | Variable name $lineItem is not in all lowercase using underscores for word separators
+ 1528 | ERROR   | Variable name $itemCount is not in all lowercase using underscores for word separators
+ 1529 | ERROR   | Variable name $subTotal is not in all lowercase using underscores for word separators
+ 1529 | ERROR   | Variable name $discountApplied is not in all lowercase using underscores for word separators
+ 1532 | ERROR   | Variable name $indextoChange is not in all lowercase using underscores for word separators
+ 1532 | ERROR   | Variable name $discountApplied is not in all lowercase using underscores for word separators
+ 1532 | ERROR   | Comparisons and operations must be in parentheses in the condition portion of ternary operations
+ 1532 | ERROR   | Variable name $itemCount is not in all lowercase using underscores for word separators
+ 1532 | ERROR   | Variable name $itemCount is not in all lowercase using underscores for word separators
+ 1533 | ERROR   | Variable name $taxOff is not in all lowercase using underscores for word separators
+ 1533 | ERROR   | Variable name $estimatedXeroTax is not in all lowercase using underscores for word separators
+ 1533 | ERROR   | Variable name $appliedTax is not in all lowercase using underscores for word separators
+ 1541 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1542 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1544 | ERROR   | Variable name $invoiceData is not in all lowercase using underscores for word separators
+ 1544 | ERROR   | Variable name $lineItems is not in all lowercase using underscores for word separators
+ 1545 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1546 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1547 | ERROR   | Variable name $invoiceData is not in all lowercase using underscores for word separators
+ 1548 | ERROR   | Variable name $invoiceData is not in all lowercase using underscores for word separators
+ 1548 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1548 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1550 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1551 | ERROR   | Variable name $invoiceData is not in all lowercase using underscores for word separators
+ 1553 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1554 | ERROR   | Variable name $invoiceData is not in all lowercase using underscores for word separators
+ 1556 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1557 | ERROR   | Variable name $invoiceData is not in all lowercase using underscores for word separators
+ 1559 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1560 | ERROR   | Variable name $invoiceData is not in all lowercase using underscores for word separators
+ 1560 | ERROR   | Variable name $subTotal is not in all lowercase using underscores for word separators
+ 1562 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1563 | ERROR   | Variable name $invoiceData is not in all lowercase using underscores for word separators
+ 1563 | ERROR   | Variable name $estimatedXeroTax is not in all lowercase using underscores for word separators
+ 1565 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1567 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1568 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1569 | ERROR   | Variable name $invoiceData is not in all lowercase using underscores for word separators
+ 1569 | ERROR   | Variable name $subTotal is not in all lowercase using underscores for word separators
+ 1569 | ERROR   | Variable name $estimatedXeroTax is not in all lowercase using underscores for word separators
+ 1571 | ERROR   | Variable name $invoiceData is not in all lowercase using underscores for word separators
+ 1574 | ERROR   | Opening brace should be on a new line
+ 1575 | ERROR   | Variable name $existingItemData is not in all lowercase using underscores for word separators
+ 1577 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1577 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1577 | ERROR   | Variable name $existingItemData is not in all lowercase using underscores for word separators
+ 1577 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1577 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1578 | ERROR   | Variable name $itemData is not in all lowercase using underscores for word separators
+ 1584 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1588 | ERROR   | Variable name $itemData is not in all lowercase using underscores for word separators
+ 1589 | ERROR   | Variable name $itemData is not in all lowercase using underscores for word separators
+ 1591 | ERROR   | Variable name $itemData is not in all lowercase using underscores for word separators
+ 1591 | ERROR   | Variable name $existingItemData is not in all lowercase using underscores for word separators
+ 1594 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1594 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1594 | ERROR   | Variable name $itemData is not in all lowercase using underscores for word separators
+ 1594 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1594 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1598 | ERROR   | Variable name $itemData is not in all lowercase using underscores for word separators
+ 1601 | ERROR   | Variable name $formattedTransTotal is not in all lowercase using underscores for word separators
+ 1601 | ERROR   | Opening brace should be on a new line
+ 1602 | ERROR   | Variable name $paymentData is not in all lowercase using underscores for word separators
+ 1603 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1604 | ERROR   | Variable name $paymentData is not in all lowercase using underscores for word separators
+ 1605 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1606 | ERROR   | Variable name $paymentData is not in all lowercase using underscores for word separators
+ 1607 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1608 | ERROR   | Variable name $paymentData is not in all lowercase using underscores for word separators
+ 1609 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1610 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1611 | ERROR   | Variable name $paymentData is not in all lowercase using underscores for word separators
+ 1611 | ERROR   | Variable name $formattedTransTotal is not in all lowercase using underscores for word separators
+ 1613 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 1614 | ERROR   | Variable name $paymentData is not in all lowercase using underscores for word separators
+ 1614 | ERROR   | No space is allowed after concatenation operators
+ 1614 | ERROR   | No space is allowed before concatenation operators
+ 1614 | ERROR   | No space is allowed after concatenation operators
+ 1614 | ERROR   | No space is allowed before concatenation operators
+ 1614 | ERROR   | No space is allowed after concatenation operators
+ 1614 | ERROR   | No space is allowed before concatenation operators
+ 1614 | ERROR   | No space is allowed after concatenation operators
+ 1614 | ERROR   | No space is allowed before concatenation operators
+ 1616 | ERROR   | Variable name $paymentData is not in all lowercase using underscores for word separators
+ 1619 | ERROR   | Opening brace should be on a new line
+ 1620 | ERROR   | Variable name $conflictedCustomerIds is not in all lowercase using underscores for word separators
+ 1621 | ERROR   | Variable name $selectedActions is not in all lowercase using underscores for word separators
+ 1622 | ERROR   | Variable name $customerCount is not in all lowercase using underscores for word separators
+ 1622 | ERROR   | Variable name $conflictedCustomerIds is not in all lowercase using underscores for word separators
+ 1623 | ERROR   | Variable name $actionsCount is not in all lowercase using underscores for word separators
+ 1623 | ERROR   | Variable name $selectedActions is not in all lowercase using underscores for word separators
+ 1624 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1624 | ERROR   | Variable name $customerCount is not in all lowercase using underscores for word separators
+ 1624 | ERROR   | Variable name $actionsCount is not in all lowercase using underscores for word separators
+ 1624 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1625 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1625 | ERROR   | Variable name $customerCount is not in all lowercase using underscores for word separators
+ 1625 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1626 | ERROR   | Variable name $customerId is not in all lowercase using underscores for word separators
+ 1626 | ERROR   | Variable name $conflictedCustomerIds is not in all lowercase using underscores for word separators
+ 1627 | ERROR   | Variable name $selectedActions is not in all lowercase using underscores for word separators
+ 1628 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1628 | ERROR   | Variable name $customerId is not in all lowercase using underscores for word separators
+ 1629 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1629 | ERROR   | Variables should precede constants in comparison operations
+ 1629 | ERROR   | Variables should precede constants in comparison operations
+ 1629 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1629 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1630 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1630 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1632 | ERROR   | elseif should be used rather than else if
+ 1632 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1632 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1633 | ERROR   | Variable name $conflctingId is not in all lowercase using underscores for word separators
+ 1633 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1634 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 1634 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1634 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 1635 | ERROR   | Variable name $conflctingId is not in all lowercase using underscores for word separators
+ 1635 | ERROR   | Variable name $customerData is not in all lowercase using underscores for word separators
+ 1640 | ERROR   | Single-line if statements should only be used when breaking normal execution
+ 1640 | ERROR   | Construct names should be separated from opening parentheses by a single space
+ 1640 | ERROR   | A single space is required on either side of ! and & operators
+ 1647 | WARNING | @param tag should have the parameter name
+ 1650 | ERROR   | Opening brace should be on a new line
+ 1654 | ERROR   | Variable name $customersEffected is not in all lowercase using underscores for word separators
+ 1655 | ERROR   | A single space is required on either side of ! and & operators
+ 1655 | ERROR   | Variable name $customersEffected is not in all lowercase using underscores for word separators
+ 1656 | ERROR   | Variable name $customersEffected is not in all lowercase using underscores for word separators
+ 1664 | WARNING | @param tag should have the parameter name
+ 1667 | ERROR   | Opening brace should be on a new line
+ 1670 | ERROR   | Variable name $allowedEntities is not in all lowercase using underscores for word separators
+ 1672 | ERROR   | Variable name $selectFields is not in all lowercase using underscores for word separators
+ 1673 | ERROR   | Construct names should be separated from opening parentheses by a single space
+ 1674 | ERROR   | Construct names should be separated from opening parentheses by a single space
+ 1674 | ERROR   | A single space is required on either side of ! and & operators
+ 1674 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+ 1674 | ERROR   | Variable name $allowedEntities is not in all lowercase using underscores for word separators
+ 1676 | ERROR   | Variable name $selectFields is not in all lowercase using underscores for word separators
+ 1679 | ERROR   | Construct names should be separated from opening parentheses by a single space
+ 1679 | ERROR   | A single space is required on either side of ! and & operators
+ 1679 | ERROR   | Variable name $selectFields is not in all lowercase using underscores for word separators
+ 1680 | ERROR   | Variable name $selectField is not in all lowercase using underscores for word separators
+ 1680 | ERROR   | Variable name $selectFields is not in all lowercase using underscores for word separators
+ 1681 | ERROR   | Variable name $lastSyncedDetails is not in all lowercase using underscores for word separators
+ 1681 | ERROR   | Variable name $selectField is not in all lowercase using underscores for word separators
+ 1682 | ERROR   | Variable name $lastSyncedDetails is not in all lowercase using underscores for word separators
+ 1682 | ERROR   | Variable name $lastSyncedDetails is not in all lowercase using underscores for word separators
+ 1684 | ERROR   | Construct names should be separated from opening parentheses by a single space
+ 1684 | ERROR   | Variable name $lastSyncedDetails is not in all lowercase using underscores for word separators
+ 1685 | ERROR   | Variable name $selectFields is not in all lowercase using underscores for word separators
+ 1685 | ERROR   | A single space is required on either side of ! and & operators
+ 1685 | ERROR   | Comparisons and operations must be in parentheses in the condition portion of ternary operations
+ 1693 | ERROR   | Opening brace should be on a new line
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

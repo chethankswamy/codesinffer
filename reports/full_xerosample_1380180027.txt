@@ -1,0 +1,424 @@
+FILE: /Applications/MAMP/htdocs/codesniffer/uploads/xerosample.php
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 244 ERROR(S) AND 175 WARNING(S) AFFECTING 314 LINE(S)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    1 | ERROR   | End of line character is invalid; expected "\n" but found "\r\n"
+   15 | ERROR   | Variable "auto_render" is not in valid camel caps format
+   16 | ERROR   | Private member variable "xero_model" must contain a leading underscore
+   17 | ERROR   | Private member variable "token_encryption_key" must contain a leading underscore
+   18 | ERROR   | Private member variable "discount_item_name" must contain a leading underscore
+   19 | ERROR   | Private member variable "xero_suppliers_group" must contain a leading underscore
+   20 | ERROR   | Private member variable "xero_customer_group" must contain a leading underscore
+   28 | ERROR   | Variable "discount_item_name" is not in valid camel caps format
+   29 | ERROR   | Variable "xero_customer_group" is not in valid camel caps format
+   30 | ERROR   | Variable "xero_suppliers_group" is not in valid camel caps format
+   44 | WARNING | Line exceeds 80 characters; contains 109 characters
+   47 | WARNING | Line exceeds 80 characters; contains 112 characters
+   48 | ERROR   | Variable "token_encryption_key" is not in valid camel caps format
+   56 | ERROR   | Variable "xero_model" is not in valid camel caps format
+   74 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+   77 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  101 | WARNING | Line exceeds 80 characters; contains 84 characters
+  109 | WARNING | Line exceeds 80 characters; contains 84 characters
+  111 | WARNING | Line exceeds 80 characters; contains 87 characters
+  125 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  125 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  129 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  129 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  131 | ERROR   | Line exceeds maximum limit of 120 characters; contains 126 characters
+  148 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  148 | WARNING | Line exceeds 80 characters; contains 94 characters
+  159 | ERROR   | Variable "token_encryption_key" is not in valid camel caps format
+  159 | ERROR   | Line exceeds maximum limit of 120 characters; contains 137 characters
+  160 | ERROR   | Variable "token_encryption_key" is not in valid camel caps format
+  160 | ERROR   | Line exceeds maximum limit of 120 characters; contains 144 characters
+  161 | ERROR   | Variable "XeroOAuth" is not in valid camel caps format
+  161 | WARNING | Line exceeds 80 characters; contains 86 characters
+  176 | ERROR   | Line exceeds maximum limit of 120 characters; contains 145 characters
+  186 | WARNING | Line exceeds 80 characters; contains 94 characters
+  190 | WARNING | Line exceeds 80 characters; contains 99 characters
+  191 | WARNING | Line exceeds 80 characters; contains 106 characters
+  192 | WARNING | Line exceeds 80 characters; contains 106 characters
+  193 | ERROR   | Variable "oauth_verifier" is not in valid camel caps format
+  193 | WARNING | Line exceeds 80 characters; contains 88 characters
+  194 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  194 | ERROR   | Line exceeds maximum limit of 120 characters; contains 129 characters
+  197 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  199 | WARNING | Line exceeds 80 characters; contains 111 characters
+  200 | ERROR   | Variable "oauth_verifier" is not in valid camel caps format
+  201 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  201 | ERROR   | Line exceeds maximum limit of 120 characters; contains 127 characters
+  202 | WARNING | Line exceeds 80 characters; contains 101 characters
+  203 | WARNING | Line exceeds 80 characters; contains 89 characters
+  211 | WARNING | Line exceeds 80 characters; contains 101 characters
+  214 | WARNING | Line exceeds 80 characters; contains 107 characters
+  215 | ERROR   | Line exceeds maximum limit of 120 characters; contains 153 characters
+  250 | WARNING | Line exceeds 80 characters; contains 109 characters
+  251 | WARNING | Line exceeds 80 characters; contains 101 characters
+  253 | ERROR   | Variable "token_encryption_key" is not in valid camel caps format
+  253 | WARNING | Line exceeds 80 characters; contains 101 characters
+  254 | ERROR   | Variable "token_encryption_key" is not in valid camel caps format
+  254 | WARNING | Line exceeds 80 characters; contains 107 characters
+  259 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  266 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  268 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  270 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  271 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  271 | WARNING | Line exceeds 80 characters; contains 92 characters
+  272 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  272 | WARNING | Line exceeds 80 characters; contains 104 characters
+  273 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  273 | WARNING | Line exceeds 80 characters; contains 101 characters
+  278 | WARNING | Line exceeds 80 characters; contains 83 characters
+  303 | WARNING | Line exceeds 80 characters; contains 90 characters
+  315 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  328 | ERROR   | Variable "merchant_id" is not in valid camel caps format
+  329 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  329 | ERROR   | Variable "merchant_id" is not in valid camel caps format
+  330 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  330 | ERROR   | Variable "merchant_id" is not in valid camel caps format
+  331 | ERROR   | Variable "quickbooks_model" is not in valid camel caps format
+  331 | ERROR   | Variable "merchant_id" is not in valid camel caps format
+  331 | ERROR   | Line exceeds maximum limit of 120 characters; contains 129 characters
+  334 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  337 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  347 | WARNING | Line exceeds 80 characters; contains 90 characters
+  353 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  357 | ERROR   | Variable "access_token" is not in valid camel caps format
+  357 | ERROR   | Variable "token_encryption_key" is not in valid camel caps format
+  357 | WARNING | Line exceeds 80 characters; contains 105 characters
+  359 | ERROR   | Variable "session_handle" is not in valid camel caps format
+  359 | ERROR   | Variable "oauth_verifier" is not in valid camel caps format
+  359 | WARNING | Line exceeds 80 characters; contains 118 characters
+  374 | WARNING | Line exceeds 80 characters; contains 85 characters
+  375 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  378 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  392 | ERROR   | Line exceeds maximum limit of 120 characters; contains 121 characters
+  393 | WARNING | Line exceeds 80 characters; contains 97 characters
+  394 | WARNING | Line exceeds 80 characters; contains 81 characters
+  398 | WARNING | Line exceeds 80 characters; contains 112 characters
+  402 | ERROR   | Line exceeds maximum limit of 120 characters; contains 124 characters
+  404 | WARNING | Line exceeds 80 characters; contains 102 characters
+  416 | WARNING | Line exceeds 80 characters; contains 82 characters
+  431 | WARNING | Line exceeds 80 characters; contains 94 characters
+  434 | WARNING | Line exceeds 80 characters; contains 91 characters
+  436 | WARNING | Line exceeds 80 characters; contains 82 characters
+  437 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  437 | ERROR   | Line exceeds maximum limit of 120 characters; contains 135 characters
+  439 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  441 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  441 | WARNING | Line exceeds 80 characters; contains 101 characters
+  444 | ERROR   | Line exceeds maximum limit of 120 characters; contains 160 characters
+  449 | ERROR   | Line exceeds maximum limit of 120 characters; contains 130 characters
+  459 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  459 | WARNING | Line exceeds 80 characters; contains 103 characters
+  460 | WARNING | Line exceeds 80 characters; contains 84 characters
+  462 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  467 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  471 | WARNING | Line exceeds 80 characters; contains 83 characters
+  491 | WARNING | Line exceeds 80 characters; contains 101 characters
+  492 | ERROR   | Line exceeds maximum limit of 120 characters; contains 224 characters
+  494 | WARNING | Line exceeds 80 characters; contains 102 characters
+  495 | WARNING | Line exceeds 80 characters; contains 103 characters
+  496 | WARNING | Line exceeds 80 characters; contains 102 characters
+  500 | WARNING | Line exceeds 80 characters; contains 98 characters
+  501 | ERROR   | Line exceeds maximum limit of 120 characters; contains 171 characters
+  504 | WARNING | Line exceeds 80 characters; contains 100 characters
+  505 | ERROR   | Line exceeds maximum limit of 120 characters; contains 173 characters
+  507 | ERROR   | Variable "is_payment_enabled" is not in valid camel caps format
+  507 | WARNING | Line exceeds 80 characters; contains 116 characters
+  508 | ERROR   | Variable "xero_id" is not in valid camel caps format
+  508 | WARNING | Line exceeds 80 characters; contains 102 characters
+  509 | ERROR   | Variable "xero_id" is not in valid camel caps format
+  509 | ERROR   | Line exceeds maximum limit of 120 characters; contains 187 characters
+  524 | WARNING | Line exceeds 80 characters; contains 93 characters
+  528 | ERROR   | Line exceeds maximum limit of 120 characters; contains 134 characters
+  539 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  541 | WARNING | Line exceeds 80 characters; contains 86 characters
+  543 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  546 | ERROR   | Variable "merchant_id" is not in valid camel caps format
+  548 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  548 | ERROR   | Variable "merchant_id" is not in valid camel caps format
+  548 | WARNING | Line exceeds 80 characters; contains 102 characters
+  552 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  556 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  564 | WARNING | Line exceeds 80 characters; contains 85 characters
+  567 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  569 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  600 | ERROR   | Variable "integration_model" is not in valid camel caps format
+  600 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  600 | WARNING | Line exceeds 80 characters; contains 96 characters
+  602 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  615 | WARNING | Line exceeds 80 characters; contains 95 characters
+  621 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  625 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  635 | WARNING | Line exceeds 80 characters; contains 101 characters
+  650 | WARNING | Line exceeds 80 characters; contains 84 characters
+  651 | WARNING | Line exceeds 80 characters; contains 94 characters
+  655 | WARNING | Line exceeds 80 characters; contains 96 characters
+  659 | WARNING | Line exceeds 80 characters; contains 82 characters
+  668 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  672 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  698 | WARNING | Line exceeds 80 characters; contains 104 characters
+  700 | WARNING | Line exceeds 80 characters; contains 81 characters
+  704 | WARNING | Line exceeds 80 characters; contains 90 characters
+  706 | WARNING | Line exceeds 80 characters; contains 101 characters
+  724 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  724 | ERROR   | Line exceeds maximum limit of 120 characters; contains 193 characters
+  731 | WARNING | Line exceeds 80 characters; contains 110 characters
+  734 | WARNING | Line exceeds 80 characters; contains 83 characters
+  740 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  744 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  770 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  770 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  770 | WARNING | Line exceeds 80 characters; contains 86 characters
+  772 | WARNING | Line exceeds 80 characters; contains 83 characters
+  775 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  808 | WARNING | Line exceeds 80 characters; contains 87 characters
+  818 | WARNING | Line exceeds 80 characters; contains 91 characters
+  828 | WARNING | Line exceeds 80 characters; contains 94 characters
+  830 | WARNING | Line exceeds 80 characters; contains 83 characters
+  838 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  841 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  861 | ERROR   | Variable "synced_to_file" is not in valid camel caps format
+  873 | WARNING | Line exceeds 80 characters; contains 81 characters
+  880 | ERROR   | Variable "thirdparty_reference_id" is not in valid camel caps format
+  881 | ERROR   | Variable "thirdparty_reference_id" is not in valid camel caps format
+  886 | ERROR   | Variable "income_account_reference" is not in valid camel caps format
+  886 | ERROR   | Variable "income_account_reference" is not in valid camel caps format
+  886 | ERROR   | Line exceeds maximum limit of 120 characters; contains 170 characters
+  897 | ERROR   | Variable "merchant_id" is not in valid camel caps format
+  899 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  899 | ERROR   | Variable "merchant_id" is not in valid camel caps format
+  899 | WARNING | Line exceeds 80 characters; contains 100 characters
+  901 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  905 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  919 | WARNING | Line exceeds 80 characters; contains 84 characters
+  920 | WARNING | Line exceeds 80 characters; contains 94 characters
+  925 | WARNING | Line exceeds 80 characters; contains 88 characters
+  935 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+  939 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+  960 | WARNING | Line exceeds 80 characters; contains 93 characters
+  967 | ERROR   | Variable "xero_customer_group" is not in valid camel caps format
+  968 | ERROR   | Variable "xero_suppliers_group" is not in valid camel caps format
+  972 | WARNING | Line exceeds 80 characters; contains 87 characters
+  991 | ERROR   | Variable "merchant_id" is not in valid camel caps format
+  993 | ERROR   | Variable "xero_model" is not in valid camel caps format
+  993 | ERROR   | Variable "merchant_id" is not in valid camel caps format
+  993 | WARNING | Line exceeds 80 characters; contains 110 characters
+  997 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+ 1001 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+ 1003 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+ 1005 | WARNING | Line exceeds 80 characters; contains 81 characters
+ 1008 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+ 1024 | WARNING | Line exceeds 80 characters; contains 84 characters
+ 1025 | WARNING | Line exceeds 80 characters; contains 94 characters
+ 1033 | WARNING | Line exceeds 80 characters; contains 92 characters
+ 1036 | WARNING | Line exceeds 80 characters; contains 83 characters
+ 1038 | WARNING | Line exceeds 80 characters; contains 86 characters
+ 1044 | ERROR   | Line exceeds maximum limit of 120 characters; contains 187 characters
+ 1058 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+ 1062 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+ 1077 | WARNING | Line exceeds 80 characters; contains 110 characters
+ 1078 | WARNING | Line exceeds 80 characters; contains 108 characters
+ 1087 | WARNING | Line exceeds 80 characters; contains 81 characters
+ 1089 | ERROR   | Line exceeds maximum limit of 120 characters; contains 136 characters
+ 1090 | ERROR   | Line exceeds maximum limit of 120 characters; contains 197 characters
+ 1091 | WARNING | Line exceeds 80 characters; contains 81 characters
+ 1092 | WARNING | Line exceeds 80 characters; contains 84 characters
+ 1093 | WARNING | Line exceeds 80 characters; contains 83 characters
+ 1094 | WARNING | Line exceeds 80 characters; contains 87 characters
+ 1096 | ERROR   | Line exceeds maximum limit of 120 characters; contains 128 characters
+ 1097 | ERROR   | Line exceeds maximum limit of 120 characters; contains 189 characters
+ 1121 | ERROR   | Line exceeds maximum limit of 120 characters; contains 168 characters
+ 1126 | WARNING | Line exceeds 80 characters; contains 96 characters
+ 1133 | ERROR   | Variable "xero_model" is not in valid camel caps format
+ 1133 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+ 1134 | ERROR   | Variable "xero_customer_group" is not in valid camel caps format
+ 1135 | ERROR   | Variable "xero_suppliers_group" is not in valid camel caps format
+ 1136 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+ 1140 | ERROR   | Variable "xero_customer_group" is not in valid camel caps format
+ 1143 | ERROR   | Variable "xero_suppliers_group" is not in valid camel caps format
+ 1152 | WARNING | Line exceeds 80 characters; contains 96 characters
+ 1153 | WARNING | Line exceeds 80 characters; contains 84 characters
+ 1154 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+ 1158 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+ 1162 | WARNING | Line exceeds 80 characters; contains 96 characters
+ 1163 | WARNING | Line exceeds 80 characters; contains 84 characters
+ 1164 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+ 1168 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+ 1186 | ERROR   | Variable "xero_model" is not in valid camel caps format
+ 1186 | ERROR   | Line exceeds maximum limit of 120 characters; contains 171 characters
+ 1190 | WARNING | Line exceeds 80 characters; contains 87 characters
+ 1193 | WARNING | Line exceeds 80 characters; contains 110 characters
+ 1196 | WARNING | Line exceeds 80 characters; contains 91 characters
+ 1202 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+ 1206 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+ 1221 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+ 1224 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+ 1237 | ERROR   | Variable "synced_to_file" is not in valid camel caps format
+ 1238 | ERROR   | Variable "thirdparty_customer_id" is not in valid camel caps format
+ 1240 | WARNING | Line exceeds 80 characters; contains 85 characters
+ 1243 | ERROR   | Variable "primary_email" is not in valid camel caps format
+ 1246 | ERROR   | Variable "billing_address" is not in valid camel caps format
+ 1249 | ERROR   | Variable "billing_address" is not in valid camel caps format
+ 1249 | WARNING | Line exceeds 80 characters; contains 94 characters
+ 1250 | WARNING | Variable "address2Arr" contains numbers but this is discouraged
+ 1250 | ERROR   | Variable "billing_address2" is not in valid camel caps format
+ 1250 | WARNING | Line exceeds 80 characters; contains 113 characters
+ 1251 | WARNING | Variable "address2Arr" contains numbers but this is discouraged
+ 1251 | WARNING | Variable "address2Arr" contains numbers but this is discouraged
+ 1251 | WARNING | Line exceeds 80 characters; contains 113 characters
+ 1252 | WARNING | Variable "address2Arr" contains numbers but this is discouraged
+ 1252 | WARNING | Variable "address2Arr" contains numbers but this is discouraged
+ 1252 | WARNING | Line exceeds 80 characters; contains 113 characters
+ 1253 | WARNING | Variable "address2Arr" contains numbers but this is discouraged
+ 1253 | WARNING | Variable "address2Arr" contains numbers but this is discouraged
+ 1253 | WARNING | Line exceeds 80 characters; contains 113 characters
+ 1254 | ERROR   | Variable "billing_city" is not in valid camel caps format
+ 1254 | WARNING | Line exceeds 80 characters; contains 91 characters
+ 1255 | ERROR   | Variable "billing_country" is not in valid camel caps format
+ 1255 | WARNING | Line exceeds 80 characters; contains 94 characters
+ 1256 | ERROR   | Variable "billing_state" is not in valid camel caps format
+ 1256 | WARNING | Line exceeds 80 characters; contains 92 characters
+ 1257 | ERROR   | Variable "billing_zipcode" is not in valid camel caps format
+ 1257 | WARNING | Line exceeds 80 characters; contains 94 characters
+ 1261 | WARNING | Variable "address1" contains numbers but this is discouraged
+ 1264 | WARNING | Variable "address1" contains numbers but this is discouraged
+ 1264 | WARNING | Line exceeds 80 characters; contains 87 characters
+ 1265 | WARNING | Variable "address2Arr" contains numbers but this is discouraged
+ 1265 | WARNING | Variable "address2" contains numbers but this is discouraged
+ 1265 | WARNING | Line exceeds 80 characters; contains 105 characters
+ 1266 | WARNING | Variable "address2Arr" contains numbers but this is discouraged
+ 1266 | WARNING | Variable "address2Arr" contains numbers but this is discouraged
+ 1266 | WARNING | Line exceeds 80 characters; contains 113 characters
+ 1267 | WARNING | Variable "address2Arr" contains numbers but this is discouraged
+ 1267 | WARNING | Variable "address2Arr" contains numbers but this is discouraged
+ 1267 | WARNING | Line exceeds 80 characters; contains 113 characters
+ 1268 | WARNING | Variable "address2Arr" contains numbers but this is discouraged
+ 1268 | WARNING | Variable "address2Arr" contains numbers but this is discouraged
+ 1268 | WARNING | Line exceeds 80 characters; contains 113 characters
+ 1269 | WARNING | Line exceeds 80 characters; contains 83 characters
+ 1270 | ERROR   | Variable "billing_country" is not in valid camel caps format
+ 1270 | WARNING | Line exceeds 80 characters; contains 94 characters
+ 1271 | WARNING | Line exceeds 80 characters; contains 84 characters
+ 1272 | ERROR   | Variable "zip_code" is not in valid camel caps format
+ 1272 | WARNING | Line exceeds 80 characters; contains 87 characters
+ 1277 | ERROR   | Variable "primary_phone" is not in valid camel caps format
+ 1278 | ERROR   | Variable "primary_phone" is not in valid camel caps format
+ 1278 | WARNING | Line exceeds 80 characters; contains 115 characters
+ 1284 | WARNING | Line exceeds 80 characters; contains 107 characters
+ 1290 | WARNING | Line exceeds 80 characters; contains 107 characters
+ 1296 | WARNING | Line exceeds 80 characters; contains 107 characters
+ 1344 | ERROR   | Variable "xero_model" is not in valid camel caps format
+ 1344 | WARNING | Line exceeds 80 characters; contains 116 characters
+ 1345 | WARNING | Line exceeds 80 characters; contains 100 characters
+ 1354 | WARNING | Line exceeds 80 characters; contains 87 characters
+ 1360 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+ 1364 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+ 1386 | ERROR   | Variable "integration_model" is not in valid camel caps format
+ 1386 | ERROR   | Line exceeds maximum limit of 120 characters; contains 157 characters
+ 1390 | WARNING | Line exceeds 80 characters; contains 88 characters
+ 1394 | WARNING | Line exceeds 80 characters; contains 110 characters
+ 1396 | WARNING | Line exceeds 80 characters; contains 81 characters
+ 1397 | WARNING | Line exceeds 80 characters; contains 113 characters
+ 1398 | WARNING | Line exceeds 80 characters; contains 82 characters
+ 1404 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+ 1408 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+ 1412 | WARNING | Line exceeds 80 characters; contains 90 characters
+ 1420 | ERROR   | Variable "integration_model" is not in valid camel caps format
+ 1420 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+ 1420 | WARNING | Line exceeds 80 characters; contains 96 characters
+ 1422 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+ 1435 | WARNING | Line exceeds 80 characters; contains 82 characters
+ 1436 | WARNING | Line exceeds 80 characters; contains 91 characters
+ 1439 | WARNING | Line exceeds 80 characters; contains 110 characters
+ 1442 | WARNING | Line exceeds 80 characters; contains 89 characters
+ 1448 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+ 1452 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+ 1465 | ERROR   | Variable "integration_model" is not in valid camel caps format
+ 1465 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+ 1465 | WARNING | Line exceeds 80 characters; contains 100 characters
+ 1467 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+ 1481 | WARNING | Line exceeds 80 characters; contains 83 characters
+ 1482 | ERROR   | Variable "transaction_id" is not in valid camel caps format
+ 1483 | ERROR   | Variable "stream_subscriber_id" is not in valid camel caps format
+ 1484 | ERROR   | Variable "transaction_model" is not in valid camel caps format
+ 1484 | ERROR   | Line exceeds maximum limit of 120 characters; contains 242 characters
+ 1487 | ERROR   | Variable "integration_model" is not in valid camel caps format
+ 1487 | ERROR   | Variable "stream_subscriber_id" is not in valid camel caps format
+ 1487 | ERROR   | Line exceeds maximum limit of 120 characters; contains 156 characters
+ 1489 | ERROR   | Variable "integration_model" is not in valid camel caps format
+ 1489 | ERROR   | Line exceeds maximum limit of 120 characters; contains 136 characters
+ 1496 | WARNING | Line exceeds 80 characters; contains 98 characters
+ 1497 | ERROR   | Variable "transaction_type" is not in valid camel caps format
+ 1498 | ERROR   | Variable "integration_model" is not in valid camel caps format
+ 1498 | ERROR   | Line exceeds maximum limit of 120 characters; contains 128 characters
+ 1504 | ERROR   | Variable "transaction_amount" is not in valid camel caps format
+ 1504 | WARNING | Line exceeds 80 characters; contains 84 characters
+ 1513 | ERROR   | Variable "base_amount" is not in valid camel caps format
+ 1513 | ERROR   | Variable "discount_amount" is not in valid camel caps format
+ 1513 | ERROR   | Variable "is_amount" is not in valid camel caps format
+ 1513 | ERROR   | Variable "sales_tax_1" is not in valid camel caps format
+ 1513 | ERROR   | Variable "sales_tax_2" is not in valid camel caps format
+ 1513 | ERROR   | Line exceeds maximum limit of 120 characters; contains 198 characters
+ 1515 | WARNING | Line exceeds 80 characters; contains 82 characters
+ 1526 | ERROR   | Variable "stream_subscriber_id" is not in valid camel caps format
+ 1526 | ERROR   | Line exceeds maximum limit of 120 characters; contains 145 characters
+ 1527 | ERROR   | Variable "integration_model" is not in valid camel caps format
+ 1527 | ERROR   | Variable "stream_subscriber_id" is not in valid camel caps format
+ 1527 | ERROR   | Variable "integration_model" is not in valid camel caps format
+ 1527 | ERROR   | Line exceeds maximum limit of 120 characters; contains 235 characters
+ 1534 | ERROR   | Variable "thirdparty_customer_id" is not in valid camel caps format
+ 1535 | WARNING | Line exceeds 80 characters; contains 84 characters
+ 1539 | ERROR   | Variable "transaction_description" is not in valid camel caps format
+ 1541 | ERROR   | Variable "integration_model" is not in valid camel caps format
+ 1541 | ERROR   | Variable "payment_stream_id" is not in valid camel caps format
+ 1541 | ERROR   | Line exceeds maximum limit of 120 characters; contains 128 characters
+ 1552 | WARNING | Line exceeds 80 characters; contains 113 characters
+ 1553 | WARNING | Line exceeds 80 characters; contains 82 characters
+ 1556 | ERROR   | Variable "base_amount" is not in valid camel caps format
+ 1556 | WARNING | Line exceeds 80 characters; contains 110 characters
+ 1557 | ERROR   | Variable "sales_tax_1" is not in valid camel caps format
+ 1557 | WARNING | Line exceeds 80 characters; contains 114 characters
+ 1562 | ERROR   | Variable "item_price" is not in valid camel caps format
+ 1562 | ERROR   | Line exceeds maximum limit of 120 characters; contains 164 characters
+ 1567 | ERROR   | Variable "income_account_reference" is not in valid camel caps format
+ 1567 | ERROR   | Variable "income_account_reference" is not in valid camel caps format
+ 1567 | ERROR   | Line exceeds maximum limit of 120 characters; contains 191 characters
+ 1568 | ERROR   | Variable "item_price" is not in valid camel caps format
+ 1575 | ERROR   | Variable "item_price" is not in valid camel caps format
+ 1579 | WARNING | Line exceeds 80 characters; contains 96 characters
+ 1580 | WARNING | Line exceeds 80 characters; contains 81 characters
+ 1581 | ERROR   | Line exceeds maximum limit of 120 characters; contains 163 characters
+ 1586 | WARNING | Line exceeds 80 characters; contains 117 characters
+ 1587 | WARNING | Line exceeds 80 characters; contains 88 characters
+ 1597 | ERROR   | Line exceeds maximum limit of 120 characters; contains 150 characters
+ 1603 | ERROR   | Variable "transaction_date" is not in valid camel caps format
+ 1603 | WARNING | Line exceeds 80 characters; contains 93 characters
+ 1604 | ERROR   | Variable "transaction_due_date" is not in valid camel caps format
+ 1604 | ERROR   | Variable "transaction_date" is not in valid camel caps format
+ 1604 | ERROR   | Variable "transaction_due_date" is not in valid camel caps format
+ 1604 | ERROR   | Line exceeds maximum limit of 120 characters; contains 200 characters
+ 1610 | ERROR   | Variable "transaction_reference_id" is not in valid camel caps format
+ 1622 | ERROR   | Variable "transaction_amount" is not in valid camel caps format
+ 1629 | ERROR   | Variable "item_model" is not in valid camel caps format
+ 1629 | ERROR   | Variable "discount_item_name" is not in valid camel caps format
+ 1629 | ERROR   | Line exceeds maximum limit of 120 characters; contains 125 characters
+ 1630 | ERROR   | Variable "merchant_id" is not in valid camel caps format
+ 1633 | ERROR   | Variable "merchant_id" is not in valid camel caps format
+ 1634 | ERROR   | Variable "discount_item_name" is not in valid camel caps format
+ 1638 | WARNING | Line exceeds 80 characters; contains 116 characters
+ 1642 | ERROR   | Variable "item_model" is not in valid camel caps format
+ 1664 | WARNING | Line exceeds 80 characters; contains 93 characters
+ 1667 | ERROR   | Variable "transaction_date" is not in valid camel caps format
+ 1667 | WARNING | Line exceeds 80 characters; contains 93 characters
+ 1669 | ERROR   | Variable "transaction_amount" is not in valid camel caps format
+ 1671 | ERROR   | Variable "gateway_transaction_id" is not in valid camel caps format
+ 1671 | ERROR   | Variable "gateway_authorization_code" is not in valid camel caps format
+ 1671 | ERROR   | Line exceeds maximum limit of 120 characters; contains 160 characters
+ 1693 | WARNING | Line exceeds 80 characters; contains 87 characters
+ 1699 | ERROR   | Opening parenthesis of a multi-line function call must be the last content on the line
+ 1703 | ERROR   | Closing parenthesis of a multi-line function call must be on a line by itself
+ 1709 | ERROR   | A closing tag is not permitted at the end of a PHP file
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

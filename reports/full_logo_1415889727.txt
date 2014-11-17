@@ -1,0 +1,160 @@
+FILE: /Applications/MAMP/htdocs/codesniffer/uploads/logo.php
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 146 ERROR(S) AND 9 WARNING(S) AFFECTING 105 LINE(S)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+   3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+   3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+   3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+   3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+   3 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+   9 | ERROR   | Opening brace should be on a new line
+  21 | ERROR   | Opening brace should be on a new line
+  27 | ERROR   | A single space is required on either side of ! and & operators
+  36 | ERROR   | Opening brace should be on a new line
+  45 | ERROR   | Opening brace should be on a new line
+  48 | ERROR   | A single space is required on either side of ! and & operators
+  48 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+  48 | ERROR   | A single space is required on either side of ! and & operators
+  52 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+  54 | ERROR   | A single space is required on either side of ! and & operators
+  56 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+  59 | ERROR   | Variable name $tmpName is not in all lowercase using underscores for word separators
+  60 | ERROR   | Variable name $tmpName is not in all lowercase using underscores for word separators
+  63 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+  63 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+  63 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+  70 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+  72 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+  80 | ERROR   | A single space is required on either side of ! and & operators
+  80 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+  80 | ERROR   | A single space is required on either side of ! and & operators
+  81 | ERROR   | No space is allowed after concatenation operators
+  81 | ERROR   | No space is allowed before concatenation operators
+  82 | ERROR   | No space is allowed after concatenation operators
+  82 | ERROR   | No space is allowed before concatenation operators
+  82 | ERROR   | No space is allowed after concatenation operators
+  82 | ERROR   | No space is allowed before concatenation operators
+  85 | ERROR   | No space is allowed after concatenation operators
+  85 | ERROR   | No space is allowed before concatenation operators
+  85 | ERROR   | No space is allowed after concatenation operators
+  85 | ERROR   | No space is allowed before concatenation operators
+  86 | ERROR   | No space is allowed after concatenation operators
+  86 | ERROR   | No space is allowed before concatenation operators
+  86 | ERROR   | No space is allowed after concatenation operators
+  86 | ERROR   | No space is allowed before concatenation operators
+  87 | ERROR   | No space is allowed after concatenation operators
+  87 | ERROR   | No space is allowed before concatenation operators
+  90 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+  96 | ERROR   | No space is allowed after concatenation operators
+  96 | ERROR   | No space is allowed before concatenation operators
+  98 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 113 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 116 | ERROR   | No space is allowed after concatenation operators
+ 116 | ERROR   | No space is allowed before concatenation operators
+ 118 | ERROR   | No space is allowed after concatenation operators
+ 118 | ERROR   | No space is allowed before concatenation operators
+ 118 | ERROR   | No space is allowed after concatenation operators
+ 118 | ERROR   | No space is allowed before concatenation operators
+ 120 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 121 | ERROR   | Variable name $resizedFile is not in all lowercase using underscores for word separators
+ 123 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 124 | ERROR   | Variable name $resizedFile is not in all lowercase using underscores for word separators
+ 127 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 128 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 151 | ERROR   | Opening brace should be on a new line
+ 166 | ERROR   | No space is allowed after concatenation operators
+ 166 | ERROR   | No space is allowed before concatenation operators
+ 166 | ERROR   | No space is allowed after concatenation operators
+ 166 | ERROR   | No space is allowed before concatenation operators
+ 168 | ERROR   | No space is allowed after concatenation operators
+ 168 | ERROR   | No space is allowed before concatenation operators
+ 170 | ERROR   | No space is allowed after concatenation operators
+ 170 | ERROR   | No space is allowed before concatenation operators
+ 170 | ERROR   | No space is allowed after concatenation operators
+ 170 | ERROR   | No space is allowed before concatenation operators
+ 179 | ERROR   | Code inside case and default blocks should be indented
+ 183 | ERROR   | Code inside case and default blocks should be indented
+ 188 | ERROR   | Code inside case and default blocks should be indented
+ 192 | ERROR   | Code inside case and default blocks should be indented
+ 195 | ERROR   | Code inside case and default blocks should be indented
+ 205 | ERROR   | Code inside case and default blocks should be indented
+ 209 | ERROR   | Code inside case and default blocks should be indented
+ 213 | ERROR   | Code inside case and default blocks should be indented
+ 217 | ERROR   | Code inside case and default blocks should be indented
+ 225 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 228 | ERROR   | No space is allowed after concatenation operators
+ 228 | ERROR   | No space is allowed before concatenation operators
+ 230 | ERROR   | No space is allowed after concatenation operators
+ 230 | ERROR   | No space is allowed before concatenation operators
+ 230 | ERROR   | No space is allowed after concatenation operators
+ 230 | ERROR   | No space is allowed before concatenation operators
+ 232 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 233 | ERROR   | Variable name $resizedFile is not in all lowercase using underscores for word separators
+ 235 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 236 | ERROR   | Variable name $resizedFile is not in all lowercase using underscores for word separators
+ 243 | WARNING | @param tag should have the parameter name
+ 244 | WARNING | @param tag should have the parameter name
+ 245 | WARNING | @param tag should have the parameter name
+ 246 | WARNING | @param tag should have the parameter name
+ 247 | WARNING | @param tag should have the parameter name
+ 248 | WARNING | @param tag should have the parameter name
+ 249 | WARNING | @param tag should have the parameter name
+ 250 | WARNING | @param tag should have the parameter name
+ 251 | WARNING | @param tag should have the parameter name
+ 254 | ERROR   | Opening brace should be on a new line
+ 255 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+ 257 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+ 260 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 261 | ERROR   | Comparisons and operations must be in parentheses in the condition portion of ternary operations
+ 266 | ERROR   | Variable name $cropHeight is not in all lowercase using underscores for word separators
+ 266 | ERROR   | Variable name $cropWidth is not in all lowercase using underscores for word separators
+ 268 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 270 | ERROR   | Single-line if statements should only be used when breaking normal execution
+ 281 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 281 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 282 | ERROR   | Whitespace after an opening parenthesis is only allowed when !, &, or a typecasting operator immediately follows
+ 282 | ERROR   | Whitespace before a closing parenthesis is not allowed
+ 283 | ERROR   | Variable name $widthX is not in all lowercase using underscores for word separators
+ 284 | ERROR   | Variable name $heightX is not in all lowercase using underscores for word separators
+ 286 | ERROR   | Variable name $widthX is not in all lowercase using underscores for word separators
+ 286 | ERROR   | Variable name $heightX is not in all lowercase using underscores for word separators
+ 287 | ERROR   | Variable name $cropWidth is not in all lowercase using underscores for word separators
+ 288 | ERROR   | Variable name $cropHeight is not in all lowercase using underscores for word separators
+ 294 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 294 | ERROR   | Comparisons and operations must be in parentheses in the condition portion of ternary operations
+ 296 | ERROR   | Ternary operation must occur within assignment, echo or return statement
+ 296 | ERROR   | Ternary operator must appear on the same or following line of its condition
+ 297 | ERROR   | Code inside case and default blocks should be indented
+ 298 | ERROR   | Comparisons and operations must be in parentheses in the condition portion of ternary operations
+ 298 | ERROR   | Ternary operation must occur within assignment, echo or return statement
+ 299 | ERROR   | Code inside case and default blocks should be indented
+ 300 | ERROR   | Comparisons and operations must be in parentheses in the condition portion of ternary operations
+ 300 | ERROR   | Ternary operation must occur within assignment, echo or return statement
+ 301 | ERROR   | Code inside case and default blocks should be indented
+ 303 | ERROR   | Code inside case and default blocks should be indented
+ 306 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 308 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+ 312 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+ 324 | ERROR   | Variable name $cropWidth is not in all lowercase using underscores for word separators
+ 324 | ERROR   | Variable name $cropHeight is not in all lowercase using underscores for word separators
+ 324 | ERROR   | Variable name $cropWidth is not in all lowercase using underscores for word separators
+ 324 | ERROR   | Variable name $cropHeight is not in all lowercase using underscores for word separators
+ 327 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 329 | ERROR   | Single-line if statements should only be used when breaking normal execution
+ 330 | ERROR   | No space is allowed after concatenation operators
+ 330 | ERROR   | No space is allowed before concatenation operators
+ 335 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 338 | ERROR   | Code inside case and default blocks should be indented
+ 339 | ERROR   | Code inside case and default blocks should be indented
+ 340 | ERROR   | Code inside case and default blocks should be indented
+ 343 | ERROR   | Code inside case and default blocks should be indented
+ 346 | ERROR   | Code inside case and default blocks should be indented
+ 349 | ERROR   | Code inside case and default blocks should be indented
+ 352 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 355 | ERROR   | Code inside case and default blocks should be indented
+ 357 | ERROR   | Code inside case and default blocks should be indented
+ 359 | ERROR   | Code inside case and default blocks should be indented
+ 360 | ERROR   | Code inside case and default blocks should be indented
+ 363 | ERROR   | Code inside case and default blocks should be indented
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,29 @@
+FILE: .../recurringbilling/trunk/development/application/controllers/authnet.php
+--------------------------------------------------------------------------------
+FOUND 20 ERROR(S) AFFECTING 20 LINE(S)
+--------------------------------------------------------------------------------
+   1 | ERROR | Constants must be uppercase; expected OR but found or
+  19 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+  20 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+  32 | ERROR | Parentheses should not be used in calls to class constructors
+     |       | without parameters
+  46 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+  47 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+  65 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+  87 | ERROR | Construct names should be separated from opening parentheses by
+     |       | a single space
+  89 | ERROR | Code inside case and default blocks should be indented
+  90 | ERROR | Code inside case and default blocks should be indented
+  91 | ERROR | Code inside case and default blocks should be indented
+  94 | ERROR | Code inside case and default blocks should be indented
+  95 | ERROR | Code inside case and default blocks should be indented
+  96 | ERROR | Code inside case and default blocks should be indented
+  99 | ERROR | Code inside case and default blocks should be indented
+ 100 | ERROR | Code inside case and default blocks should be indented
+ 101 | ERROR | Code inside case and default blocks should be indented
+ 104 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+ 113 | ERROR | Parentheses should not be used in calls to class constructors
+     |       | without parameters
+ 134 | ERROR | Parentheses should not be used in calls to class constructors
+     |       | without parameters
+--------------------------------------------------------------------------------

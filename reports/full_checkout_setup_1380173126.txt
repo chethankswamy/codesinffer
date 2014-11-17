@@ -1,0 +1,94 @@
+FILE: /Applications/MAMP/htdocs/codesniffer/uploads/checkout_setup.php
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 89 ERROR(S) AFFECTING 57 LINE(S)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   1 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+   1 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+   1 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+   1 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+   1 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+   1 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+   1 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+   1 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+   1 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+   1 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+   1 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+   1 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+   1 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+   1 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+   1 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+   1 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+   1 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+   1 | ERROR | Constants must be uppercase; expected OR but found or
+   7 | ERROR | Opening brace should be on a new line
+   9 | ERROR | Construct names should be separated from opening parentheses by a single space
+  12 | ERROR | Construct names should be separated from opening parentheses by a single space
+  23 | ERROR | Opening brace should be on a new line
+  43 | ERROR | Opening brace should be on a new line
+  63 | ERROR | Opening brace should be on a new line
+  86 | ERROR | Opening brace should be on a new line
+ 111 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 111 | ERROR | A single space is required on either side of ! and & operators
+ 112 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 114 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 114 | ERROR | A single space is required on either side of ! and & operators
+ 126 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+ 131 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+ 145 | ERROR | Opening brace should be on a new line
+ 147 | ERROR | A single space is required on either side of ! and & operators
+ 147 | ERROR | Comparisons and operations must be in parentheses in the condition portion of ternary operations
+ 148 | ERROR | A single space is required on either side of ! and & operators
+ 148 | ERROR | Comparisons and operations must be in parentheses in the condition portion of ternary operations
+ 149 | ERROR | A single space is required on either side of ! and & operators
+ 149 | ERROR | Comparisons and operations must be in parentheses in the condition portion of ternary operations
+ 150 | ERROR | A single space is required on either side of ! and & operators
+ 150 | ERROR | Comparisons and operations must be in parentheses in the condition portion of ternary operations
+ 151 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 154 | ERROR | A single space is required on either side of ! and & operators
+ 154 | ERROR | Comparisons and operations must be in parentheses in the condition portion of ternary operations
+ 157 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 168 | ERROR | Constants must be uppercase; expected TRUE but found true
+ 183 | ERROR | Constants must be uppercase; expected TRUE but found true
+ 196 | ERROR | Opening brace should be on a new line
+ 205 | ERROR | A single space is required on either side of ! and & operators
+ 205 | ERROR | Comparisons and operations must be in parentheses in the condition portion of ternary operations
+ 217 | ERROR | Opening brace should be on a new line
+ 219 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 254 | ERROR | Opening brace should be on a new line
+ 256 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 257 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 275 | ERROR | A single space is required on either side of ! and & operators
+ 275 | ERROR | Comparisons and operations must be in parentheses in the condition portion of ternary operations
+ 287 | ERROR | Opening brace should be on a new line
+ 290 | ERROR | A single space is required on either side of ! and & operators
+ 290 | ERROR | Comparisons and operations must be in parentheses in the condition portion of ternary operations
+ 292 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 292 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+ 305 | ERROR | Constants must be uppercase; expected TRUE but found true
+ 307 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+ 318 | ERROR | Constants must be uppercase; expected TRUE but found true
+ 331 | ERROR | Opening brace should be on a new line
+ 338 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 373 | ERROR | Opening brace should be on a new line
+ 375 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 403 | ERROR | Opening brace should be on a new line
+ 410 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 423 | ERROR | Opening brace should be on a new line
+ 425 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 425 | ERROR | A single space is required on either side of ! and & operators
+ 428 | ERROR | Single-line if statements should only be used when breaking normal execution
+ 428 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 460 | ERROR | Opening brace should be on a new line
+ 479 | ERROR | Opening brace should be on a new line
+ 483 | ERROR | A single space is required on either side of ! and & operators
+ 495 | ERROR | Opening brace should be on a new line
+ 498 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 498 | ERROR | A single space is required on either side of ! and & operators
+ 526 | ERROR | Opening brace should be on a new line
+ 530 | ERROR | A single space is required on either side of ! and & operators
+ 542 | ERROR | Opening brace should be on a new line
+ 558 | ERROR | Opening brace should be on a new line
+ 578 | ERROR | Opening brace should be on a new line
+ 580 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 580 | ERROR | A single space is required on either side of ! and & operators
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

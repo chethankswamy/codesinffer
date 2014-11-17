@@ -1,0 +1,44 @@
+FILE: /Applications/MAMP/htdocs/codesniffer/uploads/Input.php
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 19 ERROR(S) AND 20 WARNING(S) AFFECTING 35 LINE(S)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   1 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+   1 | ERROR   | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+ 106 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 121 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 130 | ERROR   | Construct names should be separated from opening parentheses by a single space
+ 162 | WARNING | @param tag should have the parameter name
+ 163 | WARNING | @param tag should have the parameter name
+ 164 | WARNING | @param tag should have the parameter name
+ 175 | WARNING | @param tag should have the parameter name
+ 176 | WARNING | @param tag should have the parameter name
+ 177 | WARNING | @param tag should have the parameter name
+ 188 | WARNING | @param tag should have the parameter name
+ 189 | WARNING | @param tag should have the parameter name
+ 190 | WARNING | @param tag should have the parameter name
+ 201 | WARNING | @param tag should have the parameter name
+ 202 | WARNING | @param tag should have the parameter name
+ 203 | WARNING | @param tag should have the parameter name
+ 214 | WARNING | @param tag should have the parameter name
+ 215 | WARNING | @param tag should have the parameter name
+ 216 | WARNING | @param tag should have the parameter name
+ 217 | WARNING | @param tag should have the parameter name
+ 285 | WARNING | @param tag should have the parameter name
+ 286 | WARNING | @param tag should have the parameter name
+ 354 | ERROR   | Single-line comments must begin with "// " (e.g. // My comment)
+ 390 | ERROR   | Code inside case and default blocks should be indented
+ 408 | WARNING | @param tag should have the parameter name
+ 427 | WARNING | @param tag should have the parameter name
+ 467 | ERROR   | Opening brace should be on a new line
+ 477 | ERROR   | Opening brace should be on a new line
+ 486 | ERROR   | Opening brace should be on a new line
+ 497 | ERROR   | Opening brace should be on a new line
+ 500 | ERROR   | A single space is required on either side of ! and & operators
+ 500 | ERROR   | Comparisons and operations must be in parentheses in the condition portion of ternary operations
+ 501 | ERROR   | No space is allowed after concatenation operators
+ 501 | ERROR   | No space is allowed before concatenation operators
+ 512 | ERROR   | Opening brace should be on a new line
+ 515 | ERROR   | Construct names should be separated from opening parentheses by a single space
+ 516 | ERROR   | Construct names should be separated from opening parentheses by a single space
+ 516 | ERROR   | Operators && and || are not allowed, use AND and OR instead
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

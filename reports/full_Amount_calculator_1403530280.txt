@@ -1,0 +1,62 @@
+FILE: /Applications/MAMP/htdocs/codesniffer/uploads/Amount_calculator.php
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 57 ERROR(S) AFFECTING 50 LINE(S)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   1 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+   1 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+  22 | ERROR | Opening brace should be on a new line
+  30 | ERROR | Construct names should be separated from opening parentheses by a single space
+  30 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  36 | ERROR | Construct names should be separated from opening parentheses by a single space
+  39 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+  40 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+  43 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+  47 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+  52 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+  56 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+  58 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+  62 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+  66 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+  72 | ERROR | Construct names should be separated from opening parentheses by a single space
+  78 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 112 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 112 | ERROR | Operators && and || are not allowed, use AND and OR instead
+ 112 | ERROR | Whitespace before a closing parenthesis is not allowed
+ 122 | ERROR | Opening brace should be on a new line
+ 131 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+ 132 | ERROR | Opening brace should be on a new line
+ 136 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 140 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 145 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 154 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+ 157 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 157 | ERROR | Operators && and || are not allowed, use AND and OR instead
+ 162 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 165 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+ 166 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+ 169 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+ 175 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 175 | ERROR | Operators && and || are not allowed, use AND and OR instead
+ 181 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 184 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+ 185 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+ 188 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+ 192 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+ 197 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+ 202 | ERROR | Opening brace should be on a new line
+ 204 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 213 | ERROR | Opening brace should be on a new line
+ 215 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 215 | ERROR | A single space is required on either side of ! and & operators
+ 230 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 235 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 255 | ERROR | Opening brace should be on a new line
+ 260 | ERROR | Opening brace should be on a new line
+ 265 | ERROR | Opening brace should be on a new line
+ 269 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+ 270 | ERROR | Opening brace should be on a new line
+ 274 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+ 275 | ERROR | Opening brace should be on a new line
+ 277 | ERROR | Comparisons and operations must be in parentheses in the condition portion of ternary operations
+ 286 | ERROR | Opening brace should be on a new line
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

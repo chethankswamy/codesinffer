@@ -1,0 +1,88 @@
+FILE: /Applications/MAMP/htdocs/codesniffer/uploads/aecapi.php
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 83 ERROR(S) AFFECTING 43 LINE(S)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   2 | ERROR | Construct names should be separated from opening parentheses by a single space
+   2 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+   2 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+   2 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+   2 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+   2 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+   2 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+   2 | ERROR | A single space is required on either side of ! and & operators
+  41 | ERROR | Opening brace should be on a new line
+  53 | ERROR | Method name "action_testLogin" is not in all lowercase using underscores for word separators
+  53 | ERROR | Opening brace should be on a new line
+  93 | ERROR | Method name "action_loginUser" is not in all lowercase using underscores for word separators
+  93 | ERROR | Opening brace should be on a new line
+ 101 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 101 | ERROR | A single space is required on either side of ! and & operators
+ 105 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 105 | ERROR | Operators && and || are not allowed, use AND and OR instead
+ 108 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 108 | ERROR | Operators && and || are not allowed, use AND and OR instead
+ 108 | ERROR | A single space is required on either side of ! and & operators
+ 112 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 112 | ERROR | A single space is required on either side of ! and & operators
+ 112 | ERROR | Operators && and || are not allowed, use AND and OR instead
+ 112 | ERROR | A single space is required on either side of ! and & operators
+ 135 | ERROR | Method name "action_verifyAccessToken" is not in all lowercase using underscores for word separators
+ 135 | ERROR | Opening brace should be on a new line
+ 150 | ERROR | Opening brace should be on a new line
+ 159 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 159 | ERROR | Operators && and || are not allowed, use AND and OR instead
+ 162 | ERROR | elseif should be used rather than else if
+ 162 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 177 | ERROR | Opening brace should be on a new line
+ 259 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 263 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 263 | ERROR | Operators && and || are not allowed, use AND and OR instead
+ 263 | ERROR | Operators && and || are not allowed, use AND and OR instead
+ 268 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 268 | ERROR | Operators && and || are not allowed, use AND and OR instead
+ 268 | ERROR | Operators && and || are not allowed, use AND and OR instead
+ 268 | ERROR | A single space is required on either side of ! and & operators
+ 273 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 273 | ERROR | Operators && and || are not allowed, use AND and OR instead
+ 274 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 277 | ERROR | Code inside case and default blocks should be indented
+ 277 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 278 | ERROR | Code inside case and default blocks should be indented
+ 279 | ERROR | Code inside case and default blocks should be indented
+ 280 | ERROR | Code inside case and default blocks should be indented
+ 285 | ERROR | Code inside case and default blocks should be indented
+ 286 | ERROR | Code inside case and default blocks should be indented
+ 287 | ERROR | Code inside case and default blocks should be indented
+ 323 | ERROR | Opening brace should be on a new line
+ 323 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+ 336 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 342 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 342 | ERROR | Operators && and || are not allowed, use AND and OR instead
+ 342 | ERROR | A single space is required on either side of ! and & operators
+ 346 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 346 | ERROR | A single space is required on either side of ! and & operators
+ 362 | ERROR | elseif should be used rather than else if
+ 362 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 369 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 387 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 387 | ERROR | A single space is required on either side of ! and & operators
+ 393 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 393 | ERROR | A single space is required on either side of ! and & operators
+ 393 | ERROR | Operators && and || are not allowed, use AND and OR instead
+ 393 | ERROR | Operators && and || are not allowed, use AND and OR instead
+ 398 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 420 | ERROR | Opening brace should be on a new line
+ 424 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 441 | ERROR | Method name "action_testUpload" is not in all lowercase using underscores for word separators
+ 457 | ERROR | Method name "action_setAccessFlag" is not in all lowercase using underscores for word separators
+ 457 | ERROR | Opening brace should be on a new line
+ 463 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 463 | ERROR | Operators && and || are not allowed, use AND and OR instead
+ 483 | ERROR | Method name "action_unLink" is not in all lowercase using underscores for word separators
+ 483 | ERROR | Opening brace should be on a new line
+ 487 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 487 | ERROR | Operators && and || are not allowed, use AND and OR instead
+ 506 | ERROR | Method name "action_checkRegistered" is not in all lowercase using underscores for word separators
+ 506 | ERROR | Opening brace should be on a new line
+ 509 | ERROR | Construct names should be separated from opening parentheses by a single space
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,1015 @@
+FILE: /Applications/MAMP/htdocs/codesniffer/uploads/checkout.php
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 1010 ERROR(S) AFFECTING 506 LINE(S)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    3 | ERROR | Comparisons and operations must be in parentheses in the false value portion of ternary operations
+    9 | ERROR | Variable name $checkoutViews is not in all lowercase using underscores for word separators
+   38 | ERROR | Parentheses should not be used in calls to class constructors without parameters
+   41 | ERROR | Parentheses should not be used in calls to class constructors without parameters
+   51 | ERROR | Parentheses should not be used in calls to class constructors without parameters
+   77 | ERROR | A single space is required on either side of ! and & operators
+  104 | ERROR | Method name "_decryptHashcode" is not in all lowercase using underscores for word separators
+  104 | ERROR | Variable name $hashString is not in all lowercase using underscores for word separators
+  107 | ERROR | Variable name $confSetting is not in all lowercase using underscores for word separators
+  108 | ERROR | Variable name $configKey is not in all lowercase using underscores for word separators
+  108 | ERROR | Variable name $confSetting is not in all lowercase using underscores for word separators
+  109 | ERROR | Variable name $decryptedHash is not in all lowercase using underscores for word separators
+  109 | ERROR | Variable name $hashString is not in all lowercase using underscores for word separators
+  109 | ERROR | Variable name $configKey is not in all lowercase using underscores for word separators
+  110 | ERROR | Variable name $hashList is not in all lowercase using underscores for word separators
+  110 | ERROR | Variable name $decryptedHash is not in all lowercase using underscores for word separators
+  111 | ERROR | Construct names should be separated from opening parentheses by a single space
+  111 | ERROR | Variable name $hashList is not in all lowercase using underscores for word separators
+  112 | ERROR | Variable name $merchantId is not in all lowercase using underscores for word separators
+  112 | ERROR | Variable name $hashList is not in all lowercase using underscores for word separators
+  113 | ERROR | Variable name $streamId is not in all lowercase using underscores for word separators
+  113 | ERROR | Variable name $hashList is not in all lowercase using underscores for word separators
+  116 | ERROR | Construct names should be separated from opening parentheses by a single space
+  116 | ERROR | A single space is required on either side of ! and & operators
+  116 | ERROR | Variable name $merchantId is not in all lowercase using underscores for word separators
+  118 | ERROR | Construct names should be separated from opening parentheses by a single space
+  118 | ERROR | Variable name $hashList is not in all lowercase using underscores for word separators
+  118 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  118 | ERROR | Variable name $hashList is not in all lowercase using underscores for word separators
+  120 | ERROR | Variable name $hashList is not in all lowercase using underscores for word separators
+  124 | ERROR | Variable name $isMerchantExists is not in all lowercase using underscores for word separators
+  124 | ERROR | Variable name $merchantId is not in all lowercase using underscores for word separators
+  125 | ERROR | Construct names should be separated from opening parentheses by a single space
+  125 | ERROR | Variable name $isMerchantExists is not in all lowercase using underscores for word separators
+  128 | ERROR | Construct names should be separated from opening parentheses by a single space
+  128 | ERROR | A single space is required on either side of ! and & operators
+  129 | ERROR | Variable name $checkoutDetails is not in all lowercase using underscores for word separators
+  129 | ERROR | Variable name $hashString is not in all lowercase using underscores for word separators
+  130 | ERROR | Variable name $checkoutDetails is not in all lowercase using underscores for word separators
+  135 | ERROR | Variable name $merchantCheckoutDetails is not in all lowercase using underscores for word separators
+  135 | ERROR | Variable name $merchantId is not in all lowercase using underscores for word separators
+  136 | ERROR | Single-line if statements should only be used when breaking normal execution
+  136 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  136 | ERROR | A single space is required on either side of ! and & operators
+  136 | ERROR | Variable name $merchantCheckoutDetails is not in all lowercase using underscores for word separators
+  136 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  136 | ERROR | Variable name $merchantCheckoutDetails is not in all lowercase using underscores for word separators
+  136 | ERROR | Variable name $hashString is not in all lowercase using underscores for word separators
+  137 | ERROR | Variable name $merchantCheckoutDetails is not in all lowercase using underscores for word separators
+  139 | ERROR | Variable name $merchantCheckoutDetails is not in all lowercase using underscores for word separators
+  141 | ERROR | Variable name $merchantId is not in all lowercase using underscores for word separators
+  142 | ERROR | Variable name $streamId is not in all lowercase using underscores for word separators
+  145 | ERROR | Construct names should be separated from opening parentheses by a single space
+  147 | ERROR | Variable name $merchantExpireInfo is not in all lowercase using underscores for word separators
+  147 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+  148 | ERROR | A single space is required on either side of ! and & operators
+  148 | ERROR | Variable name $merchantExpireInfo is not in all lowercase using underscores for word separators
+  148 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  148 | ERROR | Variable name $merchantExpireInfo is not in all lowercase using underscores for word separators
+  150 | ERROR | Variable name $merchantExpireInfo is not in all lowercase using underscores for word separators
+  154 | ERROR | Single-line if statements should only be used when breaking normal execution
+  154 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  154 | ERROR | Variable name $merchantCheckoutDetails is not in all lowercase using underscores for word separators
+  159 | ERROR | Variable name $isMerchantExists is not in all lowercase using underscores for word separators
+  160 | ERROR | Variable name $isMerchantExists is not in all lowercase using underscores for word separators
+  163 | ERROR | elseif should be used rather than else if
+  163 | ERROR | Variable name $isMerchantExists is not in all lowercase using underscores for word separators
+  190 | ERROR | Method name "_errorPageDisplay" is not in all lowercase using underscores for word separators
+  198 | ERROR | Constants must be uppercase; expected TRUE but found true
+  216 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  218 | ERROR | Single-line if statements should only be used when breaking normal execution
+  218 | ERROR | A single space is required on either side of ! and & operators
+  221 | ERROR | Variable name $streamCheck is not in all lowercase using underscores for word separators
+  224 | ERROR | A single space is required on either side of ! and & operators
+  224 | ERROR | Variable name $streamCheck is not in all lowercase using underscores for word separators
+  224 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  224 | ERROR | Variable name $streamCheck is not in all lowercase using underscores for word separators
+  225 | ERROR | Variable name $streamStatus is not in all lowercase using underscores for word separators
+  225 | ERROR | Variable name $streamCheck is not in all lowercase using underscores for word separators
+  226 | ERROR | Single-line if statements should only be used when breaking normal execution
+  226 | ERROR | Construct names should be separated from opening parentheses by a single space
+  226 | ERROR | Variable name $streamStatus is not in all lowercase using underscores for word separators
+  228 | ERROR | Variable name $streamCheck is not in all lowercase using underscores for word separators
+  230 | ERROR | Variable name $streamCheck is not in all lowercase using underscores for word separators
+  238 | ERROR | A single space is required on either side of ! and & operators
+  264 | ERROR | Variable name $checkoutSteps is not in all lowercase using underscores for word separators
+  266 | ERROR | Single-line if statements should only be used when breaking normal execution
+  266 | ERROR | A single space is required on either side of ! and & operators
+  269 | ERROR | Single-line if statements should only be used when breaking normal execution
+  269 | ERROR | Construct names should be separated from opening parentheses by a single space
+  270 | ERROR | Variable name $checkoutSteps is not in all lowercase using underscores for word separators
+  272 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  275 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+  276 | ERROR | Single-line if statements should only be used when breaking normal execution
+  280 | ERROR | No space is allowed after concatenation operators
+  280 | ERROR | No space is allowed before concatenation operators
+  282 | ERROR | Single-line if statements should only be used when breaking normal execution
+  284 | ERROR | Single-line if statements should only be used when breaking normal execution
+  306 | ERROR | Constants must be uppercase; expected TRUE but found true
+  320 | ERROR | Method name "_generateCheckoutSteps" is not in all lowercase using underscores for word separators
+  324 | ERROR | A single space is required on either side of ! and & operators
+  326 | ERROR | Variable name $checkoutSteps is not in all lowercase using underscores for word separators
+  329 | ERROR | Variable name $checkoutSteps is not in all lowercase using underscores for word separators
+  344 | ERROR | Method name "_getNextStep" is not in all lowercase using underscores for word separators
+  371 | ERROR | Method name "_getPreviousStep" is not in all lowercase using underscores for word separators
+  371 | ERROR | Variable name $currentStep is not in all lowercase using underscores for word separators
+  374 | ERROR | Variable name $currentStep is not in all lowercase using underscores for word separators
+  375 | ERROR | Variable name $streamListView is not in all lowercase using underscores for word separators
+  375 | ERROR | Variable name $nextStep is not in all lowercase using underscores for word separators
+  376 | ERROR | Variable name $nextStep is not in all lowercase using underscores for word separators
+  376 | ERROR | Variable name $currentStep is not in all lowercase using underscores for word separators
+  377 | ERROR | Variable name $streamList is not in all lowercase using underscores for word separators
+  378 | ERROR | Variable name $currentStep is not in all lowercase using underscores for word separators
+  380 | ERROR | Variable name $nextStep is not in all lowercase using underscores for word separators
+  380 | ERROR | Variable name $nextStep is not in all lowercase using underscores for word separators
+  381 | ERROR | Variable name $streamListView is not in all lowercase using underscores for word separators
+  381 | ERROR | Variable name $streamList is not in all lowercase using underscores for word separators
+  382 | ERROR | Variable name $streamListView is not in all lowercase using underscores for word separators
+  384 | ERROR | Variable name $currentStep is not in all lowercase using underscores for word separators
+  384 | ERROR | Variable name $nextStep is not in all lowercase using underscores for word separators
+  384 | ERROR | Variable name $userView is not in all lowercase using underscores for word separators
+  402 | ERROR | A single space is required on either side of ! and & operators
+  402 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  405 | ERROR | Code inside case and default blocks should be indented
+  409 | ERROR | Code inside case and default blocks should be indented
+  411 | ERROR | Code inside case and default blocks should be indented
+  413 | ERROR | Code inside case and default blocks should be indented
+  415 | ERROR | Code inside case and default blocks should be indented
+  417 | ERROR | Code inside case and default blocks should be indented
+  425 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+  435 | ERROR | Method name "_validateStream" is not in all lowercase using underscores for word separators
+  438 | ERROR | Variable name $expectedParams is not in all lowercase using underscores for word separators
+  441 | ERROR | Variable name $streamDetails is not in all lowercase using underscores for word separators
+  443 | ERROR | A single space is required on either side of ! and & operators
+  443 | ERROR | Variable name $streamDetails is not in all lowercase using underscores for word separators
+  444 | ERROR | Construct names should be separated from opening parentheses by a single space
+  444 | ERROR | Variable name $streamDetails is not in all lowercase using underscores for word separators
+  444 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  444 | ERROR | Variable name $streamDetails is not in all lowercase using underscores for word separators
+  447 | ERROR | Variable name $streamDetails is not in all lowercase using underscores for word separators
+  447 | ERROR | Variable name $streamDetails is not in all lowercase using underscores for word separators
+  449 | ERROR | Variable name $streamDetails is not in all lowercase using underscores for word separators
+  449 | ERROR | Variable name $streamDetails is not in all lowercase using underscores for word separators
+  450 | ERROR | Variable name $streamDetails is not in all lowercase using underscores for word separators
+  450 | ERROR | Variable name $streamDetails is not in all lowercase using underscores for word separators
+  451 | ERROR | Variable name $streamDetails is not in all lowercase using underscores for word separators
+  451 | ERROR | Variable name $streamDetails is not in all lowercase using underscores for word separators
+  452 | ERROR | Variable name $streamDetails is not in all lowercase using underscores for word separators
+  452 | ERROR | Variable name $streamDetails is not in all lowercase using underscores for word separators
+  488 | ERROR | Opening brace should be on a new line
+  490 | ERROR | Variable name $checkoutHeaders is not in all lowercase using underscores for word separators
+  491 | ERROR | Variable name $headerInfo is not in all lowercase using underscores for word separators
+  491 | ERROR | Variable name $headerInfo is not in all lowercase using underscores for word separators
+  492 | ERROR | Variable name $checkoutHeaders is not in all lowercase using underscores for word separators
+  493 | ERROR | Construct names should be separated from opening parentheses by a single space
+  494 | ERROR | Each case, break, and default should be on a separate line
+  494 | ERROR | Variable name $headerInfo is not in all lowercase using underscores for word separators
+  495 | ERROR | Each case, break, and default should be on a separate line
+  495 | ERROR | Variable name $headerInfo is not in all lowercase using underscores for word separators
+  496 | ERROR | Code inside case and default blocks should be indented
+  498 | ERROR | Variable name $headerInfo is not in all lowercase using underscores for word separators
+  513 | ERROR | A single space is required on either side of ! and & operators
+  513 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  513 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  514 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  516 | ERROR | Variable name $validUser is not in all lowercase using underscores for word separators
+  516 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  518 | ERROR | Variable name $validUser is not in all lowercase using underscores for word separators
+  519 | ERROR | Variable name $validUser is not in all lowercase using underscores for word separators
+  520 | ERROR | Variable name $userDetails is not in all lowercase using underscores for word separators
+  520 | ERROR | Variable name $validUser is not in all lowercase using underscores for word separators
+  522 | ERROR | Variable name $userDetails is not in all lowercase using underscores for word separators
+  522 | ERROR | Variable name $userDetails is not in all lowercase using underscores for word separators
+  523 | ERROR | Variable name $validUser is not in all lowercase using underscores for word separators
+  524 | ERROR | Variable name $headerInfo is not in all lowercase using underscores for word separators
+  525 | ERROR | Variable name $nextStep is not in all lowercase using underscores for word separators
+  528 | ERROR | Variable name $headerInfo is not in all lowercase using underscores for word separators
+  554 | ERROR | A single space is required on either side of ! and & operators
+  554 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  554 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  555 | ERROR | A single space is required on either side of ! and & operators
+  556 | ERROR | Variable name $validateEmail is not in all lowercase using underscores for word separators
+  558 | ERROR | Variable name $validateEmail is not in all lowercase using underscores for word separators
+  561 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  562 | ERROR | Variable name $customerId is not in all lowercase using underscores for word separators
+  562 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  563 | ERROR | Variable name $customerId is not in all lowercase using underscores for word separators
+  564 | ERROR | Variable name $customerId is not in all lowercase using underscores for word separators
+  565 | ERROR | Variable name $refNumber is not in all lowercase using underscores for word separators
+  566 | ERROR | Variable name $updateData is not in all lowercase using underscores for word separators
+  566 | ERROR | Variable name $refNumber is not in all lowercase using underscores for word separators
+  567 | ERROR | Variable name $customerId is not in all lowercase using underscores for word separators
+  567 | ERROR | Variable name $updateData is not in all lowercase using underscores for word separators
+  568 | ERROR | Variable name $customerId is not in all lowercase using underscores for word separators
+  568 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  570 | ERROR | Variable name $arrEvent is not in all lowercase using underscores for word separators
+  570 | ERROR | Variable name $customerId is not in all lowercase using underscores for word separators
+  571 | ERROR | Variable name $arrEvent is not in all lowercase using underscores for word separators
+  574 | ERROR | Variable name $headerInfo is not in all lowercase using underscores for word separators
+  577 | ERROR | Variable name $headerInfo is not in all lowercase using underscores for word separators
+  598 | ERROR | Method name "_validateUserLogin" is not in all lowercase using underscores for word separators
+  598 | ERROR | Variable name $postData is not in all lowercase using underscores for word separators
+  602 | ERROR | A single space is required on either side of ! and & operators
+  602 | ERROR | Variable name $postData is not in all lowercase using underscores for word separators
+  603 | ERROR | Variable name $postData is not in all lowercase using underscores for word separators
+  603 | ERROR | Variable name $postData is not in all lowercase using underscores for word separators
+  604 | ERROR | Variable name $postData is not in all lowercase using underscores for word separators
+  604 | ERROR | Variable name $postData is not in all lowercase using underscores for word separators
+  605 | ERROR | Variable name $postData is not in all lowercase using underscores for word separators
+  605 | ERROR | Variable name $postData is not in all lowercase using underscores for word separators
+  606 | ERROR | Variable name $postData is not in all lowercase using underscores for word separators
+  606 | ERROR | Variable name $postData is not in all lowercase using underscores for word separators
+  607 | ERROR | Variable name $postData is not in all lowercase using underscores for word separators
+  607 | ERROR | Variable name $postData is not in all lowercase using underscores for word separators
+  608 | ERROR | Variable name $postData is not in all lowercase using underscores for word separators
+  608 | ERROR | Variable name $postData is not in all lowercase using underscores for word separators
+  609 | ERROR | Variable name $postData is not in all lowercase using underscores for word separators
+  609 | ERROR | Variable name $postData is not in all lowercase using underscores for word separators
+  610 | ERROR | Variable name $postData is not in all lowercase using underscores for word separators
+  610 | ERROR | Variable name $postData is not in all lowercase using underscores for word separators
+  613 | ERROR | Variable name $postData is not in all lowercase using underscores for word separators
+  613 | ERROR | Variable name $postData is not in all lowercase using underscores for word separators
+  614 | ERROR | Variable name $postData is not in all lowercase using underscores for word separators
+  614 | ERROR | Variable name $postData is not in all lowercase using underscores for word separators
+  615 | ERROR | Variable name $postData is not in all lowercase using underscores for word separators
+  615 | ERROR | Variable name $postData is not in all lowercase using underscores for word separators
+  616 | ERROR | Variable name $postData is not in all lowercase using underscores for word separators
+  616 | ERROR | Variable name $postData is not in all lowercase using underscores for word separators
+  617 | ERROR | Variable name $postData is not in all lowercase using underscores for word separators
+  617 | ERROR | Variable name $postData is not in all lowercase using underscores for word separators
+  618 | ERROR | Variable name $postData is not in all lowercase using underscores for word separators
+  618 | ERROR | Variable name $postData is not in all lowercase using underscores for word separators
+  619 | ERROR | Variable name $postData is not in all lowercase using underscores for word separators
+  619 | ERROR | Variable name $postData is not in all lowercase using underscores for word separators
+  623 | ERROR | A single space is required on either side of ! and & operators
+  637 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+  652 | ERROR | Method name "_validateConfirmation" is not in all lowercase using underscores for word separators
+  655 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  656 | ERROR | Variable name $customerId is not in all lowercase using underscores for word separators
+  658 | ERROR | Variable name $paymentLink is not in all lowercase using underscores for word separators
+  659 | ERROR | Variable name $isAedCustomer is not in all lowercase using underscores for word separators
+  660 | ERROR | Variable name $customerInfo is not in all lowercase using underscores for word separators
+  661 | ERROR | Variable name $fromPage is not in all lowercase using underscores for word separators
+  662 | ERROR | Variable name $paymentMethod is not in all lowercase using underscores for word separators
+  663 | ERROR | Variable name $accountType is not in all lowercase using underscores for word separators
+  665 | ERROR | Variable name $merchantAchGatewayDetails is not in all lowercase using underscores for word separators
+  665 | ERROR | Variable name $customerId is not in all lowercase using underscores for word separators
+  666 | ERROR | Variable name $customerToken is not in all lowercase using underscores for word separators
+  666 | ERROR | Variable name $customerId is not in all lowercase using underscores for word separators
+  667 | ERROR | Variable name $merchantAchGatewayDetails is not in all lowercase using underscores for word separators
+  668 | ERROR | Variable name $merchantId is not in all lowercase using underscores for word separators
+  668 | ERROR | Variable name $merchantAchGatewayDetails is not in all lowercase using underscores for word separators
+  670 | ERROR | Variable name $customerInfo is not in all lowercase using underscores for word separators
+  670 | ERROR | Variable name $customerId is not in all lowercase using underscores for word separators
+  672 | ERROR | Variable name $objState is not in all lowercase using underscores for word separators
+  672 | ERROR | Parentheses should not be used in calls to class constructors without parameters
+  673 | ERROR | Variable name $stateCode is not in all lowercase using underscores for word separators
+  673 | ERROR | A single space is required on either side of ! and & operators
+  673 | ERROR | Comparisons and operations must be in parentheses in the condition portion of ternary operations
+  673 | ERROR | Variable name $customerInfo is not in all lowercase using underscores for word separators
+  673 | ERROR | Variable name $objState is not in all lowercase using underscores for word separators
+  673 | ERROR | Variable name $customerInfo is not in all lowercase using underscores for word separators
+  676 | ERROR | Variable name $clientDetails is not in all lowercase using underscores for word separators
+  676 | ERROR | Variable name $customerId is not in all lowercase using underscores for word separators
+  676 | ERROR | Variable name $customerInfo is not in all lowercase using underscores for word separators
+  676 | ERROR | Variable name $customerInfo is not in all lowercase using underscores for word separators
+  676 | ERROR | Variable name $customerInfo is not in all lowercase using underscores for word separators
+  676 | ERROR | Variable name $customerInfo is not in all lowercase using underscores for word separators
+  676 | ERROR | Variable name $customerInfo is not in all lowercase using underscores for word separators
+  676 | ERROR | Variable name $customerInfo is not in all lowercase using underscores for word separators
+  676 | ERROR | Variable name $stateCode is not in all lowercase using underscores for word separators
+  676 | ERROR | Variable name $customerInfo is not in all lowercase using underscores for word separators
+  676 | ERROR | Variable name $customerInfo is not in all lowercase using underscores for word separators
+  678 | ERROR | Variable name $merchantAchGatewayDetails is not in all lowercase using underscores for word separators
+  679 | ERROR | Variable name $trailMode is not in all lowercase using underscores for word separators
+  681 | ERROR | Variable name $trailMode is not in all lowercase using underscores for word separators
+  683 | ERROR | Variable name $merchantAchGatewayDetails is not in all lowercase using underscores for word separators
+  683 | ERROR | Variable name $trailMode is not in all lowercase using underscores for word separators
+  684 | ERROR | Variable name $customerToken is not in all lowercase using underscores for word separators
+  685 | ERROR | Variable name $clientToken is not in all lowercase using underscores for word separators
+  685 | ERROR | Variable name $clientDetails is not in all lowercase using underscores for word separators
+  688 | ERROR | Variable name $clientToken is not in all lowercase using underscores for word separators
+  689 | ERROR | Variable name $customerToken is not in all lowercase using underscores for word separators
+  691 | ERROR | Variable name $arrayCustomerToken is not in all lowercase using underscores for word separators
+  691 | ERROR | Variable name $customerId is not in all lowercase using underscores for word separators
+  691 | ERROR | Variable name $clientToken is not in all lowercase using underscores for word separators
+  692 | ERROR | Variable name $customerTokenId is not in all lowercase using underscores for word separators
+  692 | ERROR | Variable name $arrayCustomerToken is not in all lowercase using underscores for word separators
+  693 | ERROR | Variable name $customerToken is not in all lowercase using underscores for word separators
+  695 | ERROR | Variable name $clientToken is not in all lowercase using underscores for word separators
+  696 | ERROR | Variable name $updateCustomerToken is not in all lowercase using underscores for word separators
+  696 | ERROR | Variable name $customerId is not in all lowercase using underscores for word separators
+  698 | ERROR | Variable name $customerTokenDetails is not in all lowercase using underscores for word separators
+  698 | ERROR | Variable name $customerId is not in all lowercase using underscores for word separators
+  699 | ERROR | Variable name $customerToken is not in all lowercase using underscores for word separators
+  699 | ERROR | Variable name $customerTokenDetails is not in all lowercase using underscores for word separators
+  701 | ERROR | Variable name $paymentLink is not in all lowercase using underscores for word separators
+  701 | ERROR | Variable name $customerToken is not in all lowercase using underscores for word separators
+  701 | ERROR | Variable name $customerId is not in all lowercase using underscores for word separators
+  701 | ERROR | Variable name $merchantId is not in all lowercase using underscores for word separators
+  701 | ERROR | Variable name $fromPage is not in all lowercase using underscores for word separators
+  703 | ERROR | Variable name $paymentLinkEcheck is not in all lowercase using underscores for word separators
+  703 | ERROR | Variable name $customerToken is not in all lowercase using underscores for word separators
+  703 | ERROR | Variable name $customerId is not in all lowercase using underscores for word separators
+  703 | ERROR | Variable name $merchantId is not in all lowercase using underscores for word separators
+  703 | ERROR | Variable name $fromPage is not in all lowercase using underscores for word separators
+  704 | ERROR | Variable name $paymentMethod is not in all lowercase using underscores for word separators
+  705 | ERROR | Variable name $paymentLink is not in all lowercase using underscores for word separators
+  705 | ERROR | Variable name $paymentLinkEcheck is not in all lowercase using underscores for word separators
+  708 | ERROR | Variable name $merchantAchGatewayDetails is not in all lowercase using underscores for word separators
+  708 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  708 | ERROR | Variable name $merchantAchGatewayDetails is not in all lowercase using underscores for word separators
+  708 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  708 | ERROR | Variable name $merchantAchGatewayDetails is not in all lowercase using underscores for word separators
+  708 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  708 | ERROR | Variable name $merchantAchGatewayDetails is not in all lowercase using underscores for word separators
+  708 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  708 | ERROR | Variable name $merchantAchGatewayDetails is not in all lowercase using underscores for word separators
+  708 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  708 | ERROR | Variable name $customerToken is not in all lowercase using underscores for word separators
+  708 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  708 | ERROR | Variable name $customerToken is not in all lowercase using underscores for word separators
+  710 | ERROR | Variable name $paymentLink is not in all lowercase using underscores for word separators
+  710 | ERROR | Variable name $customerToken is not in all lowercase using underscores for word separators
+  710 | ERROR | Variable name $customerId is not in all lowercase using underscores for word separators
+  710 | ERROR | Variable name $merchantId is not in all lowercase using underscores for word separators
+  710 | ERROR | Variable name $fromPage is not in all lowercase using underscores for word separators
+  712 | ERROR | Variable name $paymentLinkEcheck is not in all lowercase using underscores for word separators
+  712 | ERROR | Variable name $customerToken is not in all lowercase using underscores for word separators
+  712 | ERROR | Variable name $customerId is not in all lowercase using underscores for word separators
+  712 | ERROR | Variable name $merchantId is not in all lowercase using underscores for word separators
+  712 | ERROR | Variable name $fromPage is not in all lowercase using underscores for word separators
+  713 | ERROR | Variable name $paymentLink is not in all lowercase using underscores for word separators
+  713 | ERROR | Variable name $paymentLinkEcheck is not in all lowercase using underscores for word separators
+  714 | ERROR | Variable name $paymentMethod is not in all lowercase using underscores for word separators
+  716 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  716 | ERROR | Variable name $customerId is not in all lowercase using underscores for word separators
+  717 | ERROR | Variable name $accountType is not in all lowercase using underscores for word separators
+  718 | ERROR | Variable name $accountType is not in all lowercase using underscores for word separators
+  718 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  719 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  719 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  719 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  719 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  719 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  719 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  719 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  719 | ERROR | Variable name $accountType is not in all lowercase using underscores for word separators
+  719 | ERROR | Variable name $isAedCustomer is not in all lowercase using underscores for word separators
+  720 | ERROR | Variable name $paymentMethod is not in all lowercase using underscores for word separators
+  724 | ERROR | Variable name $accountType is not in all lowercase using underscores for word separators
+  724 | ERROR | Variable name $accountType is not in all lowercase using underscores for word separators
+  724 | ERROR | Variable name $customerInfo is not in all lowercase using underscores for word separators
+  724 | ERROR | Variable name $accountType is not in all lowercase using underscores for word separators
+  725 | ERROR | Single-line if statements should only be used when breaking normal execution
+  725 | ERROR | Construct names should be separated from opening parentheses by a single space
+  726 | ERROR | Variable name $nextStep is not in all lowercase using underscores for word separators
+  727 | ERROR | Variable name $paymentInfo is not in all lowercase using underscores for word separators
+  727 | ERROR | Variable name $nextStep is not in all lowercase using underscores for word separators
+  728 | ERROR | Variable name $nextStep is not in all lowercase using underscores for word separators
+  729 | ERROR | Variable name $paymentView is not in all lowercase using underscores for word separators
+  729 | ERROR | Variable name $nextStep is not in all lowercase using underscores for word separators
+  730 | ERROR | Variable name $nextStep is not in all lowercase using underscores for word separators
+  730 | ERROR | Variable name $nextStep is not in all lowercase using underscores for word separators
+  731 | ERROR | Variable name $paymentView is not in all lowercase using underscores for word separators
+  731 | ERROR | Variable name $paymentInfo is not in all lowercase using underscores for word separators
+  732 | ERROR | Variable name $paymentView is not in all lowercase using underscores for word separators
+  733 | ERROR | Variable name $paymentView is not in all lowercase using underscores for word separators
+  733 | ERROR | Variable name $customerInfo is not in all lowercase using underscores for word separators
+  734 | ERROR | Variable name $paymentView is not in all lowercase using underscores for word separators
+  734 | ERROR | Variable name $paymentMethod is not in all lowercase using underscores for word separators
+  735 | ERROR | Variable name $paymentView is not in all lowercase using underscores for word separators
+  735 | ERROR | Variable name $accountType is not in all lowercase using underscores for word separators
+  737 | ERROR | Variable name $nextStep is not in all lowercase using underscores for word separators
+  737 | ERROR | Variable name $paymentView is not in all lowercase using underscores for word separators
+  752 | ERROR | Method name "_validatePaymentMethod" is not in all lowercase using underscores for word separators
+  756 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  757 | ERROR | Single-line if statements should only be used when breaking normal execution
+  758 | ERROR | Variable name $chargeAmount is not in all lowercase using underscores for word separators
+  762 | ERROR | Each case, break, and default should be on a separate line
+  762 | ERROR | Variable name $chargeAmount is not in all lowercase using underscores for word separators
+  763 | ERROR | Each case, break, and default should be on a separate line
+  763 | ERROR | Variable name $chargeAmount is not in all lowercase using underscores for word separators
+  764 | ERROR | Each case, break, and default should be on a separate line
+  765 | ERROR | Code inside case and default blocks should be indented
+  766 | ERROR | Construct names should be separated from opening parentheses by a single space
+  766 | ERROR | A single space is required on either side of ! and & operators
+  767 | ERROR | Construct names should be separated from opening parentheses by a single space
+  782 | ERROR | Opening brace should be on a new line
+  783 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  783 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  785 | ERROR | elseif should be used rather than else if
+  785 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  785 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  794 | ERROR | Opening brace should be on a new line
+  800 | ERROR | No space is allowed after concatenation operators
+  800 | ERROR | No space is allowed before concatenation operators
+  809 | ERROR | No space is allowed after concatenation operators
+  809 | ERROR | No space is allowed before concatenation operators
+  809 | ERROR | No space is allowed after concatenation operators
+  809 | ERROR | No space is allowed before concatenation operators
+  815 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  821 | ERROR | No space is allowed after concatenation operators
+  821 | ERROR | No space is allowed before concatenation operators
+  837 | ERROR | No space is allowed after concatenation operators
+  837 | ERROR | No space is allowed before concatenation operators
+  837 | ERROR | No space is allowed after concatenation operators
+  837 | ERROR | No space is allowed before concatenation operators
+  838 | ERROR | No space is allowed after concatenation operators
+  838 | ERROR | No space is allowed before concatenation operators
+  838 | ERROR | No space is allowed after concatenation operators
+  838 | ERROR | No space is allowed before concatenation operators
+  838 | ERROR | No space is allowed after concatenation operators
+  838 | ERROR | No space is allowed before concatenation operators
+  838 | ERROR | No space is allowed after concatenation operators
+  838 | ERROR | No space is allowed before concatenation operators
+  838 | ERROR | No space is allowed after concatenation operators
+  838 | ERROR | No space is allowed before concatenation operators
+  839 | ERROR | No space is allowed after concatenation operators
+  839 | ERROR | No space is allowed before concatenation operators
+  839 | ERROR | No space is allowed after concatenation operators
+  839 | ERROR | No space is allowed before concatenation operators
+  874 | ERROR | Method name "_createCustomerDetails" is not in all lowercase using underscores for word separators
+  874 | ERROR | Variable name $customersData is not in all lowercase using underscores for word separators
+  877 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  877 | ERROR | A single space is required on either side of ! and & operators
+  878 | ERROR | Variable name $customerId is not in all lowercase using underscores for word separators
+  881 | ERROR | Variable name $customersData is not in all lowercase using underscores for word separators
+  881 | ERROR | Variable name $customerId is not in all lowercase using underscores for word separators
+  882 | ERROR | Variable name $contactInfoData is not in all lowercase using underscores for word separators
+  882 | ERROR | Variable name $customersData is not in all lowercase using underscores for word separators
+  884 | ERROR | Variable name $userDetailsId is not in all lowercase using underscores for word separators
+  884 | ERROR | Variable name $customerId is not in all lowercase using underscores for word separators
+  885 | ERROR | Variable name $userDetailsId is not in all lowercase using underscores for word separators
+  885 | ERROR | Variable name $contactInfoData is not in all lowercase using underscores for word separators
+  887 | ERROR | Variable name $contactInfoData is not in all lowercase using underscores for word separators
+  889 | ERROR | No space is allowed after concatenation operators
+  889 | ERROR | No space is allowed before concatenation operators
+  891 | ERROR | Variable name $customerId is not in all lowercase using underscores for word separators
+  914 | ERROR | Method name "_getCustomerInfoData" is not in all lowercase using underscores for word separators
+  914 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  917 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  917 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  918 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  918 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  919 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  922 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  923 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  923 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  936 | ERROR | Method name "_getCustomerContactInfoData" is not in all lowercase using underscores for word separators
+  936 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  938 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  939 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  940 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  941 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  942 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  943 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  944 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  945 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  946 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  947 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  948 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  949 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  950 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  951 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  952 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  954 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  954 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  955 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  955 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  957 | ERROR | Variable name $customerData is not in all lowercase using underscores for word separators
+  967 | ERROR | Method name "_chargeOnetimePay" is not in all lowercase using underscores for word separators
+  967 | ERROR | Variable name $chargeAmount is not in all lowercase using underscores for word separators
+  967 | ERROR | Variable name $chargeReason is not in all lowercase using underscores for word separators
+  969 | ERROR | Construct names should be separated from opening parentheses by a single space
+  969 | ERROR | A single space is required on either side of ! and & operators
+  969 | ERROR | Constants must be uppercase; expected FALSE but found false
+  970 | ERROR | Variable name $customerId is not in all lowercase using underscores for word separators
+  971 | ERROR | Variable name $chargeReason is not in all lowercase using underscores for word separators
+  971 | ERROR | A single space is required on either side of ! and & operators
+  971 | ERROR | Comparisons and operations must be in parentheses in the condition portion of ternary operations
+  971 | ERROR | Variable name $chargeReason is not in all lowercase using underscores for word separators
+  971 | ERROR | Variable name $chargeReason is not in all lowercase using underscores for word separators
+  973 | ERROR | Variable name $chargeAmount is not in all lowercase using underscores for word separators
+  973 | ERROR | Variable name $chargeAmount is not in all lowercase using underscores for word separators
+  974 | ERROR | Variable name $chargeAmount is not in all lowercase using underscores for word separators
+  974 | ERROR | Variable name $chargeAmount is not in all lowercase using underscores for word separators
+  976 | ERROR | Variable name $customerId is not in all lowercase using underscores for word separators
+  977 | ERROR | Variable name $chargeAmount is not in all lowercase using underscores for word separators
+  977 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  977 | ERROR | Variable name $chargeAmount is not in all lowercase using underscores for word separators
+  979 | ERROR | Variable name $customerTokens is not in all lowercase using underscores for word separators
+  980 | ERROR | Variable name $customerTokens is not in all lowercase using underscores for word separators
+  980 | ERROR | Variable name $customerId is not in all lowercase using underscores for word separators
+  982 | ERROR | Variable name $customerTokens is not in all lowercase using underscores for word separators
+  986 | ERROR | Variable name $customerTokens is not in all lowercase using underscores for word separators
+  986 | ERROR | Operators && and || are not allowed, use AND and OR instead
+  986 | ERROR | Variable name $customerTokens is not in all lowercase using underscores for word separators
+  989 | ERROR | Variable name $merchantId is not in all lowercase using underscores for word separators
+  992 | ERROR | Variable name $arrMerchantTransaction is not in all lowercase using underscores for word separators
+  992 | ERROR | Variable name $merchantId is not in all lowercase using underscores for word separators
+  995 | ERROR | Variable name $merchantAchGatewayDetails is not in all lowercase using underscores for word separators
+  996 | ERROR | Variable name $merchantAchGatewayDetails is not in all lowercase using underscores for word separators
+  996 | ERROR | Variable name $merchantId is not in all lowercase using underscores for word separators
+  997 | ERROR | Variable name $merchantNameNew is not in all lowercase using underscores for word separators
+  997 | ERROR | Variable name $merchantAchGatewayDetails is not in all lowercase using underscores for word separators
+ 1001 | ERROR | Variable name $arrMerchantTransaction is not in all lowercase using underscores for word separators
+ 1002 | ERROR | Variable name $merchantRemainingNoOfTransactions is not in all lowercase using underscores for word separators
+ 1002 | ERROR | Variable name $arrMerchantTransaction is not in all lowercase using underscores for word separators
+ 1003 | ERROR | Variable name $merchantRemainingNoOfTransactions is not in all lowercase using underscores for word separators
+ 1003 | ERROR | Operators && and || are not allowed, use AND and OR instead
+ 1003 | ERROR | Variable name $merchantRemainingNoOfTransactions is not in all lowercase using underscores for word separators
+ 1004 | ERROR | Variable name $notifyWhenPaymentFails is not in all lowercase using underscores for word separators
+ 1006 | ERROR | Variable name $merchantAchGatewayDetails is not in all lowercase using underscores for word separators
+ 1007 | ERROR | Variable name $notifyWhenPaymentFails is not in all lowercase using underscores for word separators
+ 1007 | ERROR | Variable name $merchantAchGatewayDetails is not in all lowercase using underscores for word separators
+ 1008 | ERROR | Variable name $dateFormatStatus is not in all lowercase using underscores for word separators
+ 1008 | ERROR | Variable name $merchantAchGatewayDetails is not in all lowercase using underscores for word separators
+ 1010 | ERROR | Variable name $dateFormatStatus is not in all lowercase using underscores for word separators
+ 1011 | ERROR | Variable name $dateFormat is not in all lowercase using underscores for word separators
+ 1012 | ERROR | Variable name $dateFormatStatus is not in all lowercase using underscores for word separators
+ 1013 | ERROR | Variable name $dateFormat is not in all lowercase using underscores for word separators
+ 1017 | ERROR | A single space is required on either side of ! and & operators
+ 1017 | ERROR | Variable name $merchantAchGatewayDetails is not in all lowercase using underscores for word separators
+ 1020 | ERROR | Variable name $merchantAchGatewayDetails is not in all lowercase using underscores for word separators
+ 1021 | ERROR | Variable name $trailMode is not in all lowercase using underscores for word separators
+ 1023 | ERROR | Variable name $trailMode is not in all lowercase using underscores for word separators
+ 1029 | ERROR | Variable name $merchantAchGatewayDetails is not in all lowercase using underscores for word separators
+ 1029 | ERROR | Variable name $trailMode is not in all lowercase using underscores for word separators
+ 1030 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+ 1031 | ERROR | Variable name $returnArray is not in all lowercase using underscores for word separators
+ 1031 | ERROR | Variable name $merchantAchGatewayDetails is not in all lowercase using underscores for word separators
+ 1031 | ERROR | Variable name $customerTokens is not in all lowercase using underscores for word separators
+ 1031 | ERROR | Variable name $customerId is not in all lowercase using underscores for word separators
+ 1031 | ERROR | Variable name $chargeAmount is not in all lowercase using underscores for word separators
+ 1032 | ERROR | Variable name $paymentMode is not in all lowercase using underscores for word separators
+ 1032 | ERROR | Variable name $returnArray is not in all lowercase using underscores for word separators
+ 1033 | ERROR | Variable name $outputTransaction is not in all lowercase using underscores for word separators
+ 1033 | ERROR | Variable name $returnArray is not in all lowercase using underscores for word separators
+ 1034 | ERROR | Variable name $paymentMethodId is not in all lowercase using underscores for word separators
+ 1034 | ERROR | Variable name $returnArray is not in all lowercase using underscores for word separators
+ 1035 | ERROR | Variable name $paymentMethodId is not in all lowercase using underscores for word separators
+ 1035 | ERROR | Variable name $customerId is not in all lowercase using underscores for word separators
+ 1037 | ERROR | Variable name $dataLog is not in all lowercase using underscores for word separators
+ 1038 | ERROR | Variable name $dataLog is not in all lowercase using underscores for word separators
+ 1038 | ERROR | Variable name $outputTransaction is not in all lowercase using underscores for word separators
+ 1039 | ERROR | Variable name $dataLog is not in all lowercase using underscores for word separators
+ 1039 | ERROR | Variable name $customerId is not in all lowercase using underscores for word separators
+ 1041 | ERROR | Variable name $dataLog is not in all lowercase using underscores for word separators
+ 1043 | ERROR | Variable name $transactionLogId is not in all lowercase using underscores for word separators
+ 1043 | ERROR | Variable name $dataLog is not in all lowercase using underscores for word separators
+ 1045 | ERROR | Variable name $outputTransaction is not in all lowercase using underscores for word separators
+ 1050 | ERROR | Variable name $gatewayResponseType is not in all lowercase using underscores for word separators
+ 1051 | ERROR | Variable name $gatewayResponseDescription is not in all lowercase using underscores for word separators
+ 1052 | ERROR | Variable name $gatewayResponseCode is not in all lowercase using underscores for word separators
+ 1053 | ERROR | Variable name $gatewayTransactionNum is not in all lowercase using underscores for word separators
+ 1054 | ERROR | Variable name $gatewayAuthorizationCode is not in all lowercase using underscores for word separators
+ 1057 | ERROR | Variable name $gatewayResponseType is not in all lowercase using underscores for word separators
+ 1057 | ERROR | Operators && and || are not allowed, use AND and OR instead
+ 1057 | ERROR | Variable name $gatewayResponseCode is not in all lowercase using underscores for word separators
+ 1059 | ERROR | Variable name $transactionDetails is not in all lowercase using underscores for word separators
+ 1059 | ERROR | Variable name $customerId is not in all lowercase using underscores for word separators
+ 1060 | ERROR | Variable name $chargeAmount is not in all lowercase using underscores for word separators
+ 1062 | ERROR | Variable name $gatewayTransactionNum is not in all lowercase using underscores for word separators
+ 1063 | ERROR | Variable name $gatewayAuthorizationCode is not in all lowercase using underscores for word separators
+ 1064 | ERROR | Variable name $gatewayResponseType is not in all lowercase using underscores for word separators
+ 1065 | ERROR | Variable name $gatewayResponseCode is not in all lowercase using underscores for word separators
+ 1066 | ERROR | Variable name $gatewayResponseDescription is not in all lowercase using underscores for word separators
+ 1067 | ERROR | Variable name $paymentMode is not in all lowercase using underscores for word separators
+ 1068 | ERROR | Variable name $paymentMethodId is not in all lowercase using underscores for word separators
+ 1069 | ERROR | Variable name $chargeReason is not in all lowercase using underscores for word separators
+ 1069 | ERROR | Variable name $chargeReason is not in all lowercase using underscores for word separators
+ 1072 | ERROR | Variable name $newTransactionId is not in all lowercase using underscores for word separators
+ 1072 | ERROR | Variable name $transactionDetails is not in all lowercase using underscores for word separators
+ 1074 | ERROR | Variable name $transactionLogResponse is not in all lowercase using underscores for word separators
+ 1074 | ERROR | Variable name $chargeAmount is not in all lowercase using underscores for word separators
+ 1074 | ERROR | No space is allowed after concatenation operators
+ 1074 | ERROR | No space is allowed before concatenation operators
+ 1074 | ERROR | No space is allowed after concatenation operators
+ 1074 | ERROR | No space is allowed before concatenation operators
+ 1074 | ERROR | Variable name $gatewayTransactionNum is not in all lowercase using underscores for word separators
+ 1074 | ERROR | No space is allowed after concatenation operators
+ 1074 | ERROR | No space is allowed before concatenation operators
+ 1074 | ERROR | No space is allowed after concatenation operators
+ 1074 | ERROR | No space is allowed before concatenation operators
+ 1074 | ERROR | Variable name $gatewayAuthorizationCode is not in all lowercase using underscores for word separators
+ 1074 | ERROR | No space is allowed after concatenation operators
+ 1074 | ERROR | No space is allowed before concatenation operators
+ 1074 | ERROR | No space is allowed after concatenation operators
+ 1074 | ERROR | No space is allowed before concatenation operators
+ 1074 | ERROR | Variable name $gatewayResponseType is not in all lowercase using underscores for word separators
+ 1074 | ERROR | No space is allowed after concatenation operators
+ 1074 | ERROR | No space is allowed before concatenation operators
+ 1074 | ERROR | No space is allowed after concatenation operators
+ 1074 | ERROR | No space is allowed before concatenation operators
+ 1074 | ERROR | Variable name $gatewayResponseCode is not in all lowercase using underscores for word separators
+ 1074 | ERROR | No space is allowed after concatenation operators
+ 1074 | ERROR | No space is allowed before concatenation operators
+ 1074 | ERROR | No space is allowed after concatenation operators
+ 1074 | ERROR | No space is allowed before concatenation operators
+ 1074 | ERROR | Variable name $gatewayResponseDescription is not in all lowercase using underscores for word separators
+ 1076 | ERROR | Variable name $customerId is not in all lowercase using underscores for word separators
+ 1076 | ERROR | Operators && and || are not allowed, use AND and OR instead
+ 1076 | ERROR | Variable name $merchantId is not in all lowercase using underscores for word separators
+ 1078 | ERROR | Variable name $arrEvent is not in all lowercase using underscores for word separators
+ 1078 | ERROR | Variable name $customerId is not in all lowercase using underscores for word separators
+ 1078 | ERROR | Variable name $newTransactionId is not in all lowercase using underscores for word separators
+ 1079 | ERROR | Variable name $arrEvent is not in all lowercase using underscores for word separators
+ 1083 | ERROR | Variable name $merchantRemainingNoOfTransactions is not in all lowercase using underscores for word separators
+ 1083 | ERROR | Operators && and || are not allowed, use AND and OR instead
+ 1083 | ERROR | Variable name $merchantRemainingNoOfTransactions is not in all lowercase using underscores for word separators
+ 1084 | ERROR | Variable name $updatedRemainingNoOfTransactions is not in all lowercase using underscores for word separators
+ 1084 | ERROR | Variable name $merchantRemainingNoOfTransactions is not in all lowercase using underscores for word separators
+ 1085 | ERROR | Variable name $updateMerchant is not in all lowercase using underscores for word separators
+ 1085 | ERROR | Variable name $updatedRemainingNoOfTransactions is not in all lowercase using underscores for word separators
+ 1086 | ERROR | Variable name $merchantId is not in all lowercase using underscores for word separators
+ 1086 | ERROR | Variable name $updateMerchant is not in all lowercase using underscores for word separators
+ 1090 | ERROR | Variable name $dateFormat is not in all lowercase using underscores for word separators
+ 1091 | ERROR | Variable name $dateFormat is not in all lowercase using underscores for word separators
+ 1092 | ERROR | Variable name $dateFormat is not in all lowercase using underscores for word separators
+ 1096 | ERROR | Variable name $noteData is not in all lowercase using underscores for word separators
+ 1096 | ERROR | No space is allowed after concatenation operators
+ 1096 | ERROR | No space is allowed before concatenation operators
+ 1096 | ERROR | Variable name $chargeAmount is not in all lowercase using underscores for word separators
+ 1096 | ERROR | No space is allowed after concatenation operators
+ 1096 | ERROR | No space is allowed before concatenation operators
+ 1096 | ERROR | No space is allowed after concatenation operators
+ 1096 | ERROR | No space is allowed before concatenation operators
+ 1096 | ERROR | Variable name $dateFormat is not in all lowercase using underscores for word separators
+ 1096 | ERROR | No space is allowed after concatenation operators
+ 1096 | ERROR | No space is allowed before concatenation operators
+ 1096 | ERROR | No space is allowed after concatenation operators
+ 1096 | ERROR | No space is allowed before concatenation operators
+ 1096 | ERROR | Variable name $chargeReason is not in all lowercase using underscores for word separators
+ 1097 | ERROR | Variable name $arrNote is not in all lowercase using underscores for word separators
+ 1097 | ERROR | Variable name $customerId is not in all lowercase using underscores for word separators
+ 1097 | ERROR | Variable name $noteData is not in all lowercase using underscores for word separators
+ 1098 | ERROR | Variable name $noteId is not in all lowercase using underscores for word separators
+ 1098 | ERROR | Variable name $arrNote is not in all lowercase using underscores for word separators
+ 1100 | ERROR | Variable name $transactionLogResponse is not in all lowercase using underscores for word separators
+ 1100 | ERROR | Variable name $chargeAmount is not in all lowercase using underscores for word separators
+ 1100 | ERROR | No space is allowed after concatenation operators
+ 1100 | ERROR | No space is allowed before concatenation operators
+ 1100 | ERROR | No space is allowed after concatenation operators
+ 1100 | ERROR | No space is allowed before concatenation operators
+ 1100 | ERROR | Variable name $gatewayTransactionNum is not in all lowercase using underscores for word separators
+ 1100 | ERROR | No space is allowed after concatenation operators
+ 1100 | ERROR | No space is allowed before concatenation operators
+ 1100 | ERROR | No space is allowed after concatenation operators
+ 1100 | ERROR | No space is allowed before concatenation operators
+ 1100 | ERROR | Variable name $gatewayAuthorizationCode is not in all lowercase using underscores for word separators
+ 1100 | ERROR | No space is allowed after concatenation operators
+ 1100 | ERROR | No space is allowed before concatenation operators
+ 1100 | ERROR | No space is allowed after concatenation operators
+ 1100 | ERROR | No space is allowed before concatenation operators
+ 1100 | ERROR | Variable name $gatewayResponseType is not in all lowercase using underscores for word separators
+ 1100 | ERROR | No space is allowed after concatenation operators
+ 1100 | ERROR | No space is allowed before concatenation operators
+ 1100 | ERROR | No space is allowed after concatenation operators
+ 1100 | ERROR | No space is allowed before concatenation operators
+ 1100 | ERROR | Variable name $gatewayResponseCode is not in all lowercase using underscores for word separators
+ 1100 | ERROR | No space is allowed after concatenation operators
+ 1100 | ERROR | No space is allowed before concatenation operators
+ 1100 | ERROR | No space is allowed after concatenation operators
+ 1100 | ERROR | No space is allowed before concatenation operators
+ 1100 | ERROR | Variable name $gatewayResponseDescription is not in all lowercase using underscores for word separators
+ 1102 | ERROR | Variable name $dataLogUpdate is not in all lowercase using underscores for word separators
+ 1103 | ERROR | Variable name $dataLogUpdate is not in all lowercase using underscores for word separators
+ 1103 | ERROR | Variable name $newTransactionId is not in all lowercase using underscores for word separators
+ 1104 | ERROR | Variable name $dataLogUpdate is not in all lowercase using underscores for word separators
+ 1104 | ERROR | Variable name $transactionLogResponse is not in all lowercase using underscores for word separators
+ 1106 | ERROR | Variable name $transactionLogId is not in all lowercase using underscores for word separators
+ 1106 | ERROR | Variable name $dataLogUpdate is not in all lowercase using underscores for word separators
+ 1108 | ERROR | Variable name $gatewayTransactionNum is not in all lowercase using underscores for word separators
+ 1108 | ERROR | Variable name $gatewayAuthorizationCode is not in all lowercase using underscores for word separators
+ 1112 | ERROR | Variable name $gatewayResponseType is not in all lowercase using underscores for word separators
+ 1112 | ERROR | Operators && and || are not allowed, use AND and OR instead
+ 1112 | ERROR | Variable name $gatewayResponseType is not in all lowercase using underscores for word separators
+ 1113 | ERROR | Variable name $transactionLogResponse is not in all lowercase using underscores for word separators
+ 1113 | ERROR | Variable name $chargeAmount is not in all lowercase using underscores for word separators
+ 1113 | ERROR | No space is allowed after concatenation operators
+ 1113 | ERROR | No space is allowed before concatenation operators
+ 1113 | ERROR | No space is allowed after concatenation operators
+ 1113 | ERROR | No space is allowed before concatenation operators
+ 1113 | ERROR | Variable name $gatewayTransactionNum is not in all lowercase using underscores for word separators
+ 1113 | ERROR | No space is allowed after concatenation operators
+ 1113 | ERROR | No space is allowed before concatenation operators
+ 1113 | ERROR | No space is allowed after concatenation operators
+ 1113 | ERROR | No space is allowed before concatenation operators
+ 1113 | ERROR | Variable name $gatewayAuthorizationCode is not in all lowercase using underscores for word separators
+ 1113 | ERROR | No space is allowed after concatenation operators
+ 1113 | ERROR | No space is allowed before concatenation operators
+ 1113 | ERROR | No space is allowed after concatenation operators
+ 1113 | ERROR | No space is allowed before concatenation operators
+ 1113 | ERROR | Variable name $gatewayResponseType is not in all lowercase using underscores for word separators
+ 1113 | ERROR | No space is allowed after concatenation operators
+ 1113 | ERROR | No space is allowed before concatenation operators
+ 1113 | ERROR | No space is allowed after concatenation operators
+ 1113 | ERROR | No space is allowed before concatenation operators
+ 1113 | ERROR | Variable name $gatewayResponseCode is not in all lowercase using underscores for word separators
+ 1113 | ERROR | No space is allowed after concatenation operators
+ 1113 | ERROR | No space is allowed before concatenation operators
+ 1113 | ERROR | No space is allowed after concatenation operators
+ 1113 | ERROR | No space is allowed before concatenation operators
+ 1113 | ERROR | Variable name $gatewayResponseDescription is not in all lowercase using underscores for word separators
+ 1115 | ERROR | Variable name $dataLogUpdate is not in all lowercase using underscores for word separators
+ 1117 | ERROR | Variable name $dataLogUpdate is not in all lowercase using underscores for word separators
+ 1117 | ERROR | Variable name $transactionLogResponse is not in all lowercase using underscores for word separators
+ 1118 | ERROR | Variable name $transactionLogId is not in all lowercase using underscores for word separators
+ 1118 | ERROR | Variable name $dataLogUpdate is not in all lowercase using underscores for word separators
+ 1150 | ERROR | Method name "_chargeRecurring" is not in all lowercase using underscores for word separators
+ 1155 | ERROR | Variable name $streamId is not in all lowercase using underscores for word separators
+ 1156 | ERROR | Variable name $salesTax1 is not in all lowercase using underscores for word separators
+ 1157 | ERROR | Variable name $salesTax2 is not in all lowercase using underscores for word separators
+ 1158 | ERROR | Variable name $baseAmount is not in all lowercase using underscores for word separators
+ 1159 | ERROR | Variable name $addedCustomerId is not in all lowercase using underscores for word separators
+ 1160 | ERROR | Variable name $selectedType is not in all lowercase using underscores for word separators
+ 1161 | ERROR | Variable name $skipOptions is not in all lowercase using underscores for word separators
+ 1162 | ERROR | Variable name $numOfPayments is not in all lowercase using underscores for word separators
+ 1163 | ERROR | Variable name $taxId1 is not in all lowercase using underscores for word separators
+ 1164 | ERROR | Variable name $taxId2 is not in all lowercase using underscores for word separators
+ 1165 | ERROR | Variable name $startVar is not in all lowercase using underscores for word separators
+ 1166 | ERROR | Variable name $groupsLib is not in all lowercase using underscores for word separators
+ 1166 | ERROR | Parentheses should not be used in calls to class constructors without parameters
+ 1168 | ERROR | Variable name $startVar is not in all lowercase using underscores for word separators
+ 1169 | ERROR | Variable name $startVar is not in all lowercase using underscores for word separators
+ 1172 | ERROR | Variable name $selectedSendDate is not in all lowercase using underscores for word separators
+ 1172 | ERROR | Variable name $startVar is not in all lowercase using underscores for word separators
+ 1174 | ERROR | Variable name $startTimestamp is not in all lowercase using underscores for word separators
+ 1174 | ERROR | Variable name $selectedSendDate is not in all lowercase using underscores for word separators
+ 1174 | ERROR | Variable name $selectedSendDate is not in all lowercase using underscores for word separators
+ 1174 | ERROR | Variable name $selectedSendDate is not in all lowercase using underscores for word separators
+ 1176 | ERROR | Variable name $startTimestamp is not in all lowercase using underscores for word separators
+ 1176 | ERROR | Variable name $selectedSendDate is not in all lowercase using underscores for word separators
+ 1176 | ERROR | Variable name $selectedSendDate is not in all lowercase using underscores for word separators
+ 1176 | ERROR | Variable name $selectedSendDate is not in all lowercase using underscores for word separators
+ 1178 | ERROR | Variable name $startDate is not in all lowercase using underscores for word separators
+ 1178 | ERROR | Variable name $startTimestamp is not in all lowercase using underscores for word separators
+ 1179 | ERROR | Variable name $streamType is not in all lowercase using underscores for word separators
+ 1180 | ERROR | Variable name $merchantId is not in all lowercase using underscores for word separators
+ 1181 | ERROR | Variable name $selectedCustomersDiscounts is not in all lowercase using underscores for word separators
+ 1182 | ERROR | Variable name $selectedCustomersDiscounttype is not in all lowercase using underscores for word separators
+ 1182 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+ 1183 | ERROR | Variable name $selectedCustomersProrateAmount is not in all lowercase using underscores for word separators
+ 1183 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+ 1184 | ERROR | Variable name $selectedCustomersProrateAmount is not in all lowercase using underscores for word separators
+ 1184 | ERROR | Variable name $selectedCustomersProrateAmount is not in all lowercase using underscores for word separators
+ 1185 | ERROR | Variable name $selectedCustomersProrateDate is not in all lowercase using underscores for word separators
+ 1185 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+ 1187 | ERROR | Variable name $streamType is not in all lowercase using underscores for word separators
+ 1191 | ERROR | Variable name $selectedCustomersDiscounttype is not in all lowercase using underscores for word separators
+ 1192 | ERROR | Variable name $isAmount is not in all lowercase using underscores for word separators
+ 1194 | ERROR | Variable name $isAmount is not in all lowercase using underscores for word separators
+ 1196 | ERROR | Variable name $selectedCustomers is not in all lowercase using underscores for word separators
+ 1197 | ERROR | Variable name $selectedType is not in all lowercase using underscores for word separators
+ 1198 | ERROR | Variable name $selectedCustomers is not in all lowercase using underscores for word separators
+ 1198 | ERROR | Variable name $addedCustomerId is not in all lowercase using underscores for word separators
+ 1209 | ERROR | Variable name $skipOptions is not in all lowercase using underscores for word separators
+ 1210 | ERROR | Variable name $aciveCustsList is not in all lowercase using underscores for word separators
+ 1210 | ERROR | Variable name $streamId is not in all lowercase using underscores for word separators
+ 1211 | ERROR | Variable name $aciveCustsList is not in all lowercase using underscores for word separators
+ 1211 | ERROR | Variable name $aciveCustsList is not in all lowercase using underscores for word separators
+ 1212 | ERROR | Variable name $selectedCustomers is not in all lowercase using underscores for word separators
+ 1212 | ERROR | Variable name $selectedCustomers is not in all lowercase using underscores for word separators
+ 1212 | ERROR | Variable name $aciveCustsList is not in all lowercase using underscores for word separators
+ 1214 | ERROR | Variable name $selectedCustomers is not in all lowercase using underscores for word separators
+ 1214 | ERROR | Variable name $addedCustomerId is not in all lowercase using underscores for word separators
+ 1215 | ERROR | Variable name $customerStreams is not in all lowercase using underscores for word separators
+ 1215 | ERROR | Variable name $streamId is not in all lowercase using underscores for word separators
+ 1216 | ERROR | Variable name $addedCustomerId is not in all lowercase using underscores for word separators
+ 1217 | ERROR | Variable name $baseAmount is not in all lowercase using underscores for word separators
+ 1218 | ERROR | Variable name $taxId1 is not in all lowercase using underscores for word separators
+ 1219 | ERROR | Variable name $taxId2 is not in all lowercase using underscores for word separators
+ 1220 | ERROR | Variable name $salesTax1 is not in all lowercase using underscores for word separators
+ 1221 | ERROR | Variable name $salesTax2 is not in all lowercase using underscores for word separators
+ 1222 | ERROR | Variable name $startDate is not in all lowercase using underscores for word separators
+ 1223 | ERROR | Variable name $startDate is not in all lowercase using underscores for word separators
+ 1224 | ERROR | Variable name $numOfPayments is not in all lowercase using underscores for word separators
+ 1225 | ERROR | Variable name $numOfPayments is not in all lowercase using underscores for word separators
+ 1226 | ERROR | Variable name $selectedCustomersDiscounts is not in all lowercase using underscores for word separators
+ 1227 | ERROR | Variable name $isAmount is not in all lowercase using underscores for word separators
+ 1232 | ERROR | Variable name $insertedId is not in all lowercase using underscores for word separators
+ 1232 | ERROR | Variable name $customerStreams is not in all lowercase using underscores for word separators
+ 1233 | ERROR | Variable name $groupsLib is not in all lowercase using underscores for word separators
+ 1233 | ERROR | Variable name $addedCustomerId is not in all lowercase using underscores for word separators
+ 1235 | ERROR | Variable name $addedCustomerId is not in all lowercase using underscores for word separators
+ 1235 | ERROR | Operators && and || are not allowed, use AND and OR instead
+ 1237 | ERROR | Variable name $arrEvent is not in all lowercase using underscores for word separators
+ 1237 | ERROR | Variable name $addedCustomerId is not in all lowercase using underscores for word separators
+ 1237 | ERROR | Variable name $insertedId is not in all lowercase using underscores for word separators
+ 1238 | ERROR | Variable name $arrEvent is not in all lowercase using underscores for word separators
+ 1241 | ERROR | Variable name $streamItemsArr is not in all lowercase using underscores for word separators
+ 1241 | ERROR | Variable name $streamId is not in all lowercase using underscores for word separators
+ 1242 | ERROR | Variable name $variableFlag is not in all lowercase using underscores for word separators
+ 1243 | ERROR | Variable name $streamItemsArr is not in all lowercase using underscores for word separators
+ 1245 | ERROR | Variable name $streamItemsArr is not in all lowercase using underscores for word separators
+ 1245 | ERROR | Variable name $itemValue is not in all lowercase using underscores for word separators
+ 1246 | ERROR | Variable name $itemValue is not in all lowercase using underscores for word separators
+ 1247 | ERROR | Variable name $variableFlag is not in all lowercase using underscores for word separators
+ 1251 | ERROR | Variable name $streamItemsArr is not in all lowercase using underscores for word separators
+ 1251 | ERROR | Variable name $itemValue is not in all lowercase using underscores for word separators
+ 1252 | ERROR | Variable name $streamItemData is not in all lowercase using underscores for word separators
+ 1252 | ERROR | Variable name $insertedId is not in all lowercase using underscores for word separators
+ 1253 | ERROR | Variable name $itemValue is not in all lowercase using underscores for word separators
+ 1254 | ERROR | Variable name $itemValue is not in all lowercase using underscores for word separators
+ 1255 | ERROR | Variable name $itemValue is not in all lowercase using underscores for word separators
+ 1257 | ERROR | Variable name $streamItemData is not in all lowercase using underscores for word separators
+ 1260 | ERROR | Variable name $selectedCustomersProrateAmount is not in all lowercase using underscores for word separators
+ 1260 | ERROR | Operators && and || are not allowed, use AND and OR instead
+ 1260 | ERROR | Variable name $selectedCustomersProrateDate is not in all lowercase using underscores for word separators
+ 1261 | ERROR | Variable name $selectedCustomersProrateAmountValue is not in all lowercase using underscores for word separators
+ 1261 | ERROR | Variable name $selectedCustomersProrateAmount is not in all lowercase using underscores for word separators
+ 1262 | ERROR | Variable name $prorateDateVal is not in all lowercase using underscores for word separators
+ 1262 | ERROR | Variable name $selectedCustomersProrateDate is not in all lowercase using underscores for word separators
+ 1263 | ERROR | Variable name $proRateDetails is not in all lowercase using underscores for word separators
+ 1263 | ERROR | Variable name $insertedId is not in all lowercase using underscores for word separators
+ 1264 | ERROR | Variable name $selectedCustomersProrateAmountValue is not in all lowercase using underscores for word separators
+ 1265 | ERROR | Variable name $prorateDateVal is not in all lowercase using underscores for word separators
+ 1268 | ERROR | Variable name $ssId is not in all lowercase using underscores for word separators
+ 1268 | ERROR | Variable name $proRateDetails is not in all lowercase using underscores for word separators
+ 1273 | ERROR | Variable name $selectedCustomersDiscounttype is not in all lowercase using underscores for word separators
+ 1274 | ERROR | Variable name $isAmount is not in all lowercase using underscores for word separators
+ 1276 | ERROR | Variable name $isAmount is not in all lowercase using underscores for word separators
+ 1278 | ERROR | Variable name $selectedCustomers is not in all lowercase using underscores for word separators
+ 1279 | ERROR | Variable name $selectedType is not in all lowercase using underscores for word separators
+ 1280 | ERROR | Variable name $selectedCustomers is not in all lowercase using underscores for word separators
+ 1280 | ERROR | Variable name $addedCustomerId is not in all lowercase using underscores for word separators
+ 1282 | ERROR | Variable name $groupCustomers is not in all lowercase using underscores for word separators
+ 1282 | ERROR | Variable name $addedCustomerId is not in all lowercase using underscores for word separators
+ 1283 | ERROR | Variable name $groupCustomers is not in all lowercase using underscores for word separators
+ 1283 | ERROR | Variable name $groupCustomer is not in all lowercase using underscores for word separators
+ 1284 | ERROR | Variable name $groupCustomer is not in all lowercase using underscores for word separators
+ 1285 | ERROR | Variable name $selectedCustomers is not in all lowercase using underscores for word separators
+ 1285 | ERROR | Variable name $groupCustomer is not in all lowercase using underscores for word separators
+ 1290 | ERROR | Variable name $skipOptions is not in all lowercase using underscores for word separators
+ 1291 | ERROR | Variable name $aciveCustsList is not in all lowercase using underscores for word separators
+ 1291 | ERROR | Variable name $streamId is not in all lowercase using underscores for word separators
+ 1292 | ERROR | Variable name $aciveCustsList is not in all lowercase using underscores for word separators
+ 1292 | ERROR | Variable name $aciveCustsList is not in all lowercase using underscores for word separators
+ 1293 | ERROR | Variable name $selectedCustomers is not in all lowercase using underscores for word separators
+ 1293 | ERROR | Variable name $selectedCustomers is not in all lowercase using underscores for word separators
+ 1293 | ERROR | Variable name $aciveCustsList is not in all lowercase using underscores for word separators
+ 1296 | ERROR | Variable name $selectedCustomers is not in all lowercase using underscores for word separators
+ 1296 | ERROR | Variable name $addedCustomerId is not in all lowercase using underscores for word separators
+ 1297 | ERROR | Variable name $customerStreams is not in all lowercase using underscores for word separators
+ 1297 | ERROR | Variable name $streamId is not in all lowercase using underscores for word separators
+ 1298 | ERROR | Variable name $addedCustomerId is not in all lowercase using underscores for word separators
+ 1299 | ERROR | Variable name $baseAmount is not in all lowercase using underscores for word separators
+ 1300 | ERROR | Variable name $taxId1 is not in all lowercase using underscores for word separators
+ 1301 | ERROR | Variable name $taxId2 is not in all lowercase using underscores for word separators
+ 1302 | ERROR | Variable name $salesTax1 is not in all lowercase using underscores for word separators
+ 1303 | ERROR | Variable name $salesTax2 is not in all lowercase using underscores for word separators
+ 1304 | ERROR | Variable name $startDate is not in all lowercase using underscores for word separators
+ 1305 | ERROR | Variable name $startDate is not in all lowercase using underscores for word separators
+ 1308 | ERROR | Variable name $selectedCustomersDiscounts is not in all lowercase using underscores for word separators
+ 1309 | ERROR | Variable name $isAmount is not in all lowercase using underscores for word separators
+ 1315 | ERROR | Variable name $insertedId is not in all lowercase using underscores for word separators
+ 1315 | ERROR | Variable name $customerStreams is not in all lowercase using underscores for word separators
+ 1316 | ERROR | Variable name $groupsLib is not in all lowercase using underscores for word separators
+ 1316 | ERROR | Variable name $addedCustomerId is not in all lowercase using underscores for word separators
+ 1317 | ERROR | Variable name $addedCustomerId is not in all lowercase using underscores for word separators
+ 1317 | ERROR | Operators && and || are not allowed, use AND and OR instead
+ 1319 | ERROR | Variable name $arrEvent is not in all lowercase using underscores for word separators
+ 1319 | ERROR | Variable name $addedCustomerId is not in all lowercase using underscores for word separators
+ 1319 | ERROR | Variable name $insertedId is not in all lowercase using underscores for word separators
+ 1320 | ERROR | Variable name $arrEvent is not in all lowercase using underscores for word separators
+ 1324 | ERROR | Variable name $streamItemsArr is not in all lowercase using underscores for word separators
+ 1324 | ERROR | Variable name $streamId is not in all lowercase using underscores for word separators
+ 1325 | ERROR | Variable name $streamItemsArr is not in all lowercase using underscores for word separators
+ 1325 | ERROR | Variable name $itemValue is not in all lowercase using underscores for word separators
+ 1326 | ERROR | Variable name $streamItemData is not in all lowercase using underscores for word separators
+ 1326 | ERROR | Variable name $insertedId is not in all lowercase using underscores for word separators
+ 1327 | ERROR | Variable name $itemValue is not in all lowercase using underscores for word separators
+ 1328 | ERROR | Variable name $itemValue is not in all lowercase using underscores for word separators
+ 1329 | ERROR | Variable name $itemValue is not in all lowercase using underscores for word separators
+ 1331 | ERROR | Variable name $streamItemData is not in all lowercase using underscores for word separators
+ 1334 | ERROR | Variable name $addedCustomerId is not in all lowercase using underscores for word separators
+ 1334 | ERROR | Operators && and || are not allowed, use AND and OR instead
+ 1336 | ERROR | Variable name $arrEvent is not in all lowercase using underscores for word separators
+ 1336 | ERROR | Variable name $addedCustomerId is not in all lowercase using underscores for word separators
+ 1336 | ERROR | Variable name $insertedId is not in all lowercase using underscores for word separators
+ 1337 | ERROR | Variable name $arrEvent is not in all lowercase using underscores for word separators
+ 1342 | ERROR | Variable name $selectedCustomers is not in all lowercase using underscores for word separators
+ 1342 | ERROR | Variable name $selectedCustomers is not in all lowercase using underscores for word separators
+ 1357 | ERROR | Method name "_fetchMerchantPaymentCount" is not in all lowercase using underscores for word separators
+ 1357 | ERROR | Variable name $streamId is not in all lowercase using underscores for word separators
+ 1357 | ERROR | Opening brace should be on a new line
+ 1359 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 1359 | ERROR | Operators && and || are not allowed, use AND and OR instead
+ 1360 | ERROR | Variable name $streamId is not in all lowercase using underscores for word separators
+ 1361 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 1370 | ERROR | Method name "_getNextPageContent" is not in all lowercase using underscores for word separators
+ 1370 | ERROR | Variable name $nextPage is not in all lowercase using underscores for word separators
+ 1370 | ERROR | Opening brace should be on a new line
+ 1372 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 1372 | ERROR | A single space is required on either side of ! and & operators
+ 1372 | ERROR | Variable name $nextPage is not in all lowercase using underscores for word separators
+ 1373 | ERROR | Construct names should be separated from opening parentheses by a single space
+ 1373 | ERROR | Variable name $nextPage is not in all lowercase using underscores for word separators
+ 1374 | ERROR | Variable name $billingInfo is not in all lowercase using underscores for word separators
+ 1375 | ERROR | Code inside case and default blocks should be indented
+ 1375 | ERROR | Variable name $shippingInfo is not in all lowercase using underscores for word separators
+ 1376 | ERROR | Code inside case and default blocks should be indented
+ 1376 | ERROR | Variable name $userInfoDetails is not in all lowercase using underscores for word separators
+ 1377 | ERROR | Code inside case and default blocks should be indented
+ 1377 | ERROR | Variable name $userInfoDetails is not in all lowercase using underscores for word separators
+ 1378 | ERROR | Code inside case and default blocks should be indented
+ 1379 | ERROR | Each case, break, and default should be on a separate line
+ 1379 | ERROR | Variable name $userInfo is not in all lowercase using underscores for word separators
+ 1380 | ERROR | Each case, break, and default should be on a separate line
+ 1380 | ERROR | Variable name $billingInfo is not in all lowercase using underscores for word separators
+ 1381 | ERROR | Each case, break, and default should be on a separate line
+ 1381 | ERROR | Variable name $shippingInfo is not in all lowercase using underscores for word separators
+ 1382 | ERROR | Code inside case and default blocks should be indented
+ 1382 | ERROR | Code inside case and default blocks should be indented
+ 1383 | ERROR | Code inside case and default blocks should be indented
+ 1384 | ERROR | Code inside case and default blocks should be indented
+ 1385 | ERROR | Code inside case and default blocks should be indented
+ 1385 | ERROR | Variable name $userView is not in all lowercase using underscores for word separators
+ 1386 | ERROR | Code inside case and default blocks should be indented
+ 1386 | ERROR | Variable name $nextStep is not in all lowercase using underscores for word separators
+ 1386 | ERROR | Variable name $nextPage is not in all lowercase using underscores for word separators
+ 1387 | ERROR | Code inside case and default blocks should be indented
+ 1387 | ERROR | Variable name $userView is not in all lowercase using underscores for word separators
+ 1387 | ERROR | Variable name $userInfo is not in all lowercase using underscores for word separators
+ 1388 | ERROR | Code inside case and default blocks should be indented
+ 1388 | ERROR | Variable name $userView is not in all lowercase using underscores for word separators
+ 1388 | ERROR | Variable name $billingInfo is not in all lowercase using underscores for word separators
+ 1389 | ERROR | Code inside case and default blocks should be indented
+ 1389 | ERROR | Variable name $userView is not in all lowercase using underscores for word separators
+ 1389 | ERROR | Variable name $shippingInfo is not in all lowercase using underscores for word separators
+ 1390 | ERROR | Code inside case and default blocks should be indented
+ 1390 | ERROR | Variable name $userView is not in all lowercase using underscores for word separators
+ 1391 | ERROR | Code inside case and default blocks should be indented
+ 1391 | ERROR | Variable name $nextPage is not in all lowercase using underscores for word separators
+ 1391 | ERROR | Variable name $nextStep is not in all lowercase using underscores for word separators
+ 1391 | ERROR | Variable name $userView is not in all lowercase using underscores for word separators
+ 1395 | ERROR | Code inside case and default blocks should be indented
+ 1395 | ERROR | Variable name $nextPage is not in all lowercase using underscores for word separators
+ 1396 | ERROR | Code inside case and default blocks should be indented
+ 1396 | ERROR | Variable name $confirmView is not in all lowercase using underscores for word separators
+ 1396 | ERROR | Variable name $nextPage is not in all lowercase using underscores for word separators
+ 1397 | ERROR | Code inside case and default blocks should be indented
+ 1397 | ERROR | Variable name $confirmView is not in all lowercase using underscores for word separators
+ 1398 | ERROR | Code inside case and default blocks should be indented
+ 1398 | ERROR | Variable name $confirmView is not in all lowercase using underscores for word separators
+ 1399 | ERROR | Code inside case and default blocks should be indented
+ 1399 | ERROR | Variable name $nextStep is not in all lowercase using underscores for word separators
+ 1399 | ERROR | Variable name $nextStep is not in all lowercase using underscores for word separators
+ 1400 | ERROR | Code inside case and default blocks should be indented
+ 1400 | ERROR | Variable name $nextPage is not in all lowercase using underscores for word separators
+ 1400 | ERROR | Variable name $nextStep is not in all lowercase using underscores for word separators
+ 1400 | ERROR | Variable name $confirmView is not in all lowercase using underscores for word separators
+ 1404 | ERROR | Code inside case and default blocks should be indented
+ 1406 | ERROR | Variable name $nextStep is not in all lowercase using underscores for word separators
+ 1406 | ERROR | Variable name $nextPage is not in all lowercase using underscores for word separators
+ 1406 | ERROR | Variable name $nextPage is not in all lowercase using underscores for word separators
+ 1407 | ERROR | Code inside case and default blocks should be indented
+ 1407 | ERROR | Variable name $nextStep is not in all lowercase using underscores for word separators
+ 1408 | ERROR | Code inside case and default blocks should be indented
+ 1408 | ERROR | Variable name $nextStep is not in all lowercase using underscores for word separators
+ 1409 | ERROR | Code inside case and default blocks should be indented
+ 1409 | ERROR | Variable name $acknowledgeView is not in all lowercase using underscores for word separators
+ 1409 | ERROR | Variable name $nextStep is not in all lowercase using underscores for word separators
+ 1410 | ERROR | Code inside case and default blocks should be indented
+ 1410 | ERROR | Variable name $nextStep is not in all lowercase using underscores for word separators
+ 1410 | ERROR | Single-line comments must begin with "// " (e.g. // My comment)
+ 1411 | ERROR | Code inside case and default blocks should be indented
+ 1411 | ERROR | Variable name $acknowledgeView is not in all lowercase using underscores for word separators
+ 1412 | ERROR | Code inside case and default blocks should be indented
+ 1412 | ERROR | Variable name $acknowledgeView is not in all lowercase using underscores for word separators
+ 1413 | ERROR | Code inside case and default blocks should be indented
+ 1413 | ERROR | Variable name $nextPage is not in all lowercase using underscores for word separators
+ 1413 | ERROR | Variable name $nextStep is not in all lowercase using underscores for word separators
+ 1413 | ERROR | Variable name $confirmView is not in all lowercase using underscores for word separators
+ 1417 | ERROR | Code inside case and default blocks should be indented
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
